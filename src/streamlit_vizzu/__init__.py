@@ -19,7 +19,6 @@ _component_func = components.declare_component(
 class VizzuChart(Chart):
     def __init__(
         self,
-        # chart: Chart,
         width: int = 800,
         height: int = 480,
         key: Optional[str] = None,
