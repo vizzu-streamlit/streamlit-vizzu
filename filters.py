@@ -4,7 +4,7 @@ from ipyvizzu.animation import Config, Data, Style
 
 from streamlit_vizzu import VizzuChart as Chart
 
-data_frame = pd.read_csv("sales.csv")
+data_frame = pd.read_csv("pages/sales.csv")
 data = Data()
 data.add_data_frame(data_frame)
 
