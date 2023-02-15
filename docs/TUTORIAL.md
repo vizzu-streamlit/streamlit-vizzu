@@ -101,13 +101,15 @@ do something like this:
 ```python
 data = chart.show()
 
-if data is not None and "marker" in data:
-    st.write("Value of clicked bar:", data["marker"]["values"]["b"])
+if data is not none and "marker" in data:
+    st.write("value of clicked bar:", data["marker"]["values"]["b"])
 ```
 
 You should then see something like the following after you click on a bar:
 
     Value of clicked bar: 2
+
+You can see the result of this tutorial by visiting https://st-vizzu.streamlit.app/tutorial
 
 ## Next steps
 

@@ -130,3 +130,44 @@ You can also pass `default_duration` to specify a default duration (in seconds) 
 should be used for all animations that occur in a chart.
 
 For more details about animations, see https://ipyvizzu.vizzuhq.com/tutorial/01_15_animation_options.html
+
+## How to get the value of the last item clicked on the chart
+
+There are 3 different ways to access the latest item clicked:
+
+1.  Get the return value of chart.show(), which is a dictionary containing \
+    information about the last item clicked
+
+    ```python
+    data = chart.show()
+
+    st.write(data)
+    ```
+
+2.  Alternatively, you can get the data from the chart itself
+
+    ```python
+    marker = chart["marker"]
+    ```
+
+    Note that this will raise an exception if the chart hasn't been
+    clicked, or if you've clicked on something besides a marker
+
+    To avoid these exceptions, you can use the `get` method on the chart,
+    which accepts a dotted string for accessing nested values
+    from the dictionary, and returns the default value (`None` by default) if this value isn't found
+
+    ```python
+    dog = chart.get("marker.categories.dog", default="Collie")
+    ```
+
+3.  `st.session_state`
+
+    The values from #2 are both just syntactic sugar around the
+    component value in streamlit session_state, so you can also
+    use that directly
+
+    ```python
+    Chart(key="my_chart") # default key is "vizzu"
+    val = st.session_state["my_chart"]
+    ```
