@@ -4,10 +4,8 @@ from ipyvizzu.animation import Config, Data
 
 from streamlit_vizzu import VizzuChart as Chart
 
-# from ipyvizzu.chart import Chart
 
-
-@st.experimental_memo
+@st.cache_data
 def get_data() -> pd.DataFrame:
     return pd.read_csv(
         "https://raw.githubusercontent.com/vizzuhq/vizzu-workshops/main/2022-11-11-PyData-NYC/data/trump_2020_05.csv"
@@ -21,26 +19,6 @@ data.add_data_frame(get_data())
 vchart = Chart(height=360, return_clicks=False)
 
 vchart.animate(data)
-
-_ = """
-chart.animate(
-    Data.filter(None),
-    Config(
-        {
-            "channels": {
-                "y": {
-                    "set": ["tweets"],
-                },
-                "x": {"set": ["Period", "year", "month"]},
-                "color": "Period",
-            },
-        }
-    ),
-    duration=0,
-)
-"""
-
-# vchart = VizzuChart(chart, key="vizzu", return_clicks=False)
 
 if "slide_num" not in st.session_state:
     try:

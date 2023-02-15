@@ -13,8 +13,6 @@ chart = Chart()
 chart.animate(data)
 chart.feature("tooltip", True)
 
-# vchart = VizzuChart(chart, key="vizzu", height=380)
-
 items: list[str] = st.multiselect(
     "Products",
     ["Shoes", "Handbags", "Gloves", "Accessories"],

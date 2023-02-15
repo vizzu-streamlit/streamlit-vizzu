@@ -99,7 +99,7 @@ class VizzuChart(Chart):
             for sub_key in dotted_key.split("."):
                 val = val[sub_key]
             return val
-        except (KeyError, ValueError):
+        except (KeyError, TypeError):
             return default
 
     def _get_script(self) -> str:
