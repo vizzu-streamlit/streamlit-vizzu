@@ -38,3 +38,8 @@ else:
     )
 
 chart.show()
+
+chart.animate(
+    Data.filter(),
+    Config({"x": "a", "y": "b", "title": "Look at my plot! Click!", "color": None}),
+)
