@@ -109,7 +109,7 @@ You should then see something like the following after you click on a bar:
 
     Value of clicked bar: 2
 
-You can see the result of this tutorial by visiting https://blackary-streamlit-vizzu-official-example-appfilters-add-1o9jmd.streamlit.app/tutorial
+You can see the result of this tutorial by visiting https://blackary-streamlit-vizzu-official-filters-add-component-djfzc5.streamlit.app/
 
 ## Next steps
 

@@ -6,7 +6,7 @@ animations. This package builds on the excellent
 code to allow you to interact with an ipyvizzu chart within a streamlit app without
 the chart being redrawn on every interaction.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blackary-streamlit-vizzu-official-example-appfilters-add-1o9jmd.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blackary-streamlit-vizzu-official-filters-add-component-djfzc5.streamlit.app/)
 
 ## Installation instructions
 
