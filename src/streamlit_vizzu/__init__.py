@@ -1,8 +1,9 @@
+from __future__ import annotations
+
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any
 
 import streamlit.components.v1 as components
-from bs4 import BeautifulSoup
 from ipyvizzu.animation import Animation
 from ipyvizzu.chart import Chart
 from ipyvizzu.method import Animate
@@ -19,9 +20,9 @@ _component_func = components.declare_component(
 class VizzuChart(Chart):
     def __init__(
         self,
-        width: int = 800,
+        width: int = 700,
         height: int = 480,
-        key: Optional[str] = None,
+        key: str | None = None,
         return_clicks: bool = True,
     ):
         self.key = key or "vizzu"
@@ -30,26 +31,21 @@ class VizzuChart(Chart):
         self.animations: list[str] = []
         self.return_clicks = return_clicks
         self.height = height
+        self.chart_height = height - 20
 
         super().__init__(
-            width=f"{width}px", height=f"{height}px", display=DisplayTarget.MANUAL
+            width=f"{width}px",
+            height=f"{self.chart_height}px",
+            display=DisplayTarget.MANUAL,
         )
 
+        self._chart_id
+
     def show(self):
-        html = self._repr_html_()
-        soup = BeautifulSoup(html, "html.parser")
-        raw_div_id: str = soup.find("div").get("id")  # type: ignore
-        script = soup.find("script").get_text()  # type: ignore
-        script += "\n".join(self.animations)
-        raw_chart_id = self._chart_id
-
-        script = script.replace(raw_div_id, self.div_id)
-        script = script.replace(raw_chart_id, self.chart_id)
-
         component_value = _component_func(
             div_id=self.div_id,
             chart_id=self.chart_id,
-            script=script,
+            script=self._get_script(),
             return_clicks=self.return_clicks,
             key=self.key,
             height=self.height,
@@ -57,16 +53,23 @@ class VizzuChart(Chart):
 
         return component_value
 
-    def _repr_html_(self) -> str:
-        html_id = self.chart_id
+    def _get_script(self) -> str:
         script = (
             self._calls[0]
             + "\n"
             + "\n".join(self._calls[1:]).replace(
-                "element", f'document.getElementById("{html_id}")'
+                "element", f'document.getElementById("{self.div_id}")'
             )
         )
-        return f'<div id="{html_id}"><script>{script}</script></div>'
+        script += "\n".join(self.animations)
+        raw_chart_id = self._chart_id
+
+        script = script.replace(raw_chart_id, self.chart_id)
+
+        return script
+
+    def _repr_html_(self) -> str:
+        return f'<div id="{self.chart_id}"><script>{self._get_script()}</script></div>'
 
     def animation_to_js(self, *animations: Animation, **options: Any):
         animation = self._merge_animations(animations)

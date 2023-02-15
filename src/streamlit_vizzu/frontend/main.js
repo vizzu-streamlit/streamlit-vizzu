@@ -30,7 +30,6 @@ function onRender(event) {
   if (!window.rendered) {
     const root = document.getElementById("root")
 
-
     const element = document.createElement("div")
     element.id = div_id
 

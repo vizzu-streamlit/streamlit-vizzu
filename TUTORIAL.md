@@ -10,41 +10,29 @@ pip install streamlit-vizzu
 
 ## Create your first chart
 
+To create a streamlit-vizzu chart, you will need, at minimum, some data to
+display, and some configuration to tell Vizzu how to display it.
+
 Create a file called `streamlit_app.py` with the following content
 
 ```python
-from ipyvizzu.chart import Chart
+import pandas as pd
+from ipyvizzu.animation import Config, Data
+
 from streamlit_vizzu import VizzuChart
 
-chart = Chart(display="manual")
+# Create a VizzuChart object with the default height and width
+chart = VizzuChart()
 
-vchart = VizzuChart(chart)
-
-
-import pandas as pd
-from ipyvizzu import Chart, Data, Config, Style
-
-data_frame = pd.read_csv(
-    "https://raw.githubusercontent.com/vizzuhq/ipyvizzu/gh-pages/docs/data/chart_types_eu.csv",
-)
+# Generate some data and add it to the chart
+df = pd.DataFrame({"a": ["x", "y", "z"], "b": [1, 2, 3]})
 data = Data()
-data.add_data_frame(data_frame)
-
-chart = Chart()
+data.add_data_frame(df)
 chart.animate(data)
 
-chart.animate(
-    Config.column({"x": "Joy factors", "y": "Value 2 (+)", "title": "Column Chart"}),
-    Style(
-        {
-            "plot": {
-                "paddingLeft": "8em",
-                "yAxis": {"label": {"paddingRight": "0.8em"}},
-                "xAxis": {"label": {"paddingTop": "0.8em"}},
-            }
-        }
-    ),
-)
+# Add some configuration to tell Vizzu how to display the data
+chart.animate(Config({"x": "a", "y": "b", "title": "Look at my plot!"}))
 
-VizzuChart(chart).show()
+# Show the chart in the app!
+chart.show()
 ```
