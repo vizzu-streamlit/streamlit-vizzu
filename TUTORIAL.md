@@ -126,7 +126,107 @@ this can be accomplished by:
 1. Add filters to the data that depend on the latest object clicked
 2. Saving the latest click in the streamlit session state
 
-To make a more interesting example, let's update the underlying data for our app
+To make a more interesting example, update the underlying data for your app
+
+```python
+df = pd.DataFrame(
+    {
+        "a": ["x", "y", "z", "x", "y", "z"],
+        "b": [1, 2, 3, 4, 5, 6],
+        "c": ["A", "A", "B", "B", "C", "D"],
+    }
+)
+```
+
+This gives you a third axis that you can use to look at your data, for a particular
+value of "a" and "b".
+
+You should pass `rerun_on_click=True` to VizzuChart to
+force the streamlit app to rerun every time the chart is clicked.
+
+Finally, you can also get the "a" value of the last chart click using the `get` method of the chart, using `.` to access nested values.
+If you haven't yet clicked on the chart, or have clicked on something other
+than a bar representing an "a" value, this will return None
+
+```python
+# This is equivalent to chart["marker"]["categories"]["a"], but won't raise an exception if the nested value isn't found.
+bar_clicked = chart.get("marker.categories.a")
+```
+
+Finally, you can use the value of the last bar clicked to filter your chart
+to show the different "b" and "c" values associated with that value of "a".
+
+```python
+if bar_clicked is None:
+    chart.animate(Data.filter())
+    chart.animate(
+        Config({"x": "a", "y": "b", "title": "Look at my plot! Click!", "color": None}),
+    )
+else:
+    chart.animate(Data.filter(f"record['a'] == '{bar_clicked}'"))
+    chart.animate(
+        Config(
+            {
+                "x": "c",
+                "y": "b",
+                "title": f"Drilldown for a = {bar_clicked}",
+                "color": "c",
+            }
+        )
+    )
+```
+
+Here is the complete script:
+
+```python
+import pandas as pd
+from ipyvizzu.animation import Config, Data
+
+from streamlit_vizzu import VizzuChart
+
+chart = VizzuChart(rerun_on_click=True)
+
+df = pd.DataFrame(
+    {
+        "a": ["x", "y", "z", "x", "y", "z"],
+        "b": [1, 2, 3, 4, 5, 6],
+        "c": ["A", "A", "B", "B", "C", "D"],
+    }
+)
+
+data = Data()
+data.add_data_frame(df)
+chart.animate(data)
+
+bar_clicked = chart.get("marker.categories.a")
+
+if bar_clicked is None:
+    chart.animate(Data.filter())
+    chart.animate(
+        Config({"x": "a", "y": "b", "title": "Look at my plot! Click!", "color": None}),
+    )
+else:
+    chart.animate(Data.filter(f"record['a'] == '{bar_clicked}'"))
+    chart.animate(
+        Config(
+            {
+                "x": "c",
+                "y": "b",
+                "title": f"Drilldown for a = {bar_clicked}",
+                "color": "c",
+            }
+        )
+    )
+
+chart.show()
+```
+
+If you then click on the `z` bar, you will see the chart transition to show
+the breakdown of values of `c` that are associated with rows where `a` == `z`
+
+![breakdown chart](tutorial_03.png)
+
+If you click anywhere else on the chart, it will go back to the previous chart
 
 ## Next steps
 
