@@ -1,0 +1,3 @@
+recursive-include src/streamlit_vizzu/frontend *
+include README.md
+include LICENSE
