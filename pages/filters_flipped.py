@@ -61,7 +61,7 @@ else:
 chart.animate(Data.filter(filter), Config(config), style, delay=0.1)
 output = chart.show()
 
-items: list[str] = st.multiselect(
+st.multiselect(
     "Products",
     ["Shoes", "Handbags", "Gloves", "Accessories"],
     ["Shoes", "Handbags", "Gloves", "Accessories"],
@@ -70,7 +70,11 @@ items: list[str] = st.multiselect(
 
 col1, col2, col3, col4, col5 = st.columns(5)
 
-measure: str = col1.radio("Measure", ["Sales", "Revenue [$]"], key="measure")  # type: ignore
+measure: str = col1.radio(  # type: ignore
+    "Measure",
+    ["Sales", "Revenue [$]"],
+    key="measure",
+)
 compare_by = col2.radio("Compare by", ["Region", "Product", "Both"], key="compare_by")
 coords = col3.radio(
     "Coordinate system", ["Cartesian (desktop)", "Polar (mobile)"], key="coords"

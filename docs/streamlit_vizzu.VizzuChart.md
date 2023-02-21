@@ -23,16 +23,16 @@ __init__(
 )
 ```
 
-Create a VizzuChart object for use in a streamlit app 
+Create a VizzuChart object for use in a streamlit app
 
-width: specify width of chart in pixels height: specify height of chart in pixels key: specify unique key for chart, defaults to `vizzu` return_clicks: specify whether or not the chart should return values             when clicked rerun_on_click: if True, and return_clicks is True, will call             st.experimental_rerun() whenever your chart is clicked default_duration: specify the default duration that will be applied to all             animations, in seconds 
+width: specify width of chart in pixels height: specify height of chart in pixels key: specify unique key for chart, defaults to `vizzu` return_clicks: specify whether or not the chart should return values             when clicked rerun_on_click: if True, and return_clicks is True, will call             st.experimental_rerun() whenever your chart is clicked default_duration: specify the default duration that will be applied to all             animations, in seconds
 
 
 ---
 
 ### <kbd>property</kbd> scroll_into_view
 
-A property for turning on/off scroll into view. 
+A property for turning on/off scroll into view.
 
 
 
@@ -46,7 +46,7 @@ A property for turning on/off scroll into view.
 animate(*animations: 'Any', **options: 'Any')
 ```
 
-Pass any number of Animation objects (e.g. Data, Config, or Style objects), and any options that should be applied to them. 
+Pass any number of Animation objects (e.g. Data, Config, or Style objects), and any options that should be applied to them.
 
 ---
 
@@ -58,7 +58,7 @@ Pass any number of Animation objects (e.g. Data, Config, or Style objects), and 
 get(dotted_key: 'str', default: 'Any' = None) → Any
 ```
 
-Pass a dot-separated key to access a specific value from the latest click (e.g. "marker.categories.a"). If there hasn't been a click, or that path isn't found, return the default value. 
+Pass a dot-separated key to access a specific value from the latest click (e.g. "marker.categories.a"). If there hasn't been a click, or that path isn't found, return the default value.
 
 ---
 
@@ -70,7 +70,7 @@ Pass a dot-separated key to access a specific value from the latest click (e.g. 
 show()
 ```
 
-Render your chart within your streamlit app. Note that any animations applied after your chart is shown will not affect the chart. 
+Render your chart within your streamlit app. Note that any animations applied after your chart is shown will not affect the chart.
 
 
 
