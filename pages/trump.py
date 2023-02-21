@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 from ipyvizzu.animation import Config, Data
-
 from streamlit_vizzu import VizzuChart as Chart
 
 
@@ -54,7 +53,7 @@ if st.session_state["slide_num"] == 0:
         Data.filter("record.Firsttweet === 'Igen' && record.Dummy === 'Nem'"),
         Config(
             {
-                **CHANNELS,
+                **CHANNELS,  # type: ignore
                 "title": "Trump started tweeting in May '09",
             }
         ),
@@ -65,19 +64,20 @@ elif st.session_state["slide_num"] == 1:
         Config(
             {
                 "title": "In the first two years he wasn't very active",
-                **CHANNELS,
+                **CHANNELS,  # type: ignore
             }
         ),
     )
 elif st.session_state["slide_num"] == 2:
     vchart.animate(
         Data.filter(
-            "(record.Period === 'New to Twitter' || record.Period === 'Businessman') && record.Dummy === 'Nem'"
+            "(record.Period === 'New to Twitter' || record.Period === 'Businessman') "
+            "&& record.Dummy === 'Nem'"
         ),
         Config(
             {
                 "title": "Then he got hooked on",
-                **CHANNELS,
+                **CHANNELS,  # type: ignore
             }
         ),
     )
@@ -85,12 +85,13 @@ elif st.session_state["slide_num"] == 2:
 elif st.session_state["slide_num"] == 3:
     vchart.animate(
         Data.filter(
-            "(record.Period === 'New to Twitter' || record.Period === 'Businessman' || record.Period === 'Nominee') && record.Dummy === 'Nem'"
+            "(record.Period === 'New to Twitter' || record.Period === 'Businessman' "
+            "|| record.Period === 'Nominee') && record.Dummy === 'Nem'"
         ),
         Config(
             {
                 "title": "Interesting trend after becoming a presidential nominee",
-                **CHANNELS,
+                **CHANNELS,  # type: ignore
             }
         ),
     )
@@ -101,14 +102,20 @@ elif st.session_state["slide_num"] == 4:
         Config(
             {
                 "title": "And after he became President",
-                **CHANNELS,
+                **CHANNELS,  # type: ignore
             }
         ),
     )
 
 elif st.session_state["slide_num"] == 5:
     vchart.animate(
-        Config({"geometry": "area", "align": "center", **CHANNELS}),
+        Config(
+            {
+                "geometry": "area",
+                "align": "center",
+                **CHANNELS,  # type: ignore
+            }
+        ),
     )
 
 elif st.session_state["slide_num"] == 6:
@@ -116,7 +123,7 @@ elif st.session_state["slide_num"] == 6:
         Config(
             {
                 "title": "All of Trump's tweets until May 2020",
-                **CHANNELS,
+                **CHANNELS,  # type: ignore
             }
         ),
     )

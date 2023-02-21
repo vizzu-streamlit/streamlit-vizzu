@@ -95,7 +95,7 @@ class VizzuChart(Chart):
         the default value.
         """
         try:
-            val = self
+            val: Any = self
             for sub_key in dotted_key.split("."):
                 val = val[sub_key]
             return val
