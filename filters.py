@@ -1,14 +1,25 @@
 import pandas as pd
 import streamlit as st
-from ipyvizzu.animation import Config, Data, Style
+from st_pages import show_pages_from_config
+from streamlit_vizzu import Config, Data, Style, VizzuChart
 
-from streamlit_vizzu import VizzuChart as Chart
+show_pages_from_config()
+
+st.write(
+    """
+# Streamlit-Vizzu Demo App
+
+[Documentation](https://github.com/vizzu-streamlit/streamlit-vizzu)
+[PyPI](https://pypi.org/project/streamlit-vizzu/)
+[Source Code](https://github.com/vizzu-streamlit/streamlit-vizzu/blob/main/filters.py)
+"""
+)
 
 data_frame = pd.read_csv("pages/sales.csv")
 data = Data()
 data.add_data_frame(data_frame)
 
-chart = Chart()
+chart = VizzuChart()
 
 chart.animate(data)
 chart.feature("tooltip", True)
@@ -68,5 +79,8 @@ else:
 
 chart.animate(Data.filter(filter), Config(config), style, delay=0.1)
 output = chart.show()
+
+st.write("Try clicking on the graph to see the data!")
+st.write("See 'Filters Flipped' page for an example with the chart *above* the filters")
 
 st.write(output)

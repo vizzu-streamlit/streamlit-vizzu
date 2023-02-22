@@ -1,8 +1,7 @@
 import pandas as pd
 import streamlit as st
-from ipyvizzu.animation import Config, Data
 
-from streamlit_vizzu import VizzuChart
+from streamlit_vizzu import Config, Data, VizzuChart
 
 # Create a VizzuChart object with the default height and width
 chart = VizzuChart()

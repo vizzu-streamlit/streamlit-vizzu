@@ -64,9 +64,8 @@ Here is the complete script:
 
 ```python
 import pandas as pd
-from ipyvizzu.animation import Config, Data
 
-from streamlit_vizzu import VizzuChart
+from streamlit_vizzu import VizzuChart, Config, Data
 
 chart = VizzuChart(rerun_on_click=True)
 
