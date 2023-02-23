@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
-from ipyvizzu.animation import Config, Data
-from streamlit_vizzu import VizzuChart as Chart
+
+from streamlit_vizzu import Config, Data, VizzuChart
 
 
 @st.cache_data
@@ -15,7 +15,7 @@ data = Data()
 
 data.add_data_frame(get_data())
 
-vchart = Chart(height=360, return_clicks=False)
+vchart = VizzuChart(height=360, return_clicks=False)
 
 vchart.animate(data)
 

@@ -1,7 +1,5 @@
 import pandas as pd
-from ipyvizzu.animation import Config, Data
-
-from streamlit_vizzu import VizzuChart
+from streamlit_vizzu import Config, Data, VizzuChart
 
 chart = VizzuChart(rerun_on_click=True, default_duration=1)
 
@@ -43,3 +41,5 @@ chart.animate(
     Data.filter(),
     Config({"x": "a", "y": "b", "title": "Look at my plot! Click!", "color": None}),
 )
+
+"Click on one of the bars to see the drilldown"

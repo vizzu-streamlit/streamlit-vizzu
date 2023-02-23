@@ -1,14 +1,13 @@
 import pandas as pd
 import streamlit as st
-from ipyvizzu.animation import Config, Data, Style
 
-from streamlit_vizzu import VizzuChart as Chart
+from streamlit_vizzu import Config, Data, Style, VizzuChart
 
 data_frame = pd.read_csv("pages/sales.csv")
 data = Data()
 data.add_data_frame(data_frame)
 
-chart = Chart(height=360)
+chart = VizzuChart(height=360)
 
 chart.animate(data)
 chart.feature("tooltip", True)
