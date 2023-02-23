@@ -1,0 +1,19 @@
+[[pages]]
+path = "filters.py"
+name = "Streamlit-Vizzu"
+icon = "🏠"
+
+[[pages]]
+path = "pages/filters_flipped.py"
+name = "Filters Flipped"
+icon = "🙃"
+
+[[pages]]
+path = "pages/tutorial.py"
+name = "Tutorial Example"
+icon = "📚"
+
+[[pages]]
+path = "pages/drilldown.py"
+name = "Drilldown"
+icon = "🔍"
