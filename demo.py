@@ -8,7 +8,7 @@ st.write(
 
 [Documentation](https://github.com/vizzu-streamlit/streamlit-vizzu)
 [PyPI](https://pypi.org/project/streamlit-vizzu/)
-[Source Code](https://github.com/vizzu-streamlit/streamlit-vizzu/blob/main/filters.py)
+[Source Code](https://github.com/vizzu-streamlit/streamlit-vizzu/blob/main/demo.py)
 """
 )
 
