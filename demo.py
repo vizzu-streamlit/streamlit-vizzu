@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 from streamlit_vizzu import Config, Data, Style, VizzuChart
-
+st.set_page_config(page_title="Streamlit-Vizzu Demo App", layout="wide", initial_sidebar_state="auto", menu_items=None)
 st.write(
     """
 # Streamlit-Vizzu Demo App
