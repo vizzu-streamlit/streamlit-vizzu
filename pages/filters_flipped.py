@@ -74,7 +74,7 @@ measure: str = col1.radio(  # type: ignore
     ["Sales", "Revenue [$]"],
     key="measure",
 )
-compare_by = col2.radio("Compare by", ["Region", "Product", "Both"], key="compare_by")
+compare_by = col2.radio("Compare by", ["Product", "Region", "Both"], key="compare_by")
 coords = col3.radio(
     "Coordinate system", ["Cartesian (desktop)", "Polar (mobile)"], key="coords"
 )
