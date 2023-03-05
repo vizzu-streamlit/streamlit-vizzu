@@ -16,6 +16,9 @@ data_frame = pd.read_csv("data/sales.csv")
 data = Data()
 data.add_data_frame(data_frame)
 
+with st.expander("Expand to check the data  ⤵️"):
+    st.dataframe(data)
+
 chart = VizzuChart(width='100%')
 
 chart.animate(data)

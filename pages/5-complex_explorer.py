@@ -6,7 +6,7 @@ from ipyvizzu.chart import Chart
 from streamlit_vizzu import VizzuChart
 
 data_frame = pd.read_csv(
-    "https://raw.githubusercontent.com/KleinK0910/Data/main/Music_industry.csv", dtype={"Year": str}
+    "data/music2.csv", dtype={"Year": str}
 )
 
 data = Data()
