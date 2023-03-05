@@ -5,18 +5,15 @@ from ipyvizzu.animation import Config, Data, Style
 from streamlit_vizzu import VizzuChart
 
 data_frame = pd.read_csv(
-    "data/music2.csv", dtype={"Year": str}
+    "data/music.csv", dtype={"Year": str}
 )
 
 data = Data()
 data.add_data_frame(data_frame)
 
-with st.expander("Expand to check the data  ⤵️"):
-    st.dataframe(data)
-
-vchart = VizzuChart(key="vizzu", height=380)
-vchart.animate(data)
-vchart.feature("tooltip", True)
+chart = VizzuChart(key="vizzu", height=380)
+chart.animate(data)
+chart.feature("tooltip", True)
 
 split = st.session_state.get("split", False)
 chart_type = st.session_state.get("chart_type", "Column")
@@ -243,8 +240,8 @@ style = Style({
 })
 
 # -- display chart --
-vchart.animate(Data.filter(filter), Config(config), style, delay="0.1")
-output = vchart.show()
+chart.animate(Data.filter(filter), Config(config), style, delay="0.1")
+output = chart.show()
 
 # -- set controllers under the chart --
 col3, col4 = st.columns(2)
