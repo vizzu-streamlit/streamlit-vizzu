@@ -1,8 +1,6 @@
 import pandas as pd
 import streamlit as st
 from streamlit_vizzu import Config, Data, Style, VizzuChart
-st.write(
-    """
 
 data_frame = pd.read_csv("data/sales.csv")
 data = Data()
