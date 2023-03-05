@@ -1,23 +1,12 @@
 import pandas as pd
 import streamlit as st
 from streamlit_vizzu import Config, Data, Style, VizzuChart
-st.set_page_config(page_title="Streamlit-Vizzu Demo App", initial_sidebar_state="auto", menu_items=None)
 st.write(
     """
-# Streamlit-Vizzu Demo App
-
-[Documentation](https://github.com/vizzu-streamlit/streamlit-vizzu)
-[PyPI](https://pypi.org/project/streamlit-vizzu/)
-[Source Code](https://github.com/vizzu-streamlit/streamlit-vizzu/blob/main/demo.py)
-"""
-)
 
 data_frame = pd.read_csv("data/sales.csv")
 data = Data()
 data.add_data_frame(data_frame)
-
-with st.expander("Expand to check the data  ⤵️"):
-    st.dataframe(data)
 
 chart = VizzuChart(width='100%')
 
