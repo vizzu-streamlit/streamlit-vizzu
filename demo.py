@@ -16,7 +16,7 @@ data_frame = pd.read_csv("pages/sales.csv")
 data = Data()
 data.add_data_frame(data_frame)
 
-chart = VizzuChart()
+chart = VizzuChart(width='100%')
 
 chart.animate(data)
 chart.feature("tooltip", True)
