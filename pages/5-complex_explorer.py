@@ -8,8 +8,13 @@ from streamlit_vizzu import VizzuChart
 data_frame = pd.read_csv(
     "https://raw.githubusercontent.com/KleinK0910/Data/main/Music_industry.csv", dtype={"Year": str}
 )
+
 data = Data()
 data.add_data_frame(data_frame)
+
+with st.expander("Expand to check the data  ⤵️"):
+    st.dataframe(data)
+
 
 chart = Chart(width="100%", height="380px", display="manual")
 
