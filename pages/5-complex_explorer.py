@@ -46,7 +46,7 @@ st.write("""
 
 # -- set default variables --
 x = ["Year"]
-y = ["Revenue [m$]"]
+y = ["Revenue[m$]"]
 color = ["Format"]
 label = None
 
@@ -117,7 +117,7 @@ if compare_by == "Revenue":
     # -- choose grouping category --
     if stack_by == "Year":
         x = "Year"
-        y = ["Revenue [m$]", "Format"]
+        y = ["Revenue[m$]", "Format"]
         color = "Format"
         angle = "-1.1"
 
@@ -126,8 +126,8 @@ if compare_by == "Revenue":
 
     else:
         y = "Format"
-        x = "Revenue [m$]"
-        label = "Revenue [m$]"
+        x = "Revenue[m$]"
+        label = "Revenue[m$]"
         xAxisLabelColor = "#00000000"
         plotPaddingLeft = "9em" 
 
@@ -154,7 +154,7 @@ else:
 
     if stack_by == "Year":
         x = "Year"
-        y = ["Units [m]", "Format"]
+        y = ["Units[m]", "Format"]
         color = "Format"
         angle = "-1.1"
 
@@ -163,8 +163,8 @@ else:
             
     else:
         y = "Format"
-        x = "Units [m]"
-        label = "Units [m]"
+        x = "Units[m]"
+        label = "Units[m]"
         xAxisLabelColor = "#00000000"
         plotPaddingLeft = "9em" 
 

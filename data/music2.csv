@@ -1,4 +1,4 @@
-format_raw,Format,Metric,Year,count,Revenue [m$],Units [m]
+format_raw,Format,Metric,Year,count,Revenue[m$],Units[m]
 Cassette,Cassette,Units,1973,1,0,15
 CD,CD,Units,1973,1,0,0
 Download Single,Download,Units,1973,1,0,0
