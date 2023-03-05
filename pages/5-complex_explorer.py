@@ -233,6 +233,14 @@ style = Style({
 				'numberScale':'shortScaleSymbolUS'
             }
         },
+		"marker": { 
+			"colorPalette": "#b74c20FF #c47f58FF #1c9761FF #ea4549FF #875792FF #3562b6FF #ee7c34FF #efae3aFF",
+			'label' :{ 
+				'numberFormat' : 'prefixed',
+				'maxFractionDigits' : '1',
+				'numberScale':'shortScaleSymbolUS'
+			}
+		},
         "paddingLeft": plotPaddingLeft
     },
     "legend": {
