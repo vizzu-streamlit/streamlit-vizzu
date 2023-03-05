@@ -1,0 +1,3109 @@
+format_raw,Format,Metric,Year,count,Revenue [m$],Units [m],Rev [m$]
+Cassette,Cassette,Units,1973,1,0,15,0
+CD,CD,Units,1973,1,0,0,0
+Download Single,Download,Units,1973,1,0,0,0
+DVD Audio,DVD,Units,1973,1,0,0,0
+Music Video (Physical),Other,Units,1973,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1973,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1973,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1973,1,0,0,0
+Synchronization,Synchronization,Value,1973,1,0,0,0
+8 - Track,Tapes,Units,1973,1,0,91,0
+LP/EP,Vinyl,Units,1973,1,0,280,0
+CD,CD,Units,1974,1,0,0,0
+CD,CD,Units,1975,1,0,0,0
+CD,CD,Units,1976,1,0,0,0
+CD,CD,Units,1977,1,0,0,0
+CD,CD,Units,1978,1,0,0,0
+CD,CD,Units,1979,1,0,0,0
+CD,CD,Units,1980,1,0,0,0
+CD,CD,Units,1981,1,0,0,0
+CD,CD,Units,1982,1,0,0,0
+CD,CD,Units,1983,1,0,1,0
+CD,CD,Units,1984,1,0,6,0
+CD,CD,Units,1985,1,0,23,0
+CD,CD,Units,1986,1,0,53,0
+CD,CD,Units,1987,1,0,102,0
+CD,CD,Units,1988,1,0,150,0
+CD,CD,Units,1989,1,0,207,0
+CD,CD,Units,1990,1,0,287,0
+CD,CD,Units,1991,1,0,333,0
+CD,CD,Units,1992,1,0,408,0
+CD,CD,Units,1993,1,0,495,0
+CD,CD,Units,1994,1,0,662,0
+CD,CD,Units,1995,1,0,723,0
+CD,CD,Units,1996,1,0,779,0
+CD,CD,Units,1997,1,0,753,0
+CD,CD,Units,1998,1,0,847,0
+CD,CD,Units,1999,1,0,939,0
+CD,CD,Units,2000,1,0,943,0
+CD,CD,Units,2001,1,0,882,0
+CD,CD,Units,2002,1,0,803,0
+CD,CD,Units,2003,1,0,746,0
+CD,CD,Units,2004,1,0,767,0
+CD,CD,Units,2005,1,0,705,0
+CD,CD,Units,2006,1,0,620,0
+CD,CD,Units,2007,1,0,500,0
+CD,CD,Units,2008,1,0,368,0
+CD,CD,Units,2009,1,0,297,0
+CD,CD,Units,2010,1,0,253,0
+CD,CD,Units,2011,1,0,241,0
+CD,CD,Units,2012,1,0,198,0
+CD,CD,Units,2013,1,0,174,0
+CD,CD,Units,2014,1,0,139,0
+CD,CD,Units,2015,1,0,117,0
+CD,CD,Units,2016,1,0,98,0
+CD,CD,Units,2017,1,0,88,0
+CD,CD,Units,2018,1,0,52,0
+CD,CD,Units,2019,1,0,47,0
+CD Single,CD,Units,1973,1,0,0,0
+CD Single,CD,Units,1974,1,0,0,0
+CD Single,CD,Units,1975,1,0,0,0
+CD Single,CD,Units,1976,1,0,0,0
+CD Single,CD,Units,1977,1,0,0,0
+CD Single,CD,Units,1978,1,0,0,0
+CD Single,CD,Units,1979,1,0,0,0
+CD Single,CD,Units,1980,1,0,0,0
+CD Single,CD,Units,1981,1,0,0,0
+CD Single,CD,Units,1982,1,0,0,0
+CD Single,CD,Units,1983,1,0,0,0
+CD Single,CD,Units,1984,1,0,0,0
+CD Single,CD,Units,1985,1,0,0,0
+CD Single,CD,Units,1986,1,0,0,0
+CD Single,CD,Units,1987,1,0,0,0
+CD Single,CD,Units,1988,1,0,2,0
+CD Single,CD,Units,1989,1,0,0,0
+CD Single,CD,Units,1990,1,0,1,0
+CD Single,CD,Units,1991,1,0,6,0
+CD Single,CD,Units,1992,1,0,7,0
+CD Single,CD,Units,1993,1,0,8,0
+CD Single,CD,Units,1994,1,0,9,0
+CD Single,CD,Units,1995,1,0,22,0
+CD Single,CD,Units,1996,1,0,43,0
+CD Single,CD,Units,1997,1,0,67,0
+CD Single,CD,Units,1998,1,0,56,0
+CD Single,CD,Units,1999,1,0,56,0
+CD Single,CD,Units,2000,1,0,34,0
+CD Single,CD,Units,2001,1,0,17,0
+CD Single,CD,Units,2002,1,0,5,0
+CD Single,CD,Units,2003,1,0,8,0
+CD Single,CD,Units,2004,1,0,3,0
+CD Single,CD,Units,2005,1,0,3,0
+CD Single,CD,Units,2006,1,0,2,0
+CD Single,CD,Units,2007,1,0,3,0
+CD Single,CD,Units,2008,1,0,1,0
+CD Single,CD,Units,2009,1,0,1,0
+CD Single,CD,Units,2010,1,0,1,0
+CD Single,CD,Units,2011,1,0,1,0
+CD Single,CD,Units,2012,1,0,1,0
+CD Single,CD,Units,2013,1,0,1,0
+CD Single,CD,Units,2014,1,0,1,0
+CD Single,CD,Units,2015,1,0,0,0
+CD Single,CD,Units,2016,1,0,0,0
+CD Single,CD,Units,2017,1,0,0,0
+CD Single,CD,Units,2018,1,0,0,0
+CD Single,CD,Units,2019,1,0,0,0
+Cassette,Cassette,Units,1974,1,0,15,0
+Cassette,Cassette,Units,1975,1,0,16,0
+Cassette,Cassette,Units,1976,1,0,22,0
+Cassette,Cassette,Units,1977,1,0,37,0
+Cassette,Cassette,Units,1978,1,0,61,0
+Cassette,Cassette,Units,1979,1,0,79,0
+Cassette,Cassette,Units,1980,1,0,99,0
+Cassette,Cassette,Units,1981,1,0,124,0
+Cassette,Cassette,Units,1982,1,0,183,0
+Cassette,Cassette,Units,1983,1,0,237,0
+Cassette,Cassette,Units,1984,1,0,332,0
+Cassette,Cassette,Units,1985,1,0,339,0
+Cassette,Cassette,Units,1986,1,0,345,0
+Cassette,Cassette,Units,1987,1,0,410,0
+Cassette,Cassette,Units,1988,1,0,450,0
+Cassette,Cassette,Units,1989,1,0,446,0
+Cassette,Cassette,Units,1990,1,0,442,0
+Cassette,Cassette,Units,1991,1,0,360,0
+Cassette,Cassette,Units,1992,1,0,366,0
+Cassette,Cassette,Units,1993,1,0,340,0
+Cassette,Cassette,Units,1994,1,0,345,0
+Cassette,Cassette,Units,1995,1,0,273,0
+Cassette,Cassette,Units,1996,1,0,225,0
+Cassette,Cassette,Units,1997,1,0,173,0
+Cassette,Cassette,Units,1998,1,0,159,0
+Cassette,Cassette,Units,1999,1,0,124,0
+Cassette,Cassette,Units,2000,1,0,76,0
+Cassette,Cassette,Units,2001,1,0,45,0
+Cassette,Cassette,Units,2002,1,0,31,0
+Cassette,Cassette,Units,2003,1,0,17,0
+Cassette,Cassette,Units,2004,1,0,5,0
+Cassette,Cassette,Units,2005,1,0,3,0
+Cassette,Cassette,Units,2006,1,0,1,0
+Cassette,Cassette,Units,2007,1,0,0,0
+Cassette,Cassette,Units,2008,1,0,0,0
+Cassette,Cassette,Units,2009,1,0,0,0
+Cassette,Cassette,Units,2010,1,0,0,0
+Cassette,Cassette,Units,2011,1,0,0,0
+Cassette,Cassette,Units,2012,1,0,0,0
+Cassette,Cassette,Units,2013,1,0,0,0
+Cassette,Cassette,Units,2014,1,0,0,0
+Cassette,Cassette,Units,2015,1,0,0,0
+Cassette,Cassette,Units,2016,1,0,0,0
+Cassette,Cassette,Units,2017,1,0,0,0
+Cassette,Cassette,Units,2018,1,0,0,0
+Cassette,Cassette,Units,2019,1,0,0,0
+Cassette Single,Cassette,Units,1973,1,0,0,0
+Cassette Single,Cassette,Units,1974,1,0,0,0
+Cassette Single,Cassette,Units,1975,1,0,0,0
+Cassette Single,Cassette,Units,1976,1,0,0,0
+Cassette Single,Cassette,Units,1977,1,0,0,0
+Cassette Single,Cassette,Units,1978,1,0,0,0
+Cassette Single,Cassette,Units,1979,1,0,0,0
+Cassette Single,Cassette,Units,1980,1,0,0,0
+Cassette Single,Cassette,Units,1981,1,0,0,0
+Cassette Single,Cassette,Units,1982,1,0,0,0
+Cassette Single,Cassette,Units,1983,1,0,0,0
+Cassette Single,Cassette,Units,1984,1,0,0,0
+Cassette Single,Cassette,Units,1985,1,0,0,0
+Cassette Single,Cassette,Units,1986,1,0,0,0
+Cassette Single,Cassette,Units,1987,1,0,5,0
+Cassette Single,Cassette,Units,1988,1,0,23,0
+Cassette Single,Cassette,Units,1989,1,0,76,0
+Cassette Single,Cassette,Units,1990,1,0,87,0
+Cassette Single,Cassette,Units,1991,1,0,69,0
+Cassette Single,Cassette,Units,1992,1,0,85,0
+Cassette Single,Cassette,Units,1993,1,0,86,0
+Cassette Single,Cassette,Units,1994,1,0,81,0
+Cassette Single,Cassette,Units,1995,1,0,71,0
+Cassette Single,Cassette,Units,1996,1,0,60,0
+Cassette Single,Cassette,Units,1997,1,0,42,0
+Cassette Single,Cassette,Units,1998,1,0,26,0
+Cassette Single,Cassette,Units,1999,1,0,14,0
+Cassette Single,Cassette,Units,2000,1,0,1,0
+Cassette Single,Cassette,Units,2001,1,0,-2,0
+Cassette Single,Cassette,Units,2002,1,0,-1,0
+Cassette Single,Cassette,Units,2003,1,0,0,0
+Cassette Single,Cassette,Units,2004,1,0,0,0
+Cassette Single,Cassette,Units,2005,1,0,0,0
+Cassette Single,Cassette,Units,2006,1,0,0,0
+Cassette Single,Cassette,Units,2007,1,0,0,0
+Cassette Single,Cassette,Units,2008,1,0,0,0
+Cassette Single,Cassette,Units,2009,1,0,0,0
+Cassette Single,Cassette,Units,2010,1,0,0,0
+Cassette Single,Cassette,Units,2011,1,0,0,0
+Cassette Single,Cassette,Units,2012,1,0,0,0
+Cassette Single,Cassette,Units,2013,1,0,0,0
+Cassette Single,Cassette,Units,2014,1,0,0,0
+Cassette Single,Cassette,Units,2015,1,0,0,0
+Cassette Single,Cassette,Units,2016,1,0,0,0
+Cassette Single,Cassette,Units,2017,1,0,0,0
+Cassette Single,Cassette,Units,2018,1,0,0,0
+Cassette Single,Cassette,Units,2019,1,0,0,0
+LP/EP,Vinyl,Units,1974,1,0,276,0
+LP/EP,Vinyl,Units,1975,1,0,257,0
+LP/EP,Vinyl,Units,1976,1,0,273,0
+LP/EP,Vinyl,Units,1977,1,0,344,0
+LP/EP,Vinyl,Units,1978,1,0,341,0
+LP/EP,Vinyl,Units,1979,1,0,290,0
+LP/EP,Vinyl,Units,1980,1,0,308,0
+LP/EP,Vinyl,Units,1981,1,0,295,0
+LP/EP,Vinyl,Units,1982,1,0,244,0
+LP/EP,Vinyl,Units,1983,1,0,210,0
+LP/EP,Vinyl,Units,1984,1,0,205,0
+LP/EP,Vinyl,Units,1985,1,0,167,0
+LP/EP,Vinyl,Units,1986,1,0,125,0
+LP/EP,Vinyl,Units,1987,1,0,107,0
+LP/EP,Vinyl,Units,1988,1,0,72,0
+LP/EP,Vinyl,Units,1989,1,0,35,0
+LP/EP,Vinyl,Units,1990,1,0,12,0
+LP/EP,Vinyl,Units,1991,1,0,5,0
+LP/EP,Vinyl,Units,1992,1,0,2,0
+LP/EP,Vinyl,Units,1993,1,0,1,0
+LP/EP,Vinyl,Units,1994,1,0,2,0
+LP/EP,Vinyl,Units,1995,1,0,2,0
+LP/EP,Vinyl,Units,1996,1,0,3,0
+LP/EP,Vinyl,Units,1997,1,0,3,0
+LP/EP,Vinyl,Units,1998,1,0,3,0
+LP/EP,Vinyl,Units,1999,1,0,3,0
+LP/EP,Vinyl,Units,2000,1,0,2,0
+LP/EP,Vinyl,Units,2001,1,0,2,0
+LP/EP,Vinyl,Units,2002,1,0,2,0
+LP/EP,Vinyl,Units,2003,1,0,2,0
+LP/EP,Vinyl,Units,2004,1,0,1,0
+LP/EP,Vinyl,Units,2005,1,0,1,0
+LP/EP,Vinyl,Units,2006,1,0,1,0
+LP/EP,Vinyl,Units,2007,1,0,1,0
+LP/EP,Vinyl,Units,2008,1,0,3,0
+LP/EP,Vinyl,Units,2009,1,0,4,0
+LP/EP,Vinyl,Units,2010,1,0,4,0
+LP/EP,Vinyl,Units,2011,1,0,6,0
+LP/EP,Vinyl,Units,2012,1,0,7,0
+LP/EP,Vinyl,Units,2013,1,0,9,0
+LP/EP,Vinyl,Units,2014,1,0,10,0
+LP/EP,Vinyl,Units,2015,1,0,14,0
+LP/EP,Vinyl,Units,2016,1,0,15,0
+LP/EP,Vinyl,Units,2017,1,0,16,0
+LP/EP,Vinyl,Units,2018,1,0,17,0
+LP/EP,Vinyl,Units,2019,1,0,19,0
+Vinyl Single,Vinyl,Units,1973,1,0,228,0
+Vinyl Single,Vinyl,Units,1974,1,0,204,0
+Vinyl Single,Vinyl,Units,1975,1,0,164,0
+Vinyl Single,Vinyl,Units,1976,1,0,190,0
+Vinyl Single,Vinyl,Units,1977,1,0,190,0
+Vinyl Single,Vinyl,Units,1978,1,0,190,0
+Vinyl Single,Vinyl,Units,1979,1,0,212,0
+Vinyl Single,Vinyl,Units,1980,1,0,157,0
+Vinyl Single,Vinyl,Units,1981,1,0,155,0
+Vinyl Single,Vinyl,Units,1982,1,0,137,0
+Vinyl Single,Vinyl,Units,1983,1,0,125,0
+Vinyl Single,Vinyl,Units,1984,1,0,132,0
+Vinyl Single,Vinyl,Units,1985,1,0,121,0
+Vinyl Single,Vinyl,Units,1986,1,0,94,0
+Vinyl Single,Vinyl,Units,1987,1,0,82,0
+Vinyl Single,Vinyl,Units,1988,1,0,66,0
+Vinyl Single,Vinyl,Units,1989,1,0,37,0
+Vinyl Single,Vinyl,Units,1990,1,0,28,0
+Vinyl Single,Vinyl,Units,1991,1,0,22,0
+Vinyl Single,Vinyl,Units,1992,1,0,20,0
+Vinyl Single,Vinyl,Units,1993,1,0,15,0
+Vinyl Single,Vinyl,Units,1994,1,0,12,0
+Vinyl Single,Vinyl,Units,1995,1,0,10,0
+Vinyl Single,Vinyl,Units,1996,1,0,10,0
+Vinyl Single,Vinyl,Units,1997,1,0,8,0
+Vinyl Single,Vinyl,Units,1998,1,0,5,0
+Vinyl Single,Vinyl,Units,1999,1,0,5,0
+Vinyl Single,Vinyl,Units,2000,1,0,5,0
+Vinyl Single,Vinyl,Units,2001,1,0,6,0
+Vinyl Single,Vinyl,Units,2002,1,0,4,0
+Vinyl Single,Vinyl,Units,2003,1,0,4,0
+Vinyl Single,Vinyl,Units,2004,1,0,4,0
+Vinyl Single,Vinyl,Units,2005,1,0,2,0
+Vinyl Single,Vinyl,Units,2006,1,0,2,0
+Vinyl Single,Vinyl,Units,2007,1,0,1,0
+Vinyl Single,Vinyl,Units,2008,1,0,0,0
+Vinyl Single,Vinyl,Units,2009,1,0,0,0
+Vinyl Single,Vinyl,Units,2010,1,0,0,0
+Vinyl Single,Vinyl,Units,2011,1,0,0,0
+Vinyl Single,Vinyl,Units,2012,1,0,0,0
+Vinyl Single,Vinyl,Units,2013,1,0,0,0
+Vinyl Single,Vinyl,Units,2014,1,0,0,0
+Vinyl Single,Vinyl,Units,2015,1,0,1,0
+Vinyl Single,Vinyl,Units,2016,1,0,0,0
+Vinyl Single,Vinyl,Units,2017,1,0,0,0
+Vinyl Single,Vinyl,Units,2018,1,0,0,0
+Vinyl Single,Vinyl,Units,2019,1,0,0,0
+8 - Track,Tapes,Units,1974,1,0,97,0
+8 - Track,Tapes,Units,1975,1,0,95,0
+8 - Track,Tapes,Units,1976,1,0,106,0
+8 - Track,Tapes,Units,1977,1,0,127,0
+8 - Track,Tapes,Units,1978,1,0,134,0
+8 - Track,Tapes,Units,1979,1,0,102,0
+8 - Track,Tapes,Units,1980,1,0,85,0
+8 - Track,Tapes,Units,1981,1,0,50,0
+8 - Track,Tapes,Units,1982,1,0,14,0
+8 - Track,Tapes,Units,1983,1,0,0,0
+8 - Track,Tapes,Units,1984,1,0,0,0
+8 - Track,Tapes,Units,1985,1,0,0,0
+8 - Track,Tapes,Units,1986,1,0,0,0
+8 - Track,Tapes,Units,1987,1,0,0,0
+8 - Track,Tapes,Units,1988,1,0,0,0
+8 - Track,Tapes,Units,1989,1,0,0,0
+8 - Track,Tapes,Units,1990,1,0,0,0
+8 - Track,Tapes,Units,1991,1,0,0,0
+8 - Track,Tapes,Units,1992,1,0,0,0
+8 - Track,Tapes,Units,1993,1,0,0,0
+8 - Track,Tapes,Units,1994,1,0,0,0
+8 - Track,Tapes,Units,1995,1,0,0,0
+8 - Track,Tapes,Units,1996,1,0,0,0
+8 - Track,Tapes,Units,1997,1,0,0,0
+8 - Track,Tapes,Units,1998,1,0,0,0
+8 - Track,Tapes,Units,1999,1,0,0,0
+8 - Track,Tapes,Units,2000,1,0,0,0
+8 - Track,Tapes,Units,2001,1,0,0,0
+8 - Track,Tapes,Units,2002,1,0,0,0
+8 - Track,Tapes,Units,2003,1,0,0,0
+8 - Track,Tapes,Units,2004,1,0,0,0
+8 - Track,Tapes,Units,2005,1,0,0,0
+8 - Track,Tapes,Units,2006,1,0,0,0
+8 - Track,Tapes,Units,2007,1,0,0,0
+8 - Track,Tapes,Units,2008,1,0,0,0
+8 - Track,Tapes,Units,2009,1,0,0,0
+8 - Track,Tapes,Units,2010,1,0,0,0
+8 - Track,Tapes,Units,2011,1,0,0,0
+8 - Track,Tapes,Units,2012,1,0,0,0
+8 - Track,Tapes,Units,2013,1,0,0,0
+8 - Track,Tapes,Units,2014,1,0,0,0
+8 - Track,Tapes,Units,2015,1,0,0,0
+8 - Track,Tapes,Units,2016,1,0,0,0
+8 - Track,Tapes,Units,2017,1,0,0,0
+8 - Track,Tapes,Units,2018,1,0,0,0
+8 - Track,Tapes,Units,2019,1,0,0,0
+Other Tapes,Tapes,Units,1973,1,0,2,0
+Other Tapes,Tapes,Units,1974,1,0,2,0
+Other Tapes,Tapes,Units,1975,1,0,2,0
+Other Tapes,Tapes,Units,1976,1,0,1,0
+Other Tapes,Tapes,Units,1977,1,0,0,0
+Other Tapes,Tapes,Units,1978,1,0,0,0
+Other Tapes,Tapes,Units,1979,1,0,0,0
+Other Tapes,Tapes,Units,1980,1,0,0,0
+Other Tapes,Tapes,Units,1981,1,0,0,0
+Other Tapes,Tapes,Units,1982,1,0,0,0
+Other Tapes,Tapes,Units,1983,1,0,0,0
+Other Tapes,Tapes,Units,1984,1,0,0,0
+Other Tapes,Tapes,Units,1985,1,0,0,0
+Other Tapes,Tapes,Units,1986,1,0,0,0
+Other Tapes,Tapes,Units,1987,1,0,0,0
+Other Tapes,Tapes,Units,1988,1,0,0,0
+Other Tapes,Tapes,Units,1989,1,0,0,0
+Other Tapes,Tapes,Units,1990,1,0,0,0
+Other Tapes,Tapes,Units,1991,1,0,0,0
+Other Tapes,Tapes,Units,1992,1,0,0,0
+Other Tapes,Tapes,Units,1993,1,0,0,0
+Other Tapes,Tapes,Units,1994,1,0,0,0
+Other Tapes,Tapes,Units,1995,1,0,0,0
+Other Tapes,Tapes,Units,1996,1,0,0,0
+Other Tapes,Tapes,Units,1997,1,0,0,0
+Other Tapes,Tapes,Units,1998,1,0,0,0
+Other Tapes,Tapes,Units,1999,1,0,0,0
+Other Tapes,Tapes,Units,2000,1,0,0,0
+Other Tapes,Tapes,Units,2001,1,0,0,0
+Other Tapes,Tapes,Units,2002,1,0,0,0
+Other Tapes,Tapes,Units,2003,1,0,0,0
+Other Tapes,Tapes,Units,2004,1,0,0,0
+Other Tapes,Tapes,Units,2005,1,0,0,0
+Other Tapes,Tapes,Units,2006,1,0,0,0
+Other Tapes,Tapes,Units,2007,1,0,0,0
+Other Tapes,Tapes,Units,2008,1,0,0,0
+Other Tapes,Tapes,Units,2009,1,0,0,0
+Other Tapes,Tapes,Units,2010,1,0,0,0
+Other Tapes,Tapes,Units,2011,1,0,0,0
+Other Tapes,Tapes,Units,2012,1,0,0,0
+Other Tapes,Tapes,Units,2013,1,0,0,0
+Other Tapes,Tapes,Units,2014,1,0,0,0
+Other Tapes,Tapes,Units,2015,1,0,0,0
+Other Tapes,Tapes,Units,2016,1,0,0,0
+Other Tapes,Tapes,Units,2017,1,0,0,0
+Other Tapes,Tapes,Units,2018,1,0,0,0
+Other Tapes,Tapes,Units,2019,1,0,0,0
+Music Video (Physical),Other,Units,1974,1,0,0,0
+Music Video (Physical),Other,Units,1975,1,0,0,0
+Music Video (Physical),Other,Units,1976,1,0,0,0
+Music Video (Physical),Other,Units,1977,1,0,0,0
+Music Video (Physical),Other,Units,1978,1,0,0,0
+Music Video (Physical),Other,Units,1979,1,0,0,0
+Music Video (Physical),Other,Units,1980,1,0,0,0
+Music Video (Physical),Other,Units,1981,1,0,0,0
+Music Video (Physical),Other,Units,1982,1,0,0,0
+Music Video (Physical),Other,Units,1983,1,0,0,0
+Music Video (Physical),Other,Units,1984,1,0,0,0
+Music Video (Physical),Other,Units,1985,1,0,0,0
+Music Video (Physical),Other,Units,1986,1,0,0,0
+Music Video (Physical),Other,Units,1987,1,0,0,0
+Music Video (Physical),Other,Units,1988,1,0,0,0
+Music Video (Physical),Other,Units,1989,1,0,6,0
+Music Video (Physical),Other,Units,1990,1,0,9,0
+Music Video (Physical),Other,Units,1991,1,0,6,0
+Music Video (Physical),Other,Units,1992,1,0,8,0
+Music Video (Physical),Other,Units,1993,1,0,11,0
+Music Video (Physical),Other,Units,1994,1,0,11,0
+Music Video (Physical),Other,Units,1995,1,0,13,0
+Music Video (Physical),Other,Units,1996,1,0,17,0
+Music Video (Physical),Other,Units,1997,1,0,19,0
+Music Video (Physical),Other,Units,1998,1,0,27,0
+Music Video (Physical),Other,Units,1999,1,0,20,0
+Music Video (Physical),Other,Units,2000,1,0,18,0
+Music Video (Physical),Other,Units,2001,1,0,18,0
+Music Video (Physical),Other,Units,2002,1,0,15,0
+Music Video (Physical),Other,Units,2003,1,0,20,0
+Music Video (Physical),Other,Units,2004,1,0,33,0
+Music Video (Physical),Other,Units,2005,1,0,34,0
+Music Video (Physical),Other,Units,2006,1,0,23,0
+Music Video (Physical),Other,Units,2007,1,0,28,0
+Music Video (Physical),Other,Units,2008,1,0,13,0
+Music Video (Physical),Other,Units,2009,1,0,12,0
+Music Video (Physical),Other,Units,2010,1,0,9,0
+Music Video (Physical),Other,Units,2011,1,0,8,0
+Music Video (Physical),Other,Units,2012,1,0,6,0
+Music Video (Physical),Other,Units,2013,1,0,5,0
+Music Video (Physical),Other,Units,2014,1,0,4,0
+Music Video (Physical),Other,Units,2015,1,0,3,0
+Music Video (Physical),Other,Units,2016,1,0,2,0
+Music Video (Physical),Other,Units,2017,1,0,2,0
+Music Video (Physical),Other,Units,2018,1,0,1,0
+Music Video (Physical),Other,Units,2019,1,0,1,0
+DVD Audio,DVD,Units,1974,1,0,0,0
+DVD Audio,DVD,Units,1975,1,0,0,0
+DVD Audio,DVD,Units,1976,1,0,0,0
+DVD Audio,DVD,Units,1977,1,0,0,0
+DVD Audio,DVD,Units,1978,1,0,0,0
+DVD Audio,DVD,Units,1979,1,0,0,0
+DVD Audio,DVD,Units,1980,1,0,0,0
+DVD Audio,DVD,Units,1981,1,0,0,0
+DVD Audio,DVD,Units,1982,1,0,0,0
+DVD Audio,DVD,Units,1983,1,0,0,0
+DVD Audio,DVD,Units,1984,1,0,0,0
+DVD Audio,DVD,Units,1985,1,0,0,0
+DVD Audio,DVD,Units,1986,1,0,0,0
+DVD Audio,DVD,Units,1987,1,0,0,0
+DVD Audio,DVD,Units,1988,1,0,0,0
+DVD Audio,DVD,Units,1989,1,0,0,0
+DVD Audio,DVD,Units,1990,1,0,0,0
+DVD Audio,DVD,Units,1991,1,0,0,0
+DVD Audio,DVD,Units,1992,1,0,0,0
+DVD Audio,DVD,Units,1993,1,0,0,0
+DVD Audio,DVD,Units,1994,1,0,0,0
+DVD Audio,DVD,Units,1995,1,0,0,0
+DVD Audio,DVD,Units,1996,1,0,0,0
+DVD Audio,DVD,Units,1997,1,0,0,0
+DVD Audio,DVD,Units,1998,1,0,0,0
+DVD Audio,DVD,Units,1999,1,0,0,0
+DVD Audio,DVD,Units,2000,1,0,0,0
+DVD Audio,DVD,Units,2001,1,0,0,0
+DVD Audio,DVD,Units,2002,1,0,0,0
+DVD Audio,DVD,Units,2003,1,0,0,0
+DVD Audio,DVD,Units,2004,1,0,0,0
+DVD Audio,DVD,Units,2005,1,0,1,0
+DVD Audio,DVD,Units,2006,1,0,0,0
+DVD Audio,DVD,Units,2007,1,0,0,0
+DVD Audio,DVD,Units,2008,1,0,0,0
+DVD Audio,DVD,Units,2009,1,0,0,0
+DVD Audio,DVD,Units,2010,1,0,0,0
+DVD Audio,DVD,Units,2011,1,0,0,0
+DVD Audio,DVD,Units,2012,1,0,0,0
+DVD Audio,DVD,Units,2013,1,0,0,0
+DVD Audio,DVD,Units,2014,1,0,0,0
+DVD Audio,DVD,Units,2015,1,0,0,0
+DVD Audio,DVD,Units,2016,1,0,0,0
+DVD Audio,DVD,Units,2017,1,0,0,0
+DVD Audio,DVD,Units,2018,1,0,0,0
+DVD Audio,DVD,Units,2019,1,0,0,0
+SACD,CD,Units,1973,1,0,0,0
+SACD,CD,Units,1974,1,0,0,0
+SACD,CD,Units,1975,1,0,0,0
+SACD,CD,Units,1976,1,0,0,0
+SACD,CD,Units,1977,1,0,0,0
+SACD,CD,Units,1978,1,0,0,0
+SACD,CD,Units,1979,1,0,0,0
+SACD,CD,Units,1980,1,0,0,0
+SACD,CD,Units,1981,1,0,0,0
+SACD,CD,Units,1982,1,0,0,0
+SACD,CD,Units,1983,1,0,0,0
+SACD,CD,Units,1984,1,0,0,0
+SACD,CD,Units,1985,1,0,0,0
+SACD,CD,Units,1986,1,0,0,0
+SACD,CD,Units,1987,1,0,0,0
+SACD,CD,Units,1988,1,0,0,0
+SACD,CD,Units,1989,1,0,0,0
+SACD,CD,Units,1990,1,0,0,0
+SACD,CD,Units,1991,1,0,0,0
+SACD,CD,Units,1992,1,0,0,0
+SACD,CD,Units,1993,1,0,0,0
+SACD,CD,Units,1994,1,0,0,0
+SACD,CD,Units,1995,1,0,0,0
+SACD,CD,Units,1996,1,0,0,0
+SACD,CD,Units,1997,1,0,0,0
+SACD,CD,Units,1998,1,0,0,0
+SACD,CD,Units,1999,1,0,0,0
+SACD,CD,Units,2000,1,0,0,0
+SACD,CD,Units,2001,1,0,0,0
+SACD,CD,Units,2002,1,0,0,0
+SACD,CD,Units,2003,1,0,1,0
+SACD,CD,Units,2004,1,0,1,0
+SACD,CD,Units,2005,1,0,1,0
+SACD,CD,Units,2006,1,0,0,0
+SACD,CD,Units,2007,1,0,0,0
+SACD,CD,Units,2008,1,0,0,0
+SACD,CD,Units,2009,1,0,0,0
+SACD,CD,Units,2010,1,0,0,0
+SACD,CD,Units,2011,1,0,0,0
+SACD,CD,Units,2012,1,0,0,0
+SACD,CD,Units,2013,1,0,0,0
+SACD,CD,Units,2014,1,0,0,0
+SACD,CD,Units,2015,1,0,0,0
+SACD,CD,Units,2016,1,0,0,0
+SACD,CD,Units,2017,1,0,0,0
+SACD,CD,Units,2018,1,0,0,0
+SACD,CD,Units,2019,1,0,0,0
+Download Single,Download,Units,1974,1,0,0,0
+Download Single,Download,Units,1975,1,0,0,0
+Download Single,Download,Units,1976,1,0,0,0
+Download Single,Download,Units,1977,1,0,0,0
+Download Single,Download,Units,1978,1,0,0,0
+Download Single,Download,Units,1979,1,0,0,0
+Download Single,Download,Units,1980,1,0,0,0
+Download Single,Download,Units,1981,1,0,0,0
+Download Single,Download,Units,1982,1,0,0,0
+Download Single,Download,Units,1983,1,0,0,0
+Download Single,Download,Units,1984,1,0,0,0
+Download Single,Download,Units,1985,1,0,0,0
+Download Single,Download,Units,1986,1,0,0,0
+Download Single,Download,Units,1987,1,0,0,0
+Download Single,Download,Units,1988,1,0,0,0
+Download Single,Download,Units,1989,1,0,0,0
+Download Single,Download,Units,1990,1,0,0,0
+Download Single,Download,Units,1991,1,0,0,0
+Download Single,Download,Units,1992,1,0,0,0
+Download Single,Download,Units,1993,1,0,0,0
+Download Single,Download,Units,1994,1,0,0,0
+Download Single,Download,Units,1995,1,0,0,0
+Download Single,Download,Units,1996,1,0,0,0
+Download Single,Download,Units,1997,1,0,0,0
+Download Single,Download,Units,1998,1,0,0,0
+Download Single,Download,Units,1999,1,0,0,0
+Download Single,Download,Units,2000,1,0,0,0
+Download Single,Download,Units,2001,1,0,0,0
+Download Single,Download,Units,2002,1,0,0,0
+Download Single,Download,Units,2003,1,0,0,0
+Download Single,Download,Units,2004,1,0,139,0
+Download Single,Download,Units,2005,1,0,367,0
+Download Single,Download,Units,2006,1,0,586,0
+Download Single,Download,Units,2007,1,0,819,0
+Download Single,Download,Units,2008,1,0,1043,0
+Download Single,Download,Units,2009,1,0,1124,0
+Download Single,Download,Units,2010,1,0,1177,0
+Download Single,Download,Units,2011,1,0,1332,0
+Download Single,Download,Units,2012,1,0,1403,0
+Download Single,Download,Units,2013,1,0,1333,0
+Download Single,Download,Units,2014,1,0,1154,0
+Download Single,Download,Units,2015,1,0,986,0
+Download Single,Download,Units,2016,1,0,743,0
+Download Single,Download,Units,2017,1,0,554,0
+Download Single,Download,Units,2018,1,0,400,0
+Download Single,Download,Units,2019,1,0,335,0
+Download Album,Download,Units,1973,1,0,0,0
+Download Album,Download,Units,1974,1,0,0,0
+Download Album,Download,Units,1975,1,0,0,0
+Download Album,Download,Units,1976,1,0,0,0
+Download Album,Download,Units,1977,1,0,0,0
+Download Album,Download,Units,1978,1,0,0,0
+Download Album,Download,Units,1979,1,0,0,0
+Download Album,Download,Units,1980,1,0,0,0
+Download Album,Download,Units,1981,1,0,0,0
+Download Album,Download,Units,1982,1,0,0,0
+Download Album,Download,Units,1983,1,0,0,0
+Download Album,Download,Units,1984,1,0,0,0
+Download Album,Download,Units,1985,1,0,0,0
+Download Album,Download,Units,1986,1,0,0,0
+Download Album,Download,Units,1987,1,0,0,0
+Download Album,Download,Units,1988,1,0,0,0
+Download Album,Download,Units,1989,1,0,0,0
+Download Album,Download,Units,1990,1,0,0,0
+Download Album,Download,Units,1991,1,0,0,0
+Download Album,Download,Units,1992,1,0,0,0
+Download Album,Download,Units,1993,1,0,0,0
+Download Album,Download,Units,1994,1,0,0,0
+Download Album,Download,Units,1995,1,0,0,0
+Download Album,Download,Units,1996,1,0,0,0
+Download Album,Download,Units,1997,1,0,0,0
+Download Album,Download,Units,1998,1,0,0,0
+Download Album,Download,Units,1999,1,0,0,0
+Download Album,Download,Units,2000,1,0,0,0
+Download Album,Download,Units,2001,1,0,0,0
+Download Album,Download,Units,2002,1,0,0,0
+Download Album,Download,Units,2003,1,0,0,0
+Download Album,Download,Units,2004,1,0,5,0
+Download Album,Download,Units,2005,1,0,14,0
+Download Album,Download,Units,2006,1,0,28,0
+Download Album,Download,Units,2007,1,0,50,0
+Download Album,Download,Units,2008,1,0,64,0
+Download Album,Download,Units,2009,1,0,75,0
+Download Album,Download,Units,2010,1,0,86,0
+Download Album,Download,Units,2011,1,0,104,0
+Download Album,Download,Units,2012,1,0,117,0
+Download Album,Download,Units,2013,1,0,118,0
+Download Album,Download,Units,2014,1,0,114,0
+Download Album,Download,Units,2015,1,0,107,0
+Download Album,Download,Units,2016,1,0,85,0
+Download Album,Download,Units,2017,1,0,66,0
+Download Album,Download,Units,2018,1,0,50,0
+Download Album,Download,Units,2019,1,0,40,0
+Kiosk,Other,Units,1973,1,0,0,0
+Kiosk,Other,Units,1974,1,0,0,0
+Kiosk,Other,Units,1975,1,0,0,0
+Kiosk,Other,Units,1976,1,0,0,0
+Kiosk,Other,Units,1977,1,0,0,0
+Kiosk,Other,Units,1978,1,0,0,0
+Kiosk,Other,Units,1979,1,0,0,0
+Kiosk,Other,Units,1980,1,0,0,0
+Kiosk,Other,Units,1981,1,0,0,0
+Kiosk,Other,Units,1982,1,0,0,0
+Kiosk,Other,Units,1983,1,0,0,0
+Kiosk,Other,Units,1984,1,0,0,0
+Kiosk,Other,Units,1985,1,0,0,0
+Kiosk,Other,Units,1986,1,0,0,0
+Kiosk,Other,Units,1987,1,0,0,0
+Kiosk,Other,Units,1988,1,0,0,0
+Kiosk,Other,Units,1989,1,0,0,0
+Kiosk,Other,Units,1990,1,0,0,0
+Kiosk,Other,Units,1991,1,0,0,0
+Kiosk,Other,Units,1992,1,0,0,0
+Kiosk,Other,Units,1993,1,0,0,0
+Kiosk,Other,Units,1994,1,0,0,0
+Kiosk,Other,Units,1995,1,0,0,0
+Kiosk,Other,Units,1996,1,0,0,0
+Kiosk,Other,Units,1997,1,0,0,0
+Kiosk,Other,Units,1998,1,0,0,0
+Kiosk,Other,Units,1999,1,0,0,0
+Kiosk,Other,Units,2000,1,0,0,0
+Kiosk,Other,Units,2001,1,0,0,0
+Kiosk,Other,Units,2002,1,0,0,0
+Kiosk,Other,Units,2003,1,0,0,0
+Kiosk,Other,Units,2004,1,0,0,0
+Kiosk,Other,Units,2005,1,0,1,0
+Kiosk,Other,Units,2006,1,0,1,0
+Kiosk,Other,Units,2007,1,0,2,0
+Kiosk,Other,Units,2008,1,0,2,0
+Kiosk,Other,Units,2009,1,0,2,0
+Kiosk,Other,Units,2010,1,0,2,0
+Kiosk,Other,Units,2011,1,0,1,0
+Kiosk,Other,Units,2012,1,0,2,0
+Kiosk,Other,Units,2013,1,0,4,0
+Kiosk,Other,Units,2014,1,0,2,0
+Kiosk,Other,Units,2015,1,0,2,0
+Kiosk,Other,Units,2016,1,0,2,0
+Kiosk,Other,Units,2017,1,0,1,0
+Kiosk,Other,Units,2018,1,0,1,0
+Kiosk,Other,Units,2019,1,0,1,0
+Download Music Video,Download,Units,1973,1,0,0,0
+Download Music Video,Download,Units,1974,1,0,0,0
+Download Music Video,Download,Units,1975,1,0,0,0
+Download Music Video,Download,Units,1976,1,0,0,0
+Download Music Video,Download,Units,1977,1,0,0,0
+Download Music Video,Download,Units,1978,1,0,0,0
+Download Music Video,Download,Units,1979,1,0,0,0
+Download Music Video,Download,Units,1980,1,0,0,0
+Download Music Video,Download,Units,1981,1,0,0,0
+Download Music Video,Download,Units,1982,1,0,0,0
+Download Music Video,Download,Units,1983,1,0,0,0
+Download Music Video,Download,Units,1984,1,0,0,0
+Download Music Video,Download,Units,1985,1,0,0,0
+Download Music Video,Download,Units,1986,1,0,0,0
+Download Music Video,Download,Units,1987,1,0,0,0
+Download Music Video,Download,Units,1988,1,0,0,0
+Download Music Video,Download,Units,1989,1,0,0,0
+Download Music Video,Download,Units,1990,1,0,0,0
+Download Music Video,Download,Units,1991,1,0,0,0
+Download Music Video,Download,Units,1992,1,0,0,0
+Download Music Video,Download,Units,1993,1,0,0,0
+Download Music Video,Download,Units,1994,1,0,0,0
+Download Music Video,Download,Units,1995,1,0,0,0
+Download Music Video,Download,Units,1996,1,0,0,0
+Download Music Video,Download,Units,1997,1,0,0,0
+Download Music Video,Download,Units,1998,1,0,0,0
+Download Music Video,Download,Units,1999,1,0,0,0
+Download Music Video,Download,Units,2000,1,0,0,0
+Download Music Video,Download,Units,2001,1,0,0,0
+Download Music Video,Download,Units,2002,1,0,0,0
+Download Music Video,Download,Units,2003,1,0,0,0
+Download Music Video,Download,Units,2004,1,0,0,0
+Download Music Video,Download,Units,2005,1,0,2,0
+Download Music Video,Download,Units,2006,1,0,10,0
+Download Music Video,Download,Units,2007,1,0,14,0
+Download Music Video,Download,Units,2008,1,0,21,0
+Download Music Video,Download,Units,2009,1,0,21,0
+Download Music Video,Download,Units,2010,1,0,18,0
+Download Music Video,Download,Units,2011,1,0,16,0
+Download Music Video,Download,Units,2012,1,0,10,0
+Download Music Video,Download,Units,2013,1,0,8,0
+Download Music Video,Download,Units,2014,1,0,7,0
+Download Music Video,Download,Units,2015,1,0,3,0
+Download Music Video,Download,Units,2016,1,0,2,0
+Download Music Video,Download,Units,2017,1,0,1,0
+Download Music Video,Download,Units,2018,1,0,1,0
+Download Music Video,Download,Units,2019,1,0,1,0
+Ringtones & Ringbacks,Ringtones,Units,1974,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1975,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1976,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1977,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1978,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1979,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1980,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1981,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1982,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1983,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1984,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1985,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1986,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1987,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1988,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1989,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1990,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1991,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1992,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1993,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1994,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1995,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1996,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1997,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1998,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,1999,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,2000,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,2001,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,2002,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,2003,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,2004,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Units,2005,1,0,170,0
+Ringtones & Ringbacks,Ringtones,Units,2006,1,0,315,0
+Ringtones & Ringbacks,Ringtones,Units,2007,1,0,434,0
+Ringtones & Ringbacks,Ringtones,Units,2008,1,0,405,0
+Ringtones & Ringbacks,Ringtones,Units,2009,1,0,294,0
+Ringtones & Ringbacks,Ringtones,Units,2010,1,0,189,0
+Ringtones & Ringbacks,Ringtones,Units,2011,1,0,115,0
+Ringtones & Ringbacks,Ringtones,Units,2012,1,0,59,0
+Ringtones & Ringbacks,Ringtones,Units,2013,1,0,39,0
+Ringtones & Ringbacks,Ringtones,Units,2014,1,0,27,0
+Ringtones & Ringbacks,Ringtones,Units,2015,1,0,22,0
+Ringtones & Ringbacks,Ringtones,Units,2016,1,0,23,0
+Ringtones & Ringbacks,Ringtones,Units,2017,1,0,14,0
+Ringtones & Ringbacks,Ringtones,Units,2018,1,0,10,0
+Ringtones & Ringbacks,Ringtones,Units,2019,1,0,9,0
+Paid Subscriptions,Paid Subscription,Units,1974,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1975,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1976,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1977,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1978,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1979,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1980,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1981,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1982,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1983,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1984,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1985,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1986,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1987,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1988,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1989,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1990,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1991,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1992,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1993,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1994,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1995,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1996,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1997,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1998,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1999,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,2000,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,2001,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,2002,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,2003,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,2004,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,2005,1,0,1,0
+Paid Subscriptions,Paid Subscription,Units,2006,1,0,2,0
+Paid Subscriptions,Paid Subscription,Units,2007,1,0,2,0
+Paid Subscriptions,Paid Subscription,Units,2008,1,0,2,0
+Paid Subscriptions,Paid Subscription,Units,2009,1,0,1,0
+Paid Subscriptions,Paid Subscription,Units,2010,1,0,2,0
+Paid Subscriptions,Paid Subscription,Units,2011,1,0,2,0
+Paid Subscriptions,Paid Subscription,Units,2012,1,0,3,0
+Paid Subscriptions,Paid Subscription,Units,2013,1,0,6,0
+Paid Subscriptions,Paid Subscription,Units,2014,1,0,8,0
+Paid Subscriptions,Paid Subscription,Units,2015,1,0,11,0
+Paid Subscriptions,Paid Subscription,Units,2016,1,0,23,0
+Paid Subscriptions,Paid Subscription,Units,2017,1,0,35,0
+Paid Subscriptions,Paid Subscription,Units,2018,1,0,47,0
+Paid Subscriptions,Paid Subscription,Units,2019,1,0,60,0
+Paid Subscriptions,Paid Subscription,Units,1973,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1974,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1975,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1976,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1977,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1978,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1979,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1980,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1981,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1982,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1983,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1984,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1985,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1986,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1987,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1988,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1989,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1990,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1991,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1992,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1993,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1994,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1995,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1996,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1997,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1998,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,1999,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,2000,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,2001,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,2002,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,2003,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,2004,1,0,0,0
+Paid Subscriptions,Paid Subscription,Units,2005,1,0,1,0
+Paid Subscriptions,Paid Subscription,Units,2006,1,0,2,0
+Paid Subscriptions,Paid Subscription,Units,2007,1,0,2,0
+Paid Subscriptions,Paid Subscription,Units,2008,1,0,2,0
+Paid Subscriptions,Paid Subscription,Units,2009,1,0,1,0
+Paid Subscriptions,Paid Subscription,Units,2010,1,0,2,0
+Paid Subscriptions,Paid Subscription,Units,2011,1,0,2,0
+Paid Subscriptions,Paid Subscription,Units,2012,1,0,3,0
+Paid Subscriptions,Paid Subscription,Units,2013,1,0,6,0
+Paid Subscriptions,Paid Subscription,Units,2014,1,0,8,0
+Paid Subscriptions,Paid Subscription,Units,2015,1,0,11,0
+Paid Subscriptions,Paid Subscription,Units,2016,1,0,23,0
+Paid Subscriptions,Paid Subscription,Units,2017,1,0,35,0
+Paid Subscriptions,Paid Subscription,Units,2018,1,0,50,0
+Paid Subscriptions,Paid Subscription,Units,2019,1,0,0,0
+CD,CD,Value,1973,1,0,0,0
+CD,CD,Value,1974,1,0,0,0
+CD,CD,Value,1975,1,0,0,0
+CD,CD,Value,1976,1,0,0,0
+CD,CD,Value,1977,1,0,0,0
+CD,CD,Value,1978,1,0,0,0
+CD,CD,Value,1979,1,0,0,0
+CD,CD,Value,1980,1,0,0,0
+CD,CD,Value,1981,1,0,0,0
+CD,CD,Value,1982,1,0,0,0
+CD,CD,Value,1983,1,17,0,17
+CD,CD,Value,1984,1,103,0,103
+CD,CD,Value,1985,1,390,0,390
+CD,CD,Value,1986,1,930,0,930
+CD,CD,Value,1987,1,1594,0,1594
+CD,CD,Value,1988,1,2090,0,2090
+CD,CD,Value,1989,1,2588,0,2588
+CD,CD,Value,1990,1,3452,0,3452
+CD,CD,Value,1991,1,4338,0,4338
+CD,CD,Value,1992,1,5327,0,5327
+CD,CD,Value,1993,1,6511,0,6511
+CD,CD,Value,1994,1,8465,0,8465
+CD,CD,Value,1995,1,9377,0,9377
+CD,CD,Value,1996,1,9935,0,9935
+CD,CD,Value,1997,1,9915,0,9915
+CD,CD,Value,1998,1,11416,0,11416
+CD,CD,Value,1999,1,12816,0,12816
+CD,CD,Value,2000,1,13215,0,13215
+CD,CD,Value,2001,1,12909,0,12909
+CD,CD,Value,2002,1,12044,0,12044
+CD,CD,Value,2003,1,11233,0,11233
+CD,CD,Value,2004,1,11447,0,11447
+CD,CD,Value,2005,1,10520,0,10520
+CD,CD,Value,2006,1,9373,0,9373
+CD,CD,Value,2007,1,7452,0,7452
+CD,CD,Value,2008,1,5471,0,5471
+CD,CD,Value,2009,1,4319,0,4319
+CD,CD,Value,2010,1,3389,0,3389
+CD,CD,Value,2011,1,3101,0,3101
+CD,CD,Value,2012,1,2486,0,2486
+CD,CD,Value,2013,1,2141,0,2141
+CD,CD,Value,2014,1,1776,0,1776
+CD,CD,Value,2015,1,1445,0,1445
+CD,CD,Value,2016,1,1131,0,1131
+CD,CD,Value,2017,1,1057,0,1057
+CD,CD,Value,2018,1,698,0,698
+CD,CD,Value,2019,1,615,0,615
+CD Single,CD,Value,1973,1,0,0,0
+CD Single,CD,Value,1974,1,0,0,0
+CD Single,CD,Value,1975,1,0,0,0
+CD Single,CD,Value,1976,1,0,0,0
+CD Single,CD,Value,1977,1,0,0,0
+CD Single,CD,Value,1978,1,0,0,0
+CD Single,CD,Value,1979,1,0,0,0
+CD Single,CD,Value,1980,1,0,0,0
+CD Single,CD,Value,1981,1,0,0,0
+CD Single,CD,Value,1982,1,0,0,0
+CD Single,CD,Value,1983,1,0,0,0
+CD Single,CD,Value,1984,1,0,0,0
+CD Single,CD,Value,1985,1,0,0,0
+CD Single,CD,Value,1986,1,0,0,0
+CD Single,CD,Value,1987,1,0,0,0
+CD Single,CD,Value,1988,1,10,0,10
+CD Single,CD,Value,1989,1,-1,0,-1
+CD Single,CD,Value,1990,1,6,0,6
+CD Single,CD,Value,1991,1,35,0,35
+CD Single,CD,Value,1992,1,45,0,45
+CD Single,CD,Value,1993,1,46,0,46
+CD Single,CD,Value,1994,1,56,0,56
+CD Single,CD,Value,1995,1,111,0,111
+CD Single,CD,Value,1996,1,184,0,184
+CD Single,CD,Value,1997,1,273,0,273
+CD Single,CD,Value,1998,1,213,0,213
+CD Single,CD,Value,1999,1,222,0,222
+CD Single,CD,Value,2000,1,143,0,143
+CD Single,CD,Value,2001,1,79,0,79
+CD Single,CD,Value,2002,1,20,0,20
+CD Single,CD,Value,2003,1,36,0,36
+CD Single,CD,Value,2004,1,15,0,15
+CD Single,CD,Value,2005,1,11,0,11
+CD Single,CD,Value,2006,1,8,0,8
+CD Single,CD,Value,2007,1,12,0,12
+CD Single,CD,Value,2008,1,4,0,4
+CD Single,CD,Value,2009,1,3,0,3
+CD Single,CD,Value,2010,1,3,0,3
+CD Single,CD,Value,2011,1,4,0,4
+CD Single,CD,Value,2012,1,3,0,3
+CD Single,CD,Value,2013,1,2,0,2
+CD Single,CD,Value,2014,1,4,0,4
+CD Single,CD,Value,2015,1,1,0,1
+CD Single,CD,Value,2016,1,0,0,0
+CD Single,CD,Value,2017,1,1,0,1
+CD Single,CD,Value,2018,1,0,0,0
+CD Single,CD,Value,2019,1,0,0,0
+Cassette,Cassette,Value,1973,1,76,0,76
+Cassette,Cassette,Value,1974,1,87,0,87
+Cassette,Cassette,Value,1975,1,99,0,99
+Cassette,Cassette,Value,1976,1,146,0,146
+Cassette,Cassette,Value,1977,1,250,0,250
+Cassette,Cassette,Value,1978,1,450,0,450
+Cassette,Cassette,Value,1979,1,581,0,581
+Cassette,Cassette,Value,1980,1,705,0,705
+Cassette,Cassette,Value,1981,1,1063,0,1063
+Cassette,Cassette,Value,1982,1,1385,0,1385
+Cassette,Cassette,Value,1983,1,1811,0,1811
+Cassette,Cassette,Value,1984,1,2384,0,2384
+Cassette,Cassette,Value,1985,1,2412,0,2412
+Cassette,Cassette,Value,1986,1,2500,0,2500
+Cassette,Cassette,Value,1987,1,2960,0,2960
+Cassette,Cassette,Value,1988,1,3385,0,3385
+Cassette,Cassette,Value,1989,1,3346,0,3346
+Cassette,Cassette,Value,1990,1,3472,0,3472
+Cassette,Cassette,Value,1991,1,3020,0,3020
+Cassette,Cassette,Value,1992,1,3116,0,3116
+Cassette,Cassette,Value,1993,1,2916,0,2916
+Cassette,Cassette,Value,1994,1,2976,0,2976
+Cassette,Cassette,Value,1995,1,2304,0,2304
+Cassette,Cassette,Value,1996,1,1905,0,1905
+Cassette,Cassette,Value,1997,1,1523,0,1523
+Cassette,Cassette,Value,1998,1,1420,0,1420
+Cassette,Cassette,Value,1999,1,1062,0,1062
+Cassette,Cassette,Value,2000,1,626,0,626
+Cassette,Cassette,Value,2001,1,363,0,363
+Cassette,Cassette,Value,2002,1,210,0,210
+Cassette,Cassette,Value,2003,1,108,0,108
+Cassette,Cassette,Value,2004,1,24,0,24
+Cassette,Cassette,Value,2005,1,13,0,13
+Cassette,Cassette,Value,2006,1,4,0,4
+Cassette,Cassette,Value,2007,1,3,0,3
+Cassette,Cassette,Value,2008,1,1,0,1
+Cassette,Cassette,Value,2009,1,0,0,0
+Cassette,Cassette,Value,2010,1,0,0,0
+Cassette,Cassette,Value,2011,1,0,0,0
+Cassette,Cassette,Value,2012,1,0,0,0
+Cassette,Cassette,Value,2013,1,0,0,0
+Cassette,Cassette,Value,2014,1,0,0,0
+Cassette,Cassette,Value,2015,1,0,0,0
+Cassette,Cassette,Value,2016,1,0,0,0
+Cassette,Cassette,Value,2017,1,0,0,0
+Cassette,Cassette,Value,2018,1,0,0,0
+Cassette,Cassette,Value,2019,1,0,0,0
+Cassette Single,Cassette,Value,1973,1,0,0,0
+Cassette Single,Cassette,Value,1974,1,0,0,0
+Cassette Single,Cassette,Value,1975,1,0,0,0
+Cassette Single,Cassette,Value,1976,1,0,0,0
+Cassette Single,Cassette,Value,1977,1,0,0,0
+Cassette Single,Cassette,Value,1978,1,0,0,0
+Cassette Single,Cassette,Value,1979,1,0,0,0
+Cassette Single,Cassette,Value,1980,1,0,0,0
+Cassette Single,Cassette,Value,1981,1,0,0,0
+Cassette Single,Cassette,Value,1982,1,0,0,0
+Cassette Single,Cassette,Value,1983,1,0,0,0
+Cassette Single,Cassette,Value,1984,1,0,0,0
+Cassette Single,Cassette,Value,1985,1,0,0,0
+8 - Track,Tapes,Value,1973,1,489,0,489
+8 - Track,Tapes,Value,1974,1,549,0,549
+8 - Track,Tapes,Value,1975,1,583,0,583
+8 - Track,Tapes,Value,1976,1,678,0,678
+8 - Track,Tapes,Value,1977,1,811,0,811
+8 - Track,Tapes,Value,1978,1,948,0,948
+8 - Track,Tapes,Value,1979,1,684,0,684
+8 - Track,Tapes,Value,1980,1,527,0,527
+8 - Track,Tapes,Value,1981,1,313,0,313
+8 - Track,Tapes,Value,1982,1,36,0,36
+8 - Track,Tapes,Value,1983,1,0,0,0
+8 - Track,Tapes,Value,1984,1,0,0,0
+8 - Track,Tapes,Value,1985,1,0,0,0
+8 - Track,Tapes,Value,1986,1,0,0,0
+8 - Track,Tapes,Value,1987,1,0,0,0
+8 - Track,Tapes,Value,1988,1,0,0,0
+8 - Track,Tapes,Value,1989,1,0,0,0
+8 - Track,Tapes,Value,1990,1,0,0,0
+8 - Track,Tapes,Value,1991,1,0,0,0
+8 - Track,Tapes,Value,1992,1,0,0,0
+8 - Track,Tapes,Value,1993,1,0,0,0
+8 - Track,Tapes,Value,1994,1,0,0,0
+8 - Track,Tapes,Value,1995,1,0,0,0
+8 - Track,Tapes,Value,1996,1,0,0,0
+8 - Track,Tapes,Value,1997,1,0,0,0
+8 - Track,Tapes,Value,1998,1,0,0,0
+8 - Track,Tapes,Value,1999,1,0,0,0
+8 - Track,Tapes,Value,2000,1,0,0,0
+8 - Track,Tapes,Value,2001,1,0,0,0
+8 - Track,Tapes,Value,2002,1,0,0,0
+8 - Track,Tapes,Value,2003,1,0,0,0
+8 - Track,Tapes,Value,2004,1,0,0,0
+8 - Track,Tapes,Value,2005,1,0,0,0
+8 - Track,Tapes,Value,2006,1,0,0,0
+8 - Track,Tapes,Value,2007,1,0,0,0
+8 - Track,Tapes,Value,2008,1,0,0,0
+8 - Track,Tapes,Value,2009,1,0,0,0
+8 - Track,Tapes,Value,2010,1,0,0,0
+8 - Track,Tapes,Value,2011,1,0,0,0
+8 - Track,Tapes,Value,2012,1,0,0,0
+8 - Track,Tapes,Value,2013,1,0,0,0
+8 - Track,Tapes,Value,2014,1,0,0,0
+8 - Track,Tapes,Value,2015,1,0,0,0
+8 - Track,Tapes,Value,2016,1,0,0,0
+8 - Track,Tapes,Value,2017,1,0,0,0
+8 - Track,Tapes,Value,2018,1,0,0,0
+8 - Track,Tapes,Value,2019,1,0,0,0
+Cassette Single,Cassette,Value,1986,1,0,0,0
+Cassette Single,Cassette,Value,1987,1,14,0,14
+Cassette Single,Cassette,Value,1988,1,57,0,57
+Cassette Single,Cassette,Value,1989,1,195,0,195
+Cassette Single,Cassette,Value,1990,1,258,0,258
+Cassette Single,Cassette,Value,1991,1,230,0,230
+Cassette Single,Cassette,Value,1992,1,299,0,299
+Cassette Single,Cassette,Value,1993,1,299,0,299
+Cassette Single,Cassette,Value,1994,1,275,0,275
+Cassette Single,Cassette,Value,1995,1,236,0,236
+Cassette Single,Cassette,Value,1996,1,189,0,189
+Cassette Single,Cassette,Value,1997,1,134,0,134
+Cassette Single,Cassette,Value,1998,1,94,0,94
+Cassette Single,Cassette,Value,1999,1,48,0,48
+Cassette Single,Cassette,Value,2000,1,5,0,5
+Cassette Single,Cassette,Value,2001,1,-5,0,-5
+Cassette Single,Cassette,Value,2002,1,-2,0,-2
+Cassette Single,Cassette,Value,2003,1,0,0,0
+Cassette Single,Cassette,Value,2004,1,0,0,0
+Cassette Single,Cassette,Value,2005,1,0,0,0
+Cassette Single,Cassette,Value,2006,1,0,0,0
+Cassette Single,Cassette,Value,2007,1,0,0,0
+Cassette Single,Cassette,Value,2008,1,0,0,0
+Cassette Single,Cassette,Value,2009,1,0,0,0
+Cassette Single,Cassette,Value,2010,1,0,0,0
+Cassette Single,Cassette,Value,2011,1,0,0,0
+Cassette Single,Cassette,Value,2012,1,0,0,0
+Cassette Single,Cassette,Value,2013,1,0,0,0
+Cassette Single,Cassette,Value,2014,1,0,0,0
+Cassette Single,Cassette,Value,2015,1,0,0,0
+Cassette Single,Cassette,Value,2016,1,0,0,0
+Cassette Single,Cassette,Value,2017,1,0,0,0
+Cassette Single,Cassette,Value,2018,1,0,0,0
+Cassette Single,Cassette,Value,2019,1,0,0,0
+DVD Audio,DVD,Value,1973,1,0,0,0
+DVD Audio,DVD,Value,1974,1,0,0,0
+DVD Audio,DVD,Value,1975,1,0,0,0
+DVD Audio,DVD,Value,1976,1,0,0,0
+DVD Audio,DVD,Value,1977,1,0,0,0
+DVD Audio,DVD,Value,1978,1,0,0,0
+DVD Audio,DVD,Value,1979,1,0,0,0
+DVD Audio,DVD,Value,1980,1,0,0,0
+DVD Audio,DVD,Value,1981,1,0,0,0
+DVD Audio,DVD,Value,1982,1,0,0,0
+DVD Audio,DVD,Value,1983,1,0,0,0
+DVD Audio,DVD,Value,1984,1,0,0,0
+DVD Audio,DVD,Value,1985,1,0,0,0
+DVD Audio,DVD,Value,1986,1,0,0,0
+DVD Audio,DVD,Value,1987,1,0,0,0
+DVD Audio,DVD,Value,1988,1,0,0,0
+DVD Audio,DVD,Value,1989,1,0,0,0
+DVD Audio,DVD,Value,1990,1,0,0,0
+DVD Audio,DVD,Value,1991,1,0,0,0
+DVD Audio,DVD,Value,1992,1,0,0,0
+DVD Audio,DVD,Value,1993,1,0,0,0
+DVD Audio,DVD,Value,1994,1,0,0,0
+DVD Audio,DVD,Value,1995,1,0,0,0
+DVD Audio,DVD,Value,1996,1,0,0,0
+DVD Audio,DVD,Value,1997,1,0,0,0
+DVD Audio,DVD,Value,1998,1,0,0,0
+DVD Audio,DVD,Value,1999,1,0,0,0
+DVD Audio,DVD,Value,2000,1,0,0,0
+DVD Audio,DVD,Value,2001,1,6,0,6
+DVD Audio,DVD,Value,2002,1,9,0,9
+DVD Audio,DVD,Value,2003,1,8,0,8
+DVD Audio,DVD,Value,2004,1,7,0,7
+DVD Audio,DVD,Value,2005,1,11,0,11
+DVD Audio,DVD,Value,2006,1,2,0,2
+DVD Audio,DVD,Value,2007,1,3,0,3
+DVD Audio,DVD,Value,2008,1,1,0,1
+DVD Audio,DVD,Value,2009,1,2,0,2
+DVD Audio,DVD,Value,2010,1,1,0,1
+DVD Audio,DVD,Value,2011,1,0,0,0
+DVD Audio,DVD,Value,2012,1,0,0,0
+DVD Audio,DVD,Value,2013,1,0,0,0
+DVD Audio,DVD,Value,2014,1,2,0,2
+DVD Audio,DVD,Value,2015,1,5,0,5
+DVD Audio,DVD,Value,2016,1,3,0,3
+DVD Audio,DVD,Value,2017,1,3,0,3
+DVD Audio,DVD,Value,2018,1,3,0,3
+DVD Audio,DVD,Value,2019,1,1,0,1
+Download Album,Download,Value,1973,1,0,0,0
+Download Album,Download,Value,1974,1,0,0,0
+Download Album,Download,Value,1975,1,0,0,0
+Download Album,Download,Value,1976,1,0,0,0
+Download Album,Download,Value,1977,1,0,0,0
+Download Album,Download,Value,1978,1,0,0,0
+Download Album,Download,Value,1979,1,0,0,0
+Download Album,Download,Value,1980,1,0,0,0
+Download Album,Download,Value,1981,1,0,0,0
+Download Album,Download,Value,1982,1,0,0,0
+Download Album,Download,Value,1983,1,0,0,0
+Download Album,Download,Value,1984,1,0,0,0
+Download Album,Download,Value,1985,1,0,0,0
+Download Album,Download,Value,1986,1,0,0,0
+Download Album,Download,Value,1987,1,0,0,0
+Download Album,Download,Value,1988,1,0,0,0
+Download Album,Download,Value,1989,1,0,0,0
+Download Album,Download,Value,1990,1,0,0,0
+Download Album,Download,Value,1991,1,0,0,0
+Download Album,Download,Value,1992,1,0,0,0
+Download Album,Download,Value,1993,1,0,0,0
+Download Album,Download,Value,1994,1,0,0,0
+Download Album,Download,Value,1995,1,0,0,0
+Download Album,Download,Value,1996,1,0,0,0
+Download Album,Download,Value,1997,1,0,0,0
+Download Album,Download,Value,1998,1,0,0,0
+Download Album,Download,Value,1999,1,0,0,0
+Download Album,Download,Value,2000,1,0,0,0
+Download Album,Download,Value,2001,1,0,0,0
+Download Album,Download,Value,2002,1,0,0,0
+Download Album,Download,Value,2003,1,0,0,0
+Download Album,Download,Value,2004,1,46,0,46
+Download Album,Download,Value,2005,1,136,0,136
+Download Album,Download,Value,2006,1,276,0,276
+Download Album,Download,Value,2007,1,497,0,497
+Download Album,Download,Value,2008,1,635,0,635
+Download Album,Download,Value,2009,1,744,0,744
+Download Album,Download,Value,2010,1,872,0,872
+Download Album,Download,Value,2011,1,1071,0,1071
+Download Album,Download,Value,2012,1,1205,0,1205
+Download Album,Download,Value,2013,1,1232,0,1232
+Download Album,Download,Value,2014,1,1118,0,1118
+Download Album,Download,Value,2015,1,1064,0,1064
+Download Album,Download,Value,2016,1,869,0,869
+Download Album,Download,Value,2017,1,669,0,669
+Download Album,Download,Value,2018,1,500,0,500
+Download Album,Download,Value,2019,1,395,0,395
+Download Music Video,Download,Value,1973,1,0,0,0
+Download Music Video,Download,Value,1974,1,0,0,0
+Download Music Video,Download,Value,1975,1,0,0,0
+Download Music Video,Download,Value,1976,1,0,0,0
+Download Music Video,Download,Value,1977,1,0,0,0
+Download Music Video,Download,Value,1978,1,0,0,0
+Download Music Video,Download,Value,1979,1,0,0,0
+Download Music Video,Download,Value,1980,1,0,0,0
+Download Music Video,Download,Value,1981,1,0,0,0
+Download Music Video,Download,Value,1982,1,0,0,0
+Download Music Video,Download,Value,1983,1,0,0,0
+Download Music Video,Download,Value,1984,1,0,0,0
+Download Music Video,Download,Value,1985,1,0,0,0
+Download Music Video,Download,Value,1986,1,0,0,0
+Download Music Video,Download,Value,1987,1,0,0,0
+Download Music Video,Download,Value,1988,1,0,0,0
+Download Music Video,Download,Value,1989,1,0,0,0
+Download Music Video,Download,Value,1990,1,0,0,0
+Download Music Video,Download,Value,1991,1,0,0,0
+Download Music Video,Download,Value,1992,1,0,0,0
+Download Music Video,Download,Value,1993,1,0,0,0
+Download Music Video,Download,Value,1994,1,0,0,0
+Download Music Video,Download,Value,1995,1,0,0,0
+Download Music Video,Download,Value,1996,1,0,0,0
+Download Music Video,Download,Value,1997,1,0,0,0
+Download Music Video,Download,Value,1998,1,0,0,0
+Download Music Video,Download,Value,1999,1,0,0,0
+Download Music Video,Download,Value,2000,1,0,0,0
+Download Music Video,Download,Value,2001,1,0,0,0
+Download Music Video,Download,Value,2002,1,0,0,0
+Download Music Video,Download,Value,2003,1,0,0,0
+Download Music Video,Download,Value,2004,1,0,0,0
+Download Music Video,Download,Value,2005,1,4,0,4
+Download Music Video,Download,Value,2006,1,20,0,20
+Download Music Video,Download,Value,2007,1,28,0,28
+Download Music Video,Download,Value,2008,1,41,0,41
+Download Music Video,Download,Value,2009,1,41,0,41
+Download Music Video,Download,Value,2010,1,37,0,37
+Download Music Video,Download,Value,2011,1,32,0,32
+Download Music Video,Download,Value,2012,1,21,0,21
+Download Music Video,Download,Value,2013,1,17,0,17
+Download Music Video,Download,Value,2014,1,14,0,14
+Download Music Video,Download,Value,2015,1,6,0,6
+Download Music Video,Download,Value,2016,1,4,0,4
+Download Music Video,Download,Value,2017,1,3,0,3
+Download Music Video,Download,Value,2018,1,2,0,2
+Download Music Video,Download,Value,2019,1,2,0,2
+Download Single,Download,Value,1973,1,0,0,0
+Download Single,Download,Value,1974,1,0,0,0
+Download Single,Download,Value,1975,1,0,0,0
+Download Single,Download,Value,1976,1,0,0,0
+Download Single,Download,Value,1977,1,0,0,0
+Download Single,Download,Value,1978,1,0,0,0
+Download Single,Download,Value,1979,1,0,0,0
+Download Single,Download,Value,1980,1,0,0,0
+Download Single,Download,Value,1981,1,0,0,0
+Download Single,Download,Value,1982,1,0,0,0
+Download Single,Download,Value,1983,1,0,0,0
+Download Single,Download,Value,1984,1,0,0,0
+Download Single,Download,Value,1985,1,0,0,0
+Download Single,Download,Value,1986,1,0,0,0
+Download Single,Download,Value,1987,1,0,0,0
+Download Single,Download,Value,1988,1,0,0,0
+Download Single,Download,Value,1989,1,0,0,0
+Download Single,Download,Value,1990,1,0,0,0
+Download Single,Download,Value,1991,1,0,0,0
+Download Single,Download,Value,1992,1,0,0,0
+Download Single,Download,Value,1993,1,0,0,0
+Download Single,Download,Value,1994,1,0,0,0
+Download Single,Download,Value,1995,1,0,0,0
+Download Single,Download,Value,1996,1,0,0,0
+Download Single,Download,Value,1997,1,0,0,0
+Download Single,Download,Value,1998,1,0,0,0
+Download Single,Download,Value,1999,1,0,0,0
+Download Single,Download,Value,2000,1,0,0,0
+Download Single,Download,Value,2001,1,0,0,0
+Download Single,Download,Value,2002,1,0,0,0
+Download Single,Download,Value,2003,1,0,0,0
+Download Single,Download,Value,2004,1,138,0,138
+Download Single,Download,Value,2005,1,363,0,363
+Download Single,Download,Value,2006,1,581,0,581
+Download Single,Download,Value,2007,1,811,0,811
+Download Single,Download,Value,2008,1,1032,0,1032
+Download Single,Download,Value,2009,1,1172,0,1172
+Download Single,Download,Value,2010,1,1336,0,1336
+Download Single,Download,Value,2011,1,1522,0,1522
+Download Single,Download,Value,2012,1,1645,0,1645
+Download Single,Download,Value,2013,1,1573,0,1573
+Download Single,Download,Value,2014,1,1355,0,1355
+Download Single,Download,Value,2015,1,1185,0,1185
+Download Single,Download,Value,2016,1,900,0,900
+Download Single,Download,Value,2017,1,679,0,679
+Download Single,Download,Value,2018,1,490,0,490
+Download Single,Download,Value,2019,1,415,0,415
+Kiosk,Other,Value,1973,1,0,0,0
+Kiosk,Other,Value,1974,1,0,0,0
+Kiosk,Other,Value,1975,1,0,0,0
+Kiosk,Other,Value,1976,1,0,0,0
+Kiosk,Other,Value,1977,1,0,0,0
+Kiosk,Other,Value,1978,1,0,0,0
+Kiosk,Other,Value,1979,1,0,0,0
+Kiosk,Other,Value,1980,1,0,0,0
+Kiosk,Other,Value,1981,1,0,0,0
+Kiosk,Other,Value,1982,1,0,0,0
+Kiosk,Other,Value,1983,1,0,0,0
+Kiosk,Other,Value,1984,1,0,0,0
+Kiosk,Other,Value,1985,1,0,0,0
+Kiosk,Other,Value,1986,1,0,0,0
+Kiosk,Other,Value,1987,1,0,0,0
+Kiosk,Other,Value,1988,1,0,0,0
+Kiosk,Other,Value,1989,1,0,0,0
+Kiosk,Other,Value,1990,1,0,0,0
+Kiosk,Other,Value,1991,1,0,0,0
+Kiosk,Other,Value,1992,1,0,0,0
+Kiosk,Other,Value,1993,1,0,0,0
+Kiosk,Other,Value,1994,1,0,0,0
+Kiosk,Other,Value,1995,1,0,0,0
+Kiosk,Other,Value,1996,1,0,0,0
+Kiosk,Other,Value,1997,1,0,0,0
+Kiosk,Other,Value,1998,1,0,0,0
+Kiosk,Other,Value,1999,1,0,0,0
+Kiosk,Other,Value,2000,1,0,0,0
+Kiosk,Other,Value,2001,1,0,0,0
+Kiosk,Other,Value,2002,1,0,0,0
+Kiosk,Other,Value,2003,1,0,0,0
+Kiosk,Other,Value,2004,1,0,0,0
+Kiosk,Other,Value,2005,1,1,0,1
+Kiosk,Other,Value,2006,1,2,0,2
+Kiosk,Other,Value,2007,1,3,0,3
+Kiosk,Other,Value,2008,1,3,0,3
+Kiosk,Other,Value,2009,1,6,0,6
+Kiosk,Other,Value,2010,1,6,0,6
+Kiosk,Other,Value,2011,1,3,0,3
+Kiosk,Other,Value,2012,1,4,0,4
+Kiosk,Other,Value,2013,1,6,0,6
+Kiosk,Other,Value,2014,1,3,0,3
+Kiosk,Other,Value,2015,1,4,0,4
+Kiosk,Other,Value,2016,1,3,0,3
+Kiosk,Other,Value,2017,1,2,0,2
+Kiosk,Other,Value,2018,1,2,0,2
+Kiosk,Other,Value,2019,1,2,0,2
+LP/EP,Vinyl,Value,1973,1,1246,0,1246
+LP/EP,Vinyl,Value,1974,1,1356,0,1356
+LP/EP,Vinyl,Value,1975,1,1485,0,1485
+LP/EP,Vinyl,Value,1976,1,1663,0,1663
+LP/EP,Vinyl,Value,1977,1,2195,0,2195
+LP/EP,Vinyl,Value,1978,1,2473,0,2473
+LP/EP,Vinyl,Value,1979,1,2057,0,2057
+LP/EP,Vinyl,Value,1980,1,2200,0,2200
+LP/EP,Vinyl,Value,1981,1,2342,0,2342
+LP/EP,Vinyl,Value,1982,1,1925,0,1925
+LP/EP,Vinyl,Value,1983,1,1689,0,1689
+LP/EP,Vinyl,Value,1984,1,1549,0,1549
+LP/EP,Vinyl,Value,1985,1,1281,0,1281
+LP/EP,Vinyl,Value,1986,1,983,0,983
+LP/EP,Vinyl,Value,1987,1,793,0,793
+LP/EP,Vinyl,Value,1988,1,532,0,532
+LP/EP,Vinyl,Value,1989,1,220,0,220
+LP/EP,Vinyl,Value,1990,1,87,0,87
+LP/EP,Vinyl,Value,1991,1,29,0,29
+LP/EP,Vinyl,Value,1992,1,14,0,14
+LP/EP,Vinyl,Value,1993,1,11,0,11
+LP/EP,Vinyl,Value,1994,1,18,0,18
+LP/EP,Vinyl,Value,1995,1,25,0,25
+LP/EP,Vinyl,Value,1996,1,37,0,37
+LP/EP,Vinyl,Value,1997,1,33,0,33
+LP/EP,Vinyl,Value,1998,1,34,0,34
+LP/EP,Vinyl,Value,1999,1,32,0,32
+LP/EP,Vinyl,Value,2000,1,28,0,28
+LP/EP,Vinyl,Value,2001,1,27,0,27
+LP/EP,Vinyl,Value,2002,1,21,0,21
+LP/EP,Vinyl,Value,2003,1,22,0,22
+LP/EP,Vinyl,Value,2004,1,19,0,19
+LP/EP,Vinyl,Value,2005,1,14,0,14
+LP/EP,Vinyl,Value,2006,1,16,0,16
+LP/EP,Vinyl,Value,2007,1,23,0,23
+LP/EP,Vinyl,Value,2008,1,57,0,57
+LP/EP,Vinyl,Value,2009,1,64,0,64
+LP/EP,Vinyl,Value,2010,1,89,0,89
+LP/EP,Vinyl,Value,2011,1,119,0,119
+LP/EP,Vinyl,Value,2012,1,161,0,161
+LP/EP,Vinyl,Value,2013,1,211,0,211
+LP/EP,Vinyl,Value,2014,1,244,0,244
+LP/EP,Vinyl,Value,2015,1,333,0,333
+LP/EP,Vinyl,Value,2016,1,355,0,355
+LP/EP,Vinyl,Value,2017,1,389,0,389
+LP/EP,Vinyl,Value,2018,1,419,0,419
+LP/EP,Vinyl,Value,2019,1,498,0,498
+Limited Tier Paid Subscription,Paid Subscription,Value,1973,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1974,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1975,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1976,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1977,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1978,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1979,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1980,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1981,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1982,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1983,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1984,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1985,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1986,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1987,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1988,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1989,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1990,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1991,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1992,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1993,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1994,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1995,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1996,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1997,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1998,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,1999,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2000,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2001,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2002,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2003,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2004,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2005,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2006,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2007,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2008,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2009,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2010,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2011,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2012,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2013,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2014,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2015,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value,2016,1,263,0,263
+Limited Tier Paid Subscription,Paid Subscription,Value,2017,1,592,0,592
+Limited Tier Paid Subscription,Paid Subscription,Value,2018,1,747,0,747
+Limited Tier Paid Subscription,Paid Subscription,Value,2019,1,829,0,829
+Music Video (Physical),Other,Value,1973,1,0,0,0
+Music Video (Physical),Other,Value,1974,1,0,0,0
+Music Video (Physical),Other,Value,1975,1,0,0,0
+Music Video (Physical),Other,Value,1976,1,0,0,0
+Music Video (Physical),Other,Value,1977,1,0,0,0
+Music Video (Physical),Other,Value,1978,1,0,0,0
+Music Video (Physical),Other,Value,1979,1,0,0,0
+Music Video (Physical),Other,Value,1980,1,0,0,0
+Music Video (Physical),Other,Value,1981,1,0,0,0
+Music Video (Physical),Other,Value,1982,1,0,0,0
+Music Video (Physical),Other,Value,1983,1,0,0,0
+Music Video (Physical),Other,Value,1984,1,0,0,0
+Music Video (Physical),Other,Value,1985,1,0,0,0
+Music Video (Physical),Other,Value,1986,1,0,0,0
+Music Video (Physical),Other,Value,1987,1,0,0,0
+Music Video (Physical),Other,Value,1988,1,0,0,0
+Music Video (Physical),Other,Value,1989,1,115,0,115
+Music Video (Physical),Other,Value,1990,1,172,0,172
+Music Video (Physical),Other,Value,1991,1,118,0,118
+Music Video (Physical),Other,Value,1992,1,157,0,157
+Music Video (Physical),Other,Value,1993,1,213,0,213
+Music Video (Physical),Other,Value,1994,1,231,0,231
+Music Video (Physical),Other,Value,1995,1,220,0,220
+Music Video (Physical),Other,Value,1996,1,236,0,236
+Music Video (Physical),Other,Value,1997,1,324,0,324
+Music Video (Physical),Other,Value,1998,1,508,0,508
+Music Video (Physical),Other,Value,1999,1,377,0,377
+Music Video (Physical),Other,Value,2000,1,282,0,282
+Music Video (Physical),Other,Value,2001,1,329,0,329
+Music Video (Physical),Other,Value,2002,1,288,0,288
+Music Video (Physical),Other,Value,2003,1,400,0,400
+Music Video (Physical),Other,Value,2004,1,607,0,607
+Music Video (Physical),Other,Value,2005,1,602,0,602
+Music Video (Physical),Other,Value,2006,1,451,0,451
+Music Video (Physical),Other,Value,2007,1,485,0,485
+Music Video (Physical),Other,Value,2008,1,227,0,227
+Music Video (Physical),Other,Value,2009,1,210,0,210
+Music Video (Physical),Other,Value,2010,1,178,0,178
+Music Video (Physical),Other,Value,2011,1,151,0,151
+Music Video (Physical),Other,Value,2012,1,117,0,117
+Music Video (Physical),Other,Value,2013,1,106,0,106
+Music Video (Physical),Other,Value,2014,1,90,0,90
+Music Video (Physical),Other,Value,2015,1,70,0,70
+Music Video (Physical),Other,Value,2016,1,57,0,57
+Music Video (Physical),Other,Value,2017,1,39,0,39
+Music Video (Physical),Other,Value,2018,1,28,0,28
+Music Video (Physical),Other,Value,2019,1,28,0,28
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1974,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1975,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1976,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1977,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1978,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1979,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1980,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1981,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1982,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1983,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1984,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1985,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1986,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1987,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1988,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1989,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1990,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1991,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1992,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1993,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1994,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1995,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1996,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1997,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1998,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,1999,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2000,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2001,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2002,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2003,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2004,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2005,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2006,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2007,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2008,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2009,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2010,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2011,1,114,0,114
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2012,1,171,0,171
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2013,1,221,0,221
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2014,1,284,0,284
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2015,1,372,0,372
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2016,1,489,0,489
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2017,1,659,0,659
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2018,1,760,0,760
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2019,1,908,0,908
+Other Ad-Supported Streaming,Other Streaming,Value,1973,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1974,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1975,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1976,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1977,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1978,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1979,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1980,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1981,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1982,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1983,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1984,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1985,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1986,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1987,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1988,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1989,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1990,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1991,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1992,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1993,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1994,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1995,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1996,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1997,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1998,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,1999,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2000,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2001,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2002,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2003,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2004,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2005,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2006,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2007,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2008,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2009,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2010,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2011,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2012,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2013,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2014,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2015,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value,2016,1,81,0,81
+Other Ad-Supported Streaming,Other Streaming,Value,2017,1,262,0,262
+Other Ad-Supported Streaming,Other Streaming,Value,2018,1,251,0,251
+Other Ad-Supported Streaming,Other Streaming,Value,2019,1,251,0,251
+Other Digital,Download,Value,1973,1,0,0,0
+Other Digital,Download,Value,1974,1,0,0,0
+Other Digital,Download,Value,1975,1,0,0,0
+Other Digital,Download,Value,1976,1,0,0,0
+Other Digital,Download,Value,1977,1,0,0,0
+Other Digital,Download,Value,1978,1,0,0,0
+Other Digital,Download,Value,1979,1,0,0,0
+Other Digital,Download,Value,1980,1,0,0,0
+Other Digital,Download,Value,1981,1,0,0,0
+Other Digital,Download,Value,1982,1,0,0,0
+Other Digital,Download,Value,1983,1,0,0,0
+Other Digital,Download,Value,1984,1,0,0,0
+Other Digital,Download,Value,1985,1,0,0,0
+Other Digital,Download,Value,1986,1,0,0,0
+Other Digital,Download,Value,1987,1,0,0,0
+Other Digital,Download,Value,1988,1,0,0,0
+Other Digital,Download,Value,1989,1,0,0,0
+Other Digital,Download,Value,1990,1,0,0,0
+Other Digital,Download,Value,1991,1,0,0,0
+Other Digital,Download,Value,1992,1,0,0,0
+Other Digital,Download,Value,1993,1,0,0,0
+Other Digital,Download,Value,1994,1,0,0,0
+Other Digital,Download,Value,1995,1,0,0,0
+Other Digital,Download,Value,1996,1,0,0,0
+Other Digital,Download,Value,1997,1,0,0,0
+Other Digital,Download,Value,1998,1,0,0,0
+Other Digital,Download,Value,1999,1,0,0,0
+Other Digital,Download,Value,2000,1,0,0,0
+Other Digital,Download,Value,2001,1,0,0,0
+Other Digital,Download,Value,2002,1,0,0,0
+Other Digital,Download,Value,2003,1,0,0,0
+Other Digital,Download,Value,2004,1,0,0,0
+Other Digital,Download,Value,2005,1,0,0,0
+Other Digital,Download,Value,2006,1,0,0,0
+Other Digital,Download,Value,2007,1,0,0,0
+Other Digital,Download,Value,2008,1,0,0,0
+Other Digital,Download,Value,2009,1,0,0,0
+Other Digital,Download,Value,2010,1,0,0,0
+Other Digital,Download,Value,2011,1,0,0,0
+Other Digital,Download,Value,2012,1,0,0,0
+Other Digital,Download,Value,2013,1,0,0,0
+Other Digital,Download,Value,2014,1,0,0,0
+Other Digital,Download,Value,2015,1,0,0,0
+Other Digital,Download,Value,2016,1,17,0,17
+Other Digital,Download,Value,2017,1,17,0,17
+Other Digital,Download,Value,2018,1,20,0,20
+Other Digital,Download,Value,2019,1,22,0,22
+Other Tapes,Tapes,Value,1973,1,16,0,16
+Other Tapes,Tapes,Value,1974,1,13,0,13
+Other Tapes,Tapes,Value,1975,1,10,0,10
+Other Tapes,Tapes,Value,1976,1,5,0,5
+Other Tapes,Tapes,Value,1977,1,0,0,0
+Other Tapes,Tapes,Value,1978,1,0,0,0
+Other Tapes,Tapes,Value,1979,1,0,0,0
+Other Tapes,Tapes,Value,1980,1,0,0,0
+Other Tapes,Tapes,Value,1981,1,0,0,0
+Other Tapes,Tapes,Value,1982,1,0,0,0
+Other Tapes,Tapes,Value,1983,1,0,0,0
+Other Tapes,Tapes,Value,1984,1,0,0,0
+Other Tapes,Tapes,Value,1985,1,0,0,0
+Other Tapes,Tapes,Value,1986,1,0,0,0
+Other Tapes,Tapes,Value,1987,1,0,0,0
+Other Tapes,Tapes,Value,1988,1,0,0,0
+Other Tapes,Tapes,Value,1989,1,0,0,0
+Other Tapes,Tapes,Value,1990,1,0,0,0
+Other Tapes,Tapes,Value,1991,1,0,0,0
+Other Tapes,Tapes,Value,1992,1,0,0,0
+Other Tapes,Tapes,Value,1993,1,0,0,0
+Other Tapes,Tapes,Value,1994,1,0,0,0
+Other Tapes,Tapes,Value,1995,1,0,0,0
+Other Tapes,Tapes,Value,1996,1,0,0,0
+Other Tapes,Tapes,Value,1997,1,0,0,0
+Other Tapes,Tapes,Value,1998,1,0,0,0
+Other Tapes,Tapes,Value,1999,1,0,0,0
+Other Tapes,Tapes,Value,2000,1,0,0,0
+Other Tapes,Tapes,Value,2001,1,0,0,0
+Other Tapes,Tapes,Value,2002,1,0,0,0
+Other Tapes,Tapes,Value,2003,1,0,0,0
+Other Tapes,Tapes,Value,2004,1,0,0,0
+Other Tapes,Tapes,Value,2005,1,0,0,0
+Other Tapes,Tapes,Value,2006,1,0,0,0
+Other Tapes,Tapes,Value,2007,1,0,0,0
+Other Tapes,Tapes,Value,2008,1,0,0,0
+Other Tapes,Tapes,Value,2009,1,0,0,0
+Other Tapes,Tapes,Value,2010,1,0,0,0
+Other Tapes,Tapes,Value,2011,1,0,0,0
+Other Tapes,Tapes,Value,2012,1,0,0,0
+Other Tapes,Tapes,Value,2013,1,0,0,0
+Other Tapes,Tapes,Value,2014,1,0,0,0
+Other Tapes,Tapes,Value,2015,1,0,0,0
+Other Tapes,Tapes,Value,2016,1,0,0,0
+Other Tapes,Tapes,Value,2017,1,0,0,0
+Other Tapes,Tapes,Value,2018,1,0,0,0
+Other Tapes,Tapes,Value,2019,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1973,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1974,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1975,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1976,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1977,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1978,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1979,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1980,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1981,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1982,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1983,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1984,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1985,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1986,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1987,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1988,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1989,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1990,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1991,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1992,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1993,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1994,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1995,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1996,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1997,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1998,1,0,0,0
+Paid Subscription,Paid Subscription,Value,1999,1,0,0,0
+Paid Subscription,Paid Subscription,Value,2000,1,0,0,0
+Paid Subscription,Paid Subscription,Value,2001,1,0,0,0
+Paid Subscription,Paid Subscription,Value,2002,1,0,0,0
+Paid Subscription,Paid Subscription,Value,2003,1,0,0,0
+Paid Subscription,Paid Subscription,Value,2004,1,0,0,0
+Paid Subscription,Paid Subscription,Value,2005,1,149,0,149
+Paid Subscription,Paid Subscription,Value,2006,1,206,0,206
+Paid Subscription,Paid Subscription,Value,2007,1,234,0,234
+Paid Subscription,Paid Subscription,Value,2008,1,221,0,221
+Paid Subscription,Paid Subscription,Value,2009,1,206,0,206
+Paid Subscription,Paid Subscription,Value,2010,1,212,0,212
+Paid Subscription,Paid Subscription,Value,2011,1,248,0,248
+Paid Subscription,Paid Subscription,Value,2012,1,400,0,400
+Paid Subscription,Paid Subscription,Value,2013,1,643,0,643
+Paid Subscription,Paid Subscription,Value,2014,1,770,0,770
+Paid Subscription,Paid Subscription,Value,2015,1,1157,0,1157
+Paid Subscription,Paid Subscription,Value,2016,1,2244,0,2244
+Paid Subscription,Paid Subscription,Value,2017,1,3501,0,3501
+Paid Subscription,Paid Subscription,Value,2018,1,4656,0,4656
+Paid Subscription,Paid Subscription,Value,2019,1,5934,0,5934
+Ringtones & Ringbacks,Ringtones,Value,1973,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1974,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1975,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1976,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1977,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1978,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1979,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1980,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1981,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1982,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1983,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1984,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1985,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1986,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1987,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1988,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1989,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1990,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1991,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1992,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1993,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1994,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1995,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1996,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1997,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1998,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,1999,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,2000,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,2001,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,2002,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,2003,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,2004,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value,2005,1,422,0,422
+Ringtones & Ringbacks,Ringtones,Value,2006,1,774,0,774
+Ringtones & Ringbacks,Ringtones,Value,2007,1,1056,0,1056
+Ringtones & Ringbacks,Ringtones,Value,2008,1,977,0,977
+Ringtones & Ringbacks,Ringtones,Value,2009,1,703,0,703
+Ringtones & Ringbacks,Ringtones,Value,2010,1,448,0,448
+Ringtones & Ringbacks,Ringtones,Value,2011,1,276,0,276
+Ringtones & Ringbacks,Ringtones,Value,2012,1,146,0,146
+Ringtones & Ringbacks,Ringtones,Value,2013,1,98,0,98
+Ringtones & Ringbacks,Ringtones,Value,2014,1,66,0,66
+Ringtones & Ringbacks,Ringtones,Value,2015,1,55,0,55
+Ringtones & Ringbacks,Ringtones,Value,2016,1,56,0,56
+Ringtones & Ringbacks,Ringtones,Value,2017,1,36,0,36
+Ringtones & Ringbacks,Ringtones,Value,2018,1,25,0,25
+Ringtones & Ringbacks,Ringtones,Value,2019,1,21,0,21
+SACD,CD,Value,1973,1,0,0,0
+SACD,CD,Value,1974,1,0,0,0
+SACD,CD,Value,1975,1,0,0,0
+SACD,CD,Value,1976,1,0,0,0
+SACD,CD,Value,1977,1,0,0,0
+SACD,CD,Value,1978,1,0,0,0
+SACD,CD,Value,1979,1,0,0,0
+SACD,CD,Value,1980,1,0,0,0
+SACD,CD,Value,1981,1,0,0,0
+SACD,CD,Value,1982,1,0,0,0
+SACD,CD,Value,1983,1,0,0,0
+SACD,CD,Value,1984,1,0,0,0
+SACD,CD,Value,1985,1,0,0,0
+SACD,CD,Value,1986,1,0,0,0
+SACD,CD,Value,1987,1,0,0,0
+SACD,CD,Value,1988,1,0,0,0
+SACD,CD,Value,1989,1,0,0,0
+SACD,CD,Value,1990,1,0,0,0
+SACD,CD,Value,1991,1,0,0,0
+SACD,CD,Value,1992,1,0,0,0
+SACD,CD,Value,1993,1,0,0,0
+SACD,CD,Value,1994,1,0,0,0
+SACD,CD,Value,1995,1,0,0,0
+SACD,CD,Value,1996,1,0,0,0
+SACD,CD,Value,1997,1,0,0,0
+SACD,CD,Value,1998,1,0,0,0
+SACD,CD,Value,1999,1,0,0,0
+SACD,CD,Value,2000,1,0,0,0
+SACD,CD,Value,2001,1,0,0,0
+SACD,CD,Value,2002,1,0,0,0
+SACD,CD,Value,2003,1,26,0,26
+SACD,CD,Value,2004,1,17,0,17
+SACD,CD,Value,2005,1,10,0,10
+SACD,CD,Value,2006,1,6,0,6
+SACD,CD,Value,2007,1,4,0,4
+SACD,CD,Value,2008,1,3,0,3
+SACD,CD,Value,2009,1,2,0,2
+SACD,CD,Value,2010,1,2,0,2
+SACD,CD,Value,2011,1,2,0,2
+SACD,CD,Value,2012,1,1,0,1
+SACD,CD,Value,2013,1,1,0,1
+SACD,CD,Value,2014,1,1,0,1
+SACD,CD,Value,2015,1,1,0,1
+SACD,CD,Value,2016,1,1,0,1
+SACD,CD,Value,2017,1,1,0,1
+SACD,CD,Value,2018,1,1,0,1
+SACD,CD,Value,2019,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1973,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1974,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1975,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1976,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1977,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1978,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1979,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1980,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1981,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1982,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1983,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1984,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1985,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1986,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1987,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1988,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1989,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1990,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1991,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1992,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1993,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1994,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1995,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1996,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1997,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1998,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,1999,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,2000,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,2001,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,2002,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,2003,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value,2004,1,7,0,7
+SoundExchange Distributions,Other Streaming,Value,2005,1,20,0,20
+SoundExchange Distributions,Other Streaming,Value,2006,1,33,0,33
+SoundExchange Distributions,Other Streaming,Value,2007,1,36,0,36
+SoundExchange Distributions,Other Streaming,Value,2008,1,100,0,100
+SoundExchange Distributions,Other Streaming,Value,2009,1,156,0,156
+SoundExchange Distributions,Other Streaming,Value,2010,1,249,0,249
+SoundExchange Distributions,Other Streaming,Value,2011,1,292,0,292
+SoundExchange Distributions,Other Streaming,Value,2012,1,462,0,462
+SoundExchange Distributions,Other Streaming,Value,2013,1,590,0,590
+SoundExchange Distributions,Other Streaming,Value,2014,1,773,0,773
+SoundExchange Distributions,Other Streaming,Value,2015,1,803,0,803
+SoundExchange Distributions,Other Streaming,Value,2016,1,884,0,884
+SoundExchange Distributions,Other Streaming,Value,2017,1,652,0,652
+SoundExchange Distributions,Other Streaming,Value,2018,1,953,0,953
+SoundExchange Distributions,Other Streaming,Value,2019,1,908,0,908
+Synchronization,Synchronization,Value,1974,1,0,0,0
+Synchronization,Synchronization,Value,1975,1,0,0,0
+Synchronization,Synchronization,Value,1976,1,0,0,0
+Synchronization,Synchronization,Value,1977,1,0,0,0
+Synchronization,Synchronization,Value,1978,1,0,0,0
+Synchronization,Synchronization,Value,1979,1,0,0,0
+Synchronization,Synchronization,Value,1980,1,0,0,0
+Synchronization,Synchronization,Value,1981,1,0,0,0
+Synchronization,Synchronization,Value,1982,1,0,0,0
+Synchronization,Synchronization,Value,1983,1,0,0,0
+Synchronization,Synchronization,Value,1984,1,0,0,0
+Synchronization,Synchronization,Value,1985,1,0,0,0
+Synchronization,Synchronization,Value,1986,1,0,0,0
+Synchronization,Synchronization,Value,1987,1,0,0,0
+Synchronization,Synchronization,Value,1988,1,0,0,0
+Synchronization,Synchronization,Value,1989,1,0,0,0
+Synchronization,Synchronization,Value,1990,1,0,0,0
+Synchronization,Synchronization,Value,1991,1,0,0,0
+Synchronization,Synchronization,Value,1992,1,0,0,0
+Synchronization,Synchronization,Value,1993,1,0,0,0
+Synchronization,Synchronization,Value,1994,1,0,0,0
+Synchronization,Synchronization,Value,1995,1,0,0,0
+Synchronization,Synchronization,Value,1996,1,0,0,0
+Synchronization,Synchronization,Value,1997,1,0,0,0
+Synchronization,Synchronization,Value,1998,1,0,0,0
+Synchronization,Synchronization,Value,1999,1,0,0,0
+Synchronization,Synchronization,Value,2000,1,0,0,0
+Synchronization,Synchronization,Value,2001,1,0,0,0
+Synchronization,Synchronization,Value,2002,1,0,0,0
+Synchronization,Synchronization,Value,2003,1,0,0,0
+Synchronization,Synchronization,Value,2004,1,0,0,0
+Synchronization,Synchronization,Value,2005,1,0,0,0
+Synchronization,Synchronization,Value,2006,1,0,0,0
+Synchronization,Synchronization,Value,2007,1,0,0,0
+Synchronization,Synchronization,Value,2008,1,0,0,0
+Synchronization,Synchronization,Value,2009,1,201,0,201
+Synchronization,Synchronization,Value,2010,1,189,0,189
+Synchronization,Synchronization,Value,2011,1,197,0,197
+Synchronization,Synchronization,Value,2012,1,191,0,191
+Synchronization,Synchronization,Value,2013,1,190,0,190
+Synchronization,Synchronization,Value,2014,1,190,0,190
+Synchronization,Synchronization,Value,2015,1,203,0,203
+Synchronization,Synchronization,Value,2016,1,215,0,215
+Synchronization,Synchronization,Value,2017,1,232,0,232
+Synchronization,Synchronization,Value,2018,1,286,0,286
+Synchronization,Synchronization,Value,2019,1,276,0,276
+Vinyl Single,Vinyl,Value,1973,1,190,0,190
+Vinyl Single,Vinyl,Value,1974,1,194,0,194
+Vinyl Single,Vinyl,Value,1975,1,212,0,212
+Vinyl Single,Vinyl,Value,1976,1,245,0,245
+Vinyl Single,Vinyl,Value,1977,1,245,0,245
+Vinyl Single,Vinyl,Value,1978,1,260,0,260
+Vinyl Single,Vinyl,Value,1979,1,354,0,354
+Vinyl Single,Vinyl,Value,1980,1,250,0,250
+Vinyl Single,Vinyl,Value,1981,1,256,0,256
+Vinyl Single,Vinyl,Value,1982,1,283,0,283
+Vinyl Single,Vinyl,Value,1983,1,269,0,269
+Vinyl Single,Vinyl,Value,1984,1,299,0,299
+Vinyl Single,Vinyl,Value,1985,1,281,0,281
+Vinyl Single,Vinyl,Value,1986,1,228,0,228
+Vinyl Single,Vinyl,Value,1987,1,203,0,203
+Vinyl Single,Vinyl,Value,1988,1,180,0,180
+Vinyl Single,Vinyl,Value,1989,1,116,0,116
+Vinyl Single,Vinyl,Value,1990,1,94,0,94
+Vinyl Single,Vinyl,Value,1991,1,64,0,64
+Vinyl Single,Vinyl,Value,1992,1,66,0,66
+Vinyl Single,Vinyl,Value,1993,1,51,0,51
+Vinyl Single,Vinyl,Value,1994,1,47,0,47
+Vinyl Single,Vinyl,Value,1995,1,47,0,47
+Vinyl Single,Vinyl,Value,1996,1,48,0,48
+Vinyl Single,Vinyl,Value,1997,1,36,0,36
+Vinyl Single,Vinyl,Value,1998,1,26,0,26
+Vinyl Single,Vinyl,Value,1999,1,28,0,28
+Vinyl Single,Vinyl,Value,2000,1,26,0,26
+Vinyl Single,Vinyl,Value,2001,1,31,0,31
+Vinyl Single,Vinyl,Value,2002,1,25,0,25
+Vinyl Single,Vinyl,Value,2003,1,22,0,22
+Vinyl Single,Vinyl,Value,2004,1,20,0,20
+Vinyl Single,Vinyl,Value,2005,1,13,0,13
+Vinyl Single,Vinyl,Value,2006,1,10,0,10
+Vinyl Single,Vinyl,Value,2007,1,4,0,4
+Vinyl Single,Vinyl,Value,2008,1,3,0,3
+Vinyl Single,Vinyl,Value,2009,1,3,0,3
+Vinyl Single,Vinyl,Value,2010,1,2,0,2
+Vinyl Single,Vinyl,Value,2011,1,5,0,5
+Vinyl Single,Vinyl,Value,2012,1,5,0,5
+Vinyl Single,Vinyl,Value,2013,1,3,0,3
+Vinyl Single,Vinyl,Value,2014,1,5,0,5
+Vinyl Single,Vinyl,Value,2015,1,6,0,6
+Vinyl Single,Vinyl,Value,2016,1,5,0,5
+Vinyl Single,Vinyl,Value,2017,1,6,0,6
+Vinyl Single,Vinyl,Value,2018,1,5,0,5
+Vinyl Single,Vinyl,Value,2019,1,7,0,7
+8 - Track,Tapes,Value (Adjusted),1973,1,2816,0,2816
+8 - Track,Tapes,Value (Adjusted),1974,1,2848,0,2848
+8 - Track,Tapes,Value (Adjusted),1975,1,2770,0,2770
+8 - Track,Tapes,Value (Adjusted),1976,1,3047,0,3047
+8 - Track,Tapes,Value (Adjusted),1977,1,3421,0,3421
+8 - Track,Tapes,Value (Adjusted),1978,1,3717,0,3717
+8 - Track,Tapes,Value (Adjusted),1979,1,2410,0,2410
+8 - Track,Tapes,Value (Adjusted),1980,1,1635,0,1635
+8 - Track,Tapes,Value (Adjusted),1981,1,880,0,880
+8 - Track,Tapes,Value (Adjusted),1982,1,95,0,95
+8 - Track,Tapes,Value (Adjusted),1983,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1984,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1985,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1986,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1987,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1988,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1989,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1990,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1991,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1992,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1993,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1994,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1995,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1996,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1997,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1998,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),1999,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2000,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2001,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2002,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2003,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2004,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2005,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2006,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2007,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2008,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2009,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2010,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2011,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2012,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2013,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2014,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2015,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2016,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2017,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2018,1,0,0,0
+8 - Track,Tapes,Value (Adjusted),2019,1,0,0,0
+CD,CD,Value (Adjusted),1973,1,0,0,0
+CD,CD,Value (Adjusted),1974,1,0,0,0
+CD,CD,Value (Adjusted),1975,1,0,0,0
+CD,CD,Value (Adjusted),1976,1,0,0,0
+CD,CD,Value (Adjusted),1977,1,0,0,0
+CD,CD,Value (Adjusted),1978,1,0,0,0
+CD,CD,Value (Adjusted),1979,1,0,0,0
+CD,CD,Value (Adjusted),1980,1,0,0,0
+CD,CD,Value (Adjusted),1981,1,0,0,0
+CD,CD,Value (Adjusted),1982,1,0,0,0
+CD,CD,Value (Adjusted),1983,1,44,0,44
+CD,CD,Value (Adjusted),1984,1,254,0,254
+CD,CD,Value (Adjusted),1985,1,925,0,925
+CD,CD,Value (Adjusted),1986,1,2170,0,2170
+CD,CD,Value (Adjusted),1987,1,3586,0,3586
+CD,CD,Value (Adjusted),1988,1,4516,0,4516
+CD,CD,Value (Adjusted),1989,1,5335,0,5335
+CD,CD,Value (Adjusted),1990,1,6752,0,6752
+CD,CD,Value (Adjusted),1991,1,8142,0,8142
+CD,CD,Value (Adjusted),1992,1,9706,0,9706
+CD,CD,Value (Adjusted),1993,1,11520,0,11520
+CD,CD,Value (Adjusted),1994,1,14602,0,14602
+CD,CD,Value (Adjusted),1995,1,15731,0,15731
+CD,CD,Value (Adjusted),1996,1,16188,0,16188
+CD,CD,Value (Adjusted),1997,1,15794,0,15794
+CD,CD,Value (Adjusted),1998,1,17905,0,17905
+CD,CD,Value (Adjusted),1999,1,19667,0,19667
+CD,CD,Value (Adjusted),2000,1,19619,0,19619
+CD,CD,Value (Adjusted),2001,1,18636,0,18636
+CD,CD,Value (Adjusted),2002,1,17116,0,17116
+CD,CD,Value (Adjusted),2003,1,15607,0,15607
+CD,CD,Value (Adjusted),2004,1,15492,0,15492
+CD,CD,Value (Adjusted),2005,1,13771,0,13771
+CD,CD,Value (Adjusted),2006,1,11886,0,11886
+CD,CD,Value (Adjusted),2007,1,9191,0,9191
+CD,CD,Value (Adjusted),2008,1,6497,0,6497
+CD,CD,Value (Adjusted),2009,1,5147,0,5147
+CD,CD,Value (Adjusted),2010,1,3974,0,3974
+CD,CD,Value (Adjusted),2011,1,3524,0,3524
+CD,CD,Value (Adjusted),2012,1,2768,0,2768
+CD,CD,Value (Adjusted),2013,1,2350,0,2350
+CD,CD,Value (Adjusted),2014,1,1918,0,1918
+CD,CD,Value (Adjusted),2015,1,1559,0,1559
+CD,CD,Value (Adjusted),2016,1,1204,0,1204
+CD,CD,Value (Adjusted),2017,1,1103,0,1103
+CD,CD,Value (Adjusted),2018,1,711,0,711
+CD,CD,Value (Adjusted),2019,1,615,0,615
+CD Single,CD,Value (Adjusted),1973,1,0,0,0
+CD Single,CD,Value (Adjusted),1974,1,0,0,0
+CD Single,CD,Value (Adjusted),1975,1,0,0,0
+CD Single,CD,Value (Adjusted),1976,1,0,0,0
+CD Single,CD,Value (Adjusted),1977,1,0,0,0
+CD Single,CD,Value (Adjusted),1978,1,0,0,0
+CD Single,CD,Value (Adjusted),1979,1,0,0,0
+CD Single,CD,Value (Adjusted),1980,1,0,0,0
+CD Single,CD,Value (Adjusted),1981,1,0,0,0
+CD Single,CD,Value (Adjusted),1982,1,0,0,0
+CD Single,CD,Value (Adjusted),1983,1,0,0,0
+CD Single,CD,Value (Adjusted),1984,1,0,0,0
+CD Single,CD,Value (Adjusted),1985,1,0,0,0
+CD Single,CD,Value (Adjusted),1986,1,0,0,0
+CD Single,CD,Value (Adjusted),1987,1,0,0,0
+CD Single,CD,Value (Adjusted),1988,1,21,0,21
+CD Single,CD,Value (Adjusted),1989,1,-1,0,-1
+CD Single,CD,Value (Adjusted),1990,1,12,0,12
+CD Single,CD,Value (Adjusted),1991,1,66,0,66
+CD Single,CD,Value (Adjusted),1992,1,82,0,82
+CD Single,CD,Value (Adjusted),1993,1,81,0,81
+CD Single,CD,Value (Adjusted),1994,1,97,0,97
+CD Single,CD,Value (Adjusted),1995,1,186,0,186
+CD Single,CD,Value (Adjusted),1996,1,300,0,300
+CD Single,CD,Value (Adjusted),1997,1,434,0,434
+CD Single,CD,Value (Adjusted),1998,1,334,0,334
+CD Single,CD,Value (Adjusted),1999,1,341,0,341
+CD Single,CD,Value (Adjusted),2000,1,212,0,212
+CD Single,CD,Value (Adjusted),2001,1,115,0,115
+CD Single,CD,Value (Adjusted),2002,1,28,0,28
+CD Single,CD,Value (Adjusted),2003,1,50,0,50
+CD Single,CD,Value (Adjusted),2004,1,20,0,20
+CD Single,CD,Value (Adjusted),2005,1,14,0,14
+CD Single,CD,Value (Adjusted),2006,1,10,0,10
+CD Single,CD,Value (Adjusted),2007,1,15,0,15
+CD Single,CD,Value (Adjusted),2008,1,4,0,4
+CD Single,CD,Value (Adjusted),2009,1,4,0,4
+CD Single,CD,Value (Adjusted),2010,1,3,0,3
+CD Single,CD,Value (Adjusted),2011,1,4,0,4
+CD Single,CD,Value (Adjusted),2012,1,4,0,4
+CD Single,CD,Value (Adjusted),2013,1,3,0,3
+CD Single,CD,Value (Adjusted),2014,1,4,0,4
+CD Single,CD,Value (Adjusted),2015,1,1,0,1
+CD Single,CD,Value (Adjusted),2016,1,0,0,0
+CD Single,CD,Value (Adjusted),2017,1,2,0,2
+CD Single,CD,Value (Adjusted),2018,1,0,0,0
+CD Single,CD,Value (Adjusted),2019,1,0,0,0
+Cassette,Cassette,Value (Adjusted),1973,1,438,0,438
+Cassette,Cassette,Value (Adjusted),1974,1,452,0,452
+Cassette,Cassette,Value (Adjusted),1975,1,469,0,469
+Cassette,Cassette,Value (Adjusted),1976,1,655,0,655
+Cassette,Cassette,Value (Adjusted),1977,1,1053,0,1053
+Cassette,Cassette,Value (Adjusted),1978,1,1764,0,1764
+Cassette,Cassette,Value (Adjusted),1979,1,2045,0,2045
+Cassette,Cassette,Value (Adjusted),1980,1,2187,0,2187
+Cassette,Cassette,Value (Adjusted),1981,1,2989,0,2989
+Cassette,Cassette,Value (Adjusted),1982,1,3668,0,3668
+Cassette,Cassette,Value (Adjusted),1983,1,4648,0,4648
+Cassette,Cassette,Value (Adjusted),1984,1,5866,0,5866
+Cassette,Cassette,Value (Adjusted),1985,1,5730,0,5730
+Cassette,Cassette,Value (Adjusted),1986,1,5830,0,5830
+Cassette,Cassette,Value (Adjusted),1987,1,6661,0,6661
+Cassette,Cassette,Value (Adjusted),1988,1,7316,0,7316
+Cassette,Cassette,Value (Adjusted),1989,1,6898,0,6898
+Cassette,Cassette,Value (Adjusted),1990,1,6792,0,6792
+Cassette,Cassette,Value (Adjusted),1991,1,5668,0,5668
+Cassette,Cassette,Value (Adjusted),1992,1,5679,0,5679
+Cassette,Cassette,Value (Adjusted),1993,1,5159,0,5159
+Cassette,Cassette,Value (Adjusted),1994,1,5135,0,5135
+Cassette,Cassette,Value (Adjusted),1995,1,3864,0,3864
+Cassette,Cassette,Value (Adjusted),1996,1,3105,0,3105
+Cassette,Cassette,Value (Adjusted),1997,1,2425,0,2425
+Cassette,Cassette,Value (Adjusted),1998,1,2227,0,2227
+Cassette,Cassette,Value (Adjusted),1999,1,1629,0,1629
+Cassette,Cassette,Value (Adjusted),2000,1,929,0,929
+Cassette,Cassette,Value (Adjusted),2001,1,525,0,525
+Cassette,Cassette,Value (Adjusted),2002,1,298,0,298
+Cassette,Cassette,Value (Adjusted),2003,1,150,0,150
+Cassette,Cassette,Value (Adjusted),2004,1,32,0,32
+Cassette,Cassette,Value (Adjusted),2005,1,17,0,17
+Cassette,Cassette,Value (Adjusted),2006,1,5,0,5
+Cassette,Cassette,Value (Adjusted),2007,1,4,0,4
+Cassette,Cassette,Value (Adjusted),2008,1,1,0,1
+Cassette,Cassette,Value (Adjusted),2009,1,0,0,0
+Cassette,Cassette,Value (Adjusted),2010,1,0,0,0
+Cassette,Cassette,Value (Adjusted),2011,1,0,0,0
+Cassette,Cassette,Value (Adjusted),2012,1,0,0,0
+Cassette,Cassette,Value (Adjusted),2013,1,0,0,0
+Cassette,Cassette,Value (Adjusted),2014,1,0,0,0
+Cassette,Cassette,Value (Adjusted),2015,1,0,0,0
+Cassette,Cassette,Value (Adjusted),2016,1,0,0,0
+Cassette,Cassette,Value (Adjusted),2017,1,0,0,0
+Cassette,Cassette,Value (Adjusted),2018,1,0,0,0
+Cassette,Cassette,Value (Adjusted),2019,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1973,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1974,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1975,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1976,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1977,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1978,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1979,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1980,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1981,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1982,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1983,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1984,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1985,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1986,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),1987,1,32,0,32
+Cassette Single,Cassette,Value (Adjusted),1988,1,124,0,124
+Cassette Single,Cassette,Value (Adjusted),1989,1,401,0,401
+Cassette Single,Cassette,Value (Adjusted),1990,1,504,0,504
+Cassette Single,Cassette,Value (Adjusted),1991,1,432,0,432
+Cassette Single,Cassette,Value (Adjusted),1992,1,544,0,544
+Cassette Single,Cassette,Value (Adjusted),1993,1,528,0,528
+Cassette Single,Cassette,Value (Adjusted),1994,1,474,0,474
+Cassette Single,Cassette,Value (Adjusted),1995,1,396,0,396
+Cassette Single,Cassette,Value (Adjusted),1996,1,308,0,308
+Cassette Single,Cassette,Value (Adjusted),1997,1,213,0,213
+Cassette Single,Cassette,Value (Adjusted),1998,1,148,0,148
+Cassette Single,Cassette,Value (Adjusted),1999,1,74,0,74
+Cassette Single,Cassette,Value (Adjusted),2000,1,7,0,7
+Cassette Single,Cassette,Value (Adjusted),2001,1,-8,0,-8
+Cassette Single,Cassette,Value (Adjusted),2002,1,-2,0,-2
+Cassette Single,Cassette,Value (Adjusted),2003,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2004,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2005,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2006,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2007,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2008,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2009,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2010,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2011,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2012,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2013,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2014,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2015,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2016,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2017,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2018,1,0,0,0
+Cassette Single,Cassette,Value (Adjusted),2019,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1973,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1974,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1975,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1976,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1977,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1978,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1979,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1980,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1981,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1982,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1983,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1984,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1985,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1986,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1987,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1988,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1989,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1990,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1991,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1992,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1993,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1994,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1995,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1996,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1997,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1998,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),1999,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),2000,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),2001,1,9,0,9
+DVD Audio,DVD,Value (Adjusted),2002,1,12,0,12
+DVD Audio,DVD,Value (Adjusted),2003,1,11,0,11
+DVD Audio,DVD,Value (Adjusted),2004,1,9,0,9
+DVD Audio,DVD,Value (Adjusted),2005,1,15,0,15
+DVD Audio,DVD,Value (Adjusted),2006,1,3,0,3
+DVD Audio,DVD,Value (Adjusted),2007,1,3,0,3
+DVD Audio,DVD,Value (Adjusted),2008,1,1,0,1
+DVD Audio,DVD,Value (Adjusted),2009,1,2,0,2
+DVD Audio,DVD,Value (Adjusted),2010,1,1,0,1
+DVD Audio,DVD,Value (Adjusted),2011,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),2012,1,0,0,0
+DVD Audio,DVD,Value (Adjusted),2013,1,-1,0,-1
+DVD Audio,DVD,Value (Adjusted),2014,1,2,0,2
+DVD Audio,DVD,Value (Adjusted),2015,1,6,0,6
+DVD Audio,DVD,Value (Adjusted),2016,1,3,0,3
+DVD Audio,DVD,Value (Adjusted),2017,1,3,0,3
+DVD Audio,DVD,Value (Adjusted),2018,1,3,0,3
+DVD Audio,DVD,Value (Adjusted),2019,1,1,0,1
+Download Album,Download,Value (Adjusted),1973,1,0,0,0
+Download Album,Download,Value (Adjusted),1974,1,0,0,0
+Download Album,Download,Value (Adjusted),1975,1,0,0,0
+Download Album,Download,Value (Adjusted),1976,1,0,0,0
+Download Album,Download,Value (Adjusted),1977,1,0,0,0
+Download Album,Download,Value (Adjusted),1978,1,0,0,0
+Download Album,Download,Value (Adjusted),1979,1,0,0,0
+Download Album,Download,Value (Adjusted),1980,1,0,0,0
+Download Album,Download,Value (Adjusted),1981,1,0,0,0
+Download Album,Download,Value (Adjusted),1982,1,0,0,0
+Download Album,Download,Value (Adjusted),1983,1,0,0,0
+Download Album,Download,Value (Adjusted),1984,1,0,0,0
+Download Album,Download,Value (Adjusted),1985,1,0,0,0
+Download Album,Download,Value (Adjusted),1986,1,0,0,0
+Download Album,Download,Value (Adjusted),1987,1,0,0,0
+Download Album,Download,Value (Adjusted),1988,1,0,0,0
+Download Album,Download,Value (Adjusted),1989,1,0,0,0
+Download Album,Download,Value (Adjusted),1990,1,0,0,0
+Download Album,Download,Value (Adjusted),1991,1,0,0,0
+Download Album,Download,Value (Adjusted),1992,1,0,0,0
+Download Album,Download,Value (Adjusted),1993,1,0,0,0
+Download Album,Download,Value (Adjusted),1994,1,0,0,0
+Download Album,Download,Value (Adjusted),1995,1,0,0,0
+Download Album,Download,Value (Adjusted),1996,1,0,0,0
+Download Album,Download,Value (Adjusted),1997,1,0,0,0
+Download Album,Download,Value (Adjusted),1998,1,0,0,0
+Download Album,Download,Value (Adjusted),1999,1,0,0,0
+Download Album,Download,Value (Adjusted),2000,1,0,0,0
+Download Album,Download,Value (Adjusted),2001,1,0,0,0
+Download Album,Download,Value (Adjusted),2002,1,0,0,0
+Download Album,Download,Value (Adjusted),2003,1,0,0,0
+Download Album,Download,Value (Adjusted),2004,1,62,0,62
+Download Album,Download,Value (Adjusted),2005,1,178,0,178
+Download Album,Download,Value (Adjusted),2006,1,350,0,350
+Download Album,Download,Value (Adjusted),2007,1,613,0,613
+Download Album,Download,Value (Adjusted),2008,1,754,0,754
+Download Album,Download,Value (Adjusted),2009,1,887,0,887
+Download Album,Download,Value (Adjusted),2010,1,1023,0,1023
+Download Album,Download,Value (Adjusted),2011,1,1217,0,1217
+Download Album,Download,Value (Adjusted),2012,1,1342,0,1342
+Download Album,Download,Value (Adjusted),2013,1,1352,0,1352
+Download Album,Download,Value (Adjusted),2014,1,1207,0,1207
+Download Album,Download,Value (Adjusted),2015,1,1148,0,1148
+Download Album,Download,Value (Adjusted),2016,1,925,0,925
+Download Album,Download,Value (Adjusted),2017,1,697,0,697
+Download Album,Download,Value (Adjusted),2018,1,509,0,509
+Download Album,Download,Value (Adjusted),2019,1,395,0,395
+Download Music Video,Download,Value (Adjusted),1973,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1974,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1975,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1976,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1977,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1978,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1979,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1980,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1981,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1982,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1983,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1984,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1985,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1986,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1987,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1988,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1989,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1990,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1991,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1992,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1993,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1994,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1995,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1996,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1997,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1998,1,0,0,0
+Download Music Video,Download,Value (Adjusted),1999,1,0,0,0
+Download Music Video,Download,Value (Adjusted),2000,1,0,0,0
+Download Music Video,Download,Value (Adjusted),2001,1,0,0,0
+Download Music Video,Download,Value (Adjusted),2002,1,0,0,0
+Download Music Video,Download,Value (Adjusted),2003,1,0,0,0
+Download Music Video,Download,Value (Adjusted),2004,1,0,0,0
+Download Music Video,Download,Value (Adjusted),2005,1,5,0,5
+Download Music Video,Download,Value (Adjusted),2006,1,25,0,25
+Download Music Video,Download,Value (Adjusted),2007,1,35,0,35
+Download Music Video,Download,Value (Adjusted),2008,1,49,0,49
+Download Music Video,Download,Value (Adjusted),2009,1,49,0,49
+Download Music Video,Download,Value (Adjusted),2010,1,43,0,43
+Download Music Video,Download,Value (Adjusted),2011,1,37,0,37
+Download Music Video,Download,Value (Adjusted),2012,1,23,0,23
+Download Music Video,Download,Value (Adjusted),2013,1,18,0,18
+Download Music Video,Download,Value (Adjusted),2014,1,15,0,15
+Download Music Video,Download,Value (Adjusted),2015,1,7,0,7
+Download Music Video,Download,Value (Adjusted),2016,1,5,0,5
+Download Music Video,Download,Value (Adjusted),2017,1,3,0,3
+Download Music Video,Download,Value (Adjusted),2018,1,2,0,2
+Download Music Video,Download,Value (Adjusted),2019,1,2,0,2
+Download Single,Download,Value (Adjusted),1973,1,0,0,0
+Download Single,Download,Value (Adjusted),1974,1,0,0,0
+Download Single,Download,Value (Adjusted),1975,1,0,0,0
+Download Single,Download,Value (Adjusted),1976,1,0,0,0
+Download Single,Download,Value (Adjusted),1977,1,0,0,0
+Download Single,Download,Value (Adjusted),1978,1,0,0,0
+Download Single,Download,Value (Adjusted),1979,1,0,0,0
+Download Single,Download,Value (Adjusted),1980,1,0,0,0
+Download Single,Download,Value (Adjusted),1981,1,0,0,0
+Download Single,Download,Value (Adjusted),1982,1,0,0,0
+Download Single,Download,Value (Adjusted),1983,1,0,0,0
+Download Single,Download,Value (Adjusted),1984,1,0,0,0
+Download Single,Download,Value (Adjusted),1985,1,0,0,0
+Download Single,Download,Value (Adjusted),1986,1,0,0,0
+Download Single,Download,Value (Adjusted),1987,1,0,0,0
+Download Single,Download,Value (Adjusted),1988,1,0,0,0
+Download Single,Download,Value (Adjusted),1989,1,0,0,0
+Download Single,Download,Value (Adjusted),1990,1,0,0,0
+Download Single,Download,Value (Adjusted),1991,1,0,0,0
+Download Single,Download,Value (Adjusted),1992,1,0,0,0
+Download Single,Download,Value (Adjusted),1993,1,0,0,0
+Download Single,Download,Value (Adjusted),1994,1,0,0,0
+Download Single,Download,Value (Adjusted),1995,1,0,0,0
+Download Single,Download,Value (Adjusted),1996,1,0,0,0
+Download Single,Download,Value (Adjusted),1997,1,0,0,0
+Download Single,Download,Value (Adjusted),1998,1,0,0,0
+Download Single,Download,Value (Adjusted),1999,1,0,0,0
+Download Single,Download,Value (Adjusted),2000,1,0,0,0
+Download Single,Download,Value (Adjusted),2001,1,0,0,0
+Download Single,Download,Value (Adjusted),2002,1,0,0,0
+Download Single,Download,Value (Adjusted),2003,1,0,0,0
+Download Single,Download,Value (Adjusted),2004,1,187,0,187
+Download Single,Download,Value (Adjusted),2005,1,476,0,476
+Download Single,Download,Value (Adjusted),2006,1,736,0,736
+Download Single,Download,Value (Adjusted),2007,1,1000,0,1000
+Download Single,Download,Value (Adjusted),2008,1,1226,0,1226
+Download Single,Download,Value (Adjusted),2009,1,1397,0,1397
+Download Single,Download,Value (Adjusted),2010,1,1567,0,1567
+Download Single,Download,Value (Adjusted),2011,1,1730,0,1730
+Download Single,Download,Value (Adjusted),2012,1,1831,0,1831
+Download Single,Download,Value (Adjusted),2013,1,1727,0,1727
+Download Single,Download,Value (Adjusted),2014,1,1464,0,1464
+Download Single,Download,Value (Adjusted),2015,1,1278,0,1278
+Download Single,Download,Value (Adjusted),2016,1,959,0,959
+Download Single,Download,Value (Adjusted),2017,1,708,0,708
+Download Single,Download,Value (Adjusted),2018,1,499,0,499
+Download Single,Download,Value (Adjusted),2019,1,415,0,415
+Kiosk,Other,Value (Adjusted),1973,1,0,0,0
+Kiosk,Other,Value (Adjusted),1974,1,0,0,0
+Kiosk,Other,Value (Adjusted),1975,1,0,0,0
+Kiosk,Other,Value (Adjusted),1976,1,0,0,0
+Kiosk,Other,Value (Adjusted),1977,1,0,0,0
+Kiosk,Other,Value (Adjusted),1978,1,0,0,0
+Kiosk,Other,Value (Adjusted),1979,1,0,0,0
+Kiosk,Other,Value (Adjusted),1980,1,0,0,0
+Kiosk,Other,Value (Adjusted),1981,1,0,0,0
+Kiosk,Other,Value (Adjusted),1982,1,0,0,0
+Kiosk,Other,Value (Adjusted),1983,1,0,0,0
+Kiosk,Other,Value (Adjusted),1984,1,0,0,0
+Kiosk,Other,Value (Adjusted),1985,1,0,0,0
+Kiosk,Other,Value (Adjusted),1986,1,0,0,0
+Kiosk,Other,Value (Adjusted),1987,1,0,0,0
+Kiosk,Other,Value (Adjusted),1988,1,0,0,0
+Kiosk,Other,Value (Adjusted),1989,1,0,0,0
+Kiosk,Other,Value (Adjusted),1990,1,0,0,0
+Kiosk,Other,Value (Adjusted),1991,1,0,0,0
+Kiosk,Other,Value (Adjusted),1992,1,0,0,0
+Kiosk,Other,Value (Adjusted),1993,1,0,0,0
+Kiosk,Other,Value (Adjusted),1994,1,0,0,0
+Kiosk,Other,Value (Adjusted),1995,1,0,0,0
+Kiosk,Other,Value (Adjusted),1996,1,0,0,0
+Kiosk,Other,Value (Adjusted),1997,1,0,0,0
+Kiosk,Other,Value (Adjusted),1998,1,0,0,0
+Kiosk,Other,Value (Adjusted),1999,1,0,0,0
+Kiosk,Other,Value (Adjusted),2000,1,0,0,0
+Kiosk,Other,Value (Adjusted),2001,1,0,0,0
+Kiosk,Other,Value (Adjusted),2002,1,0,0,0
+Kiosk,Other,Value (Adjusted),2003,1,0,0,0
+Kiosk,Other,Value (Adjusted),2004,1,0,0,0
+Kiosk,Other,Value (Adjusted),2005,1,1,0,1
+Kiosk,Other,Value (Adjusted),2006,1,2,0,2
+Kiosk,Other,Value (Adjusted),2007,1,3,0,3
+Kiosk,Other,Value (Adjusted),2008,1,3,0,3
+Kiosk,Other,Value (Adjusted),2009,1,8,0,8
+Kiosk,Other,Value (Adjusted),2010,1,8,0,8
+Kiosk,Other,Value (Adjusted),2011,1,3,0,3
+Kiosk,Other,Value (Adjusted),2012,1,4,0,4
+Kiosk,Other,Value (Adjusted),2013,1,7,0,7
+Kiosk,Other,Value (Adjusted),2014,1,3,0,3
+Kiosk,Other,Value (Adjusted),2015,1,4,0,4
+Kiosk,Other,Value (Adjusted),2016,1,3,0,3
+Kiosk,Other,Value (Adjusted),2017,1,2,0,2
+Kiosk,Other,Value (Adjusted),2018,1,2,0,2
+Kiosk,Other,Value (Adjusted),2019,1,2,0,2
+LP/EP,Vinyl,Value (Adjusted),1973,1,7175,0,7175
+LP/EP,Vinyl,Value (Adjusted),1974,1,7032,0,7032
+LP/EP,Vinyl,Value (Adjusted),1975,1,7057,0,7057
+LP/EP,Vinyl,Value (Adjusted),1976,1,7472,0,7472
+LP/EP,Vinyl,Value (Adjusted),1977,1,9261,0,9261
+LP/EP,Vinyl,Value (Adjusted),1978,1,9698,0,9698
+LP/EP,Vinyl,Value (Adjusted),1979,1,7244,0,7244
+LP/EP,Vinyl,Value (Adjusted),1980,1,6826,0,6826
+LP/EP,Vinyl,Value (Adjusted),1981,1,6586,0,6586
+LP/EP,Vinyl,Value (Adjusted),1982,1,5100,0,5100
+LP/EP,Vinyl,Value (Adjusted),1983,1,4335,0,4335
+LP/EP,Vinyl,Value (Adjusted),1984,1,3811,0,3811
+LP/EP,Vinyl,Value (Adjusted),1985,1,3042,0,3042
+LP/EP,Vinyl,Value (Adjusted),1986,1,2293,0,2293
+LP/EP,Vinyl,Value (Adjusted),1987,1,1785,0,1785
+LP/EP,Vinyl,Value (Adjusted),1988,1,1150,0,1150
+LP/EP,Vinyl,Value (Adjusted),1989,1,454,0,454
+LP/EP,Vinyl,Value (Adjusted),1990,1,169,0,169
+LP/EP,Vinyl,Value (Adjusted),1991,1,55,0,55
+LP/EP,Vinyl,Value (Adjusted),1992,1,25,0,25
+LP/EP,Vinyl,Value (Adjusted),1993,1,19,0,19
+LP/EP,Vinyl,Value (Adjusted),1994,1,31,0,31
+LP/EP,Vinyl,Value (Adjusted),1995,1,42,0,42
+LP/EP,Vinyl,Value (Adjusted),1996,1,60,0,60
+LP/EP,Vinyl,Value (Adjusted),1997,1,53,0,53
+LP/EP,Vinyl,Value (Adjusted),1998,1,53,0,53
+LP/EP,Vinyl,Value (Adjusted),1999,1,49,0,49
+LP/EP,Vinyl,Value (Adjusted),2000,1,41,0,41
+LP/EP,Vinyl,Value (Adjusted),2001,1,40,0,40
+LP/EP,Vinyl,Value (Adjusted),2002,1,29,0,29
+LP/EP,Vinyl,Value (Adjusted),2003,1,30,0,30
+LP/EP,Vinyl,Value (Adjusted),2004,1,26,0,26
+LP/EP,Vinyl,Value (Adjusted),2005,1,19,0,19
+LP/EP,Vinyl,Value (Adjusted),2006,1,20,0,20
+LP/EP,Vinyl,Value (Adjusted),2007,1,28,0,28
+LP/EP,Vinyl,Value (Adjusted),2008,1,67,0,67
+LP/EP,Vinyl,Value (Adjusted),2009,1,76,0,76
+LP/EP,Vinyl,Value (Adjusted),2010,1,104,0,104
+LP/EP,Vinyl,Value (Adjusted),2011,1,136,0,136
+LP/EP,Vinyl,Value (Adjusted),2012,1,179,0,179
+LP/EP,Vinyl,Value (Adjusted),2013,1,231,0,231
+LP/EP,Vinyl,Value (Adjusted),2014,1,263,0,263
+LP/EP,Vinyl,Value (Adjusted),2015,1,360,0,360
+LP/EP,Vinyl,Value (Adjusted),2016,1,379,0,379
+LP/EP,Vinyl,Value (Adjusted),2017,1,405,0,405
+LP/EP,Vinyl,Value (Adjusted),2018,1,427,0,427
+LP/EP,Vinyl,Value (Adjusted),2019,1,498,0,498
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1973,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1974,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1975,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1976,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1977,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1978,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1979,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1980,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1981,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1982,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1983,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1984,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1985,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1986,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1987,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1988,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1989,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1990,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1991,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1992,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1993,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1994,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1995,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1996,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1997,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1998,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),1999,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2000,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2001,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2002,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2003,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2004,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2005,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2006,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2007,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2008,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2009,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2010,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2011,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2012,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2013,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2014,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2015,1,0,0,0
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2016,1,281,0,281
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2017,1,617,0,617
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2018,1,761,0,761
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2019,1,829,0,829
+Music Video (Physical),Other,Value (Adjusted),1973,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1974,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1975,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1976,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1977,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1978,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1979,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1980,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1981,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1982,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1983,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1984,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1985,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1986,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1987,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1988,1,0,0,0
+Music Video (Physical),Other,Value (Adjusted),1989,1,238,0,238
+Music Video (Physical),Other,Value (Adjusted),1990,1,337,0,337
+Music Video (Physical),Other,Value (Adjusted),1991,1,222,0,222
+Music Video (Physical),Other,Value (Adjusted),1992,1,287,0,287
+Music Video (Physical),Other,Value (Adjusted),1993,1,377,0,377
+Music Video (Physical),Other,Value (Adjusted),1994,1,399,0,399
+Music Video (Physical),Other,Value (Adjusted),1995,1,370,0,370
+Music Video (Physical),Other,Value (Adjusted),1996,1,385,0,385
+Music Video (Physical),Other,Value (Adjusted),1997,1,516,0,516
+Music Video (Physical),Other,Value (Adjusted),1998,1,797,0,797
+Music Video (Physical),Other,Value (Adjusted),1999,1,578,0,578
+Music Video (Physical),Other,Value (Adjusted),2000,1,419,0,419
+Music Video (Physical),Other,Value (Adjusted),2001,1,475,0,475
+Music Video (Physical),Other,Value (Adjusted),2002,1,410,0,410
+Music Video (Physical),Other,Value (Adjusted),2003,1,556,0,556
+Music Video (Physical),Other,Value (Adjusted),2004,1,822,0,822
+Music Video (Physical),Other,Value (Adjusted),2005,1,788,0,788
+Music Video (Physical),Other,Value (Adjusted),2006,1,572,0,572
+Music Video (Physical),Other,Value (Adjusted),2007,1,598,0,598
+Music Video (Physical),Other,Value (Adjusted),2008,1,270,0,270
+Music Video (Physical),Other,Value (Adjusted),2009,1,250,0,250
+Music Video (Physical),Other,Value (Adjusted),2010,1,208,0,208
+Music Video (Physical),Other,Value (Adjusted),2011,1,172,0,172
+Music Video (Physical),Other,Value (Adjusted),2012,1,130,0,130
+Music Video (Physical),Other,Value (Adjusted),2013,1,117,0,117
+Music Video (Physical),Other,Value (Adjusted),2014,1,97,0,97
+Music Video (Physical),Other,Value (Adjusted),2015,1,76,0,76
+Music Video (Physical),Other,Value (Adjusted),2016,1,61,0,61
+Music Video (Physical),Other,Value (Adjusted),2017,1,40,0,40
+Music Video (Physical),Other,Value (Adjusted),2018,1,28,0,28
+Music Video (Physical),Other,Value (Adjusted),2019,1,28,0,28
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1973,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1974,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1975,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1976,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1977,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1978,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1979,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1980,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1981,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1982,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1983,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1984,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1985,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1986,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1987,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1988,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1989,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1990,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1991,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1992,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1993,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1994,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1995,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1996,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1997,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1998,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),1999,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2000,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2001,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2002,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2003,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2004,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2005,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2006,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2007,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2008,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2009,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2010,1,0,0,0
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2011,1,129,0,129
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2012,1,190,0,190
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2013,1,242,0,242
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2014,1,306,0,306
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2015,1,401,0,401
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2016,1,521,0,521
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2017,1,687,0,687
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2018,1,773,0,773
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2019,1,908,0,908
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1973,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1974,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1975,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1976,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1977,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1978,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1979,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1980,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1981,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1982,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1983,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1984,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1985,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1986,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1987,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1988,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1989,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1990,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1991,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1992,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1993,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1994,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1995,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1996,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1997,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1998,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),1999,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2000,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2001,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2002,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2003,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2004,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2005,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2006,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2007,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2008,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2009,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2010,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2011,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2012,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2013,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2014,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2015,1,0,0,0
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2016,1,87,0,87
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2017,1,273,0,273
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2018,1,256,0,256
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2019,1,251,0,251
+Other Digital,Download,Value (Adjusted),1973,1,0,0,0
+Other Digital,Download,Value (Adjusted),1974,1,0,0,0
+Other Digital,Download,Value (Adjusted),1975,1,0,0,0
+Other Digital,Download,Value (Adjusted),1976,1,0,0,0
+Other Digital,Download,Value (Adjusted),1977,1,0,0,0
+Other Digital,Download,Value (Adjusted),1978,1,0,0,0
+Other Digital,Download,Value (Adjusted),1979,1,0,0,0
+Other Digital,Download,Value (Adjusted),1980,1,0,0,0
+Other Digital,Download,Value (Adjusted),1981,1,0,0,0
+Other Digital,Download,Value (Adjusted),1982,1,0,0,0
+Other Digital,Download,Value (Adjusted),1983,1,0,0,0
+Other Digital,Download,Value (Adjusted),1984,1,0,0,0
+Other Digital,Download,Value (Adjusted),1985,1,0,0,0
+Other Digital,Download,Value (Adjusted),1986,1,0,0,0
+Other Digital,Download,Value (Adjusted),1987,1,0,0,0
+Other Digital,Download,Value (Adjusted),1988,1,0,0,0
+Other Digital,Download,Value (Adjusted),1989,1,0,0,0
+Other Digital,Download,Value (Adjusted),1990,1,0,0,0
+Other Digital,Download,Value (Adjusted),1991,1,0,0,0
+Other Digital,Download,Value (Adjusted),1992,1,0,0,0
+Other Digital,Download,Value (Adjusted),1993,1,0,0,0
+Other Digital,Download,Value (Adjusted),1994,1,0,0,0
+Other Digital,Download,Value (Adjusted),1995,1,0,0,0
+Other Digital,Download,Value (Adjusted),1996,1,0,0,0
+Other Digital,Download,Value (Adjusted),1997,1,0,0,0
+Other Digital,Download,Value (Adjusted),1998,1,0,0,0
+Other Digital,Download,Value (Adjusted),1999,1,0,0,0
+Other Digital,Download,Value (Adjusted),2000,1,0,0,0
+Other Digital,Download,Value (Adjusted),2001,1,0,0,0
+Other Digital,Download,Value (Adjusted),2002,1,0,0,0
+Other Digital,Download,Value (Adjusted),2003,1,0,0,0
+Other Digital,Download,Value (Adjusted),2004,1,0,0,0
+Other Digital,Download,Value (Adjusted),2005,1,0,0,0
+Other Digital,Download,Value (Adjusted),2006,1,0,0,0
+Other Digital,Download,Value (Adjusted),2007,1,0,0,0
+Other Digital,Download,Value (Adjusted),2008,1,0,0,0
+Other Digital,Download,Value (Adjusted),2009,1,0,0,0
+Other Digital,Download,Value (Adjusted),2010,1,0,0,0
+Other Digital,Download,Value (Adjusted),2011,1,0,0,0
+Other Digital,Download,Value (Adjusted),2012,1,0,0,0
+Other Digital,Download,Value (Adjusted),2013,1,0,0,0
+Other Digital,Download,Value (Adjusted),2014,1,0,0,0
+Other Digital,Download,Value (Adjusted),2015,1,0,0,0
+Other Digital,Download,Value (Adjusted),2016,1,18,0,18
+Other Digital,Download,Value (Adjusted),2017,1,18,0,18
+Other Digital,Download,Value (Adjusted),2018,1,20,0,20
+Other Digital,Download,Value (Adjusted),2019,1,22,0,22
+Other Tapes,Tapes,Value (Adjusted),1973,1,90,0,90
+Other Tapes,Tapes,Value (Adjusted),1974,1,69,0,69
+Other Tapes,Tapes,Value (Adjusted),1975,1,48,0,48
+Other Tapes,Tapes,Value (Adjusted),1976,1,23,0,23
+Other Tapes,Tapes,Value (Adjusted),1977,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1978,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1979,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1980,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1981,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1982,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1983,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1984,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1985,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1986,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1987,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1988,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1989,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1990,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1991,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1992,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1993,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1994,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1995,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1996,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1997,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1998,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),1999,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2000,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2001,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2002,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2003,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2004,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2005,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2006,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2007,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2008,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2009,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2010,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2011,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2012,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2013,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2014,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2015,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2016,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2017,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2018,1,0,0,0
+Other Tapes,Tapes,Value (Adjusted),2019,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1973,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1974,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1975,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1976,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1977,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1978,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1979,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1980,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1981,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1982,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1983,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1984,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1985,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1986,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1987,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1988,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1989,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1990,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1991,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1992,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1993,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1994,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1995,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1996,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1997,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1998,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),1999,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),2000,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),2001,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),2002,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),2003,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),2004,1,0,0,0
+Paid Subscription,Paid Subscription,Value (Adjusted),2005,1,195,0,195
+Paid Subscription,Paid Subscription,Value (Adjusted),2006,1,261,0,261
+Paid Subscription,Paid Subscription,Value (Adjusted),2007,1,289,0,289
+Paid Subscription,Paid Subscription,Value (Adjusted),2008,1,263,0,263
+Paid Subscription,Paid Subscription,Value (Adjusted),2009,1,246,0,246
+Paid Subscription,Paid Subscription,Value (Adjusted),2010,1,249,0,249
+Paid Subscription,Paid Subscription,Value (Adjusted),2011,1,282,0,282
+Paid Subscription,Paid Subscription,Value (Adjusted),2012,1,445,0,445
+Paid Subscription,Paid Subscription,Value (Adjusted),2013,1,706,0,706
+Paid Subscription,Paid Subscription,Value (Adjusted),2014,1,832,0,832
+Paid Subscription,Paid Subscription,Value (Adjusted),2015,1,1248,0,1248
+Paid Subscription,Paid Subscription,Value (Adjusted),2016,1,2390,0,2390
+Paid Subscription,Paid Subscription,Value (Adjusted),2017,1,3651,0,3651
+Paid Subscription,Paid Subscription,Value (Adjusted),2018,1,4740,0,4740
+Paid Subscription,Paid Subscription,Value (Adjusted),2019,1,5934,0,5934
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1973,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1974,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1975,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1976,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1977,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1978,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1979,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1980,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1981,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1982,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1983,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1984,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1985,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1986,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1987,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1988,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1989,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1990,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1991,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1992,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1993,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1994,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1995,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1996,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1997,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1998,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),1999,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2000,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2001,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2002,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2003,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2004,1,0,0,0
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2005,1,552,0,552
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2006,1,981,0,981
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2007,1,1302,0,1302
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2008,1,1160,0,1160
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2009,1,838,0,838
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2010,1,525,0,525
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2011,1,314,0,314
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2012,1,163,0,163
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2013,1,108,0,108
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2014,1,72,0,72
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2015,1,59,0,59
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2016,1,60,0,60
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2017,1,37,0,37
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2018,1,25,0,25
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2019,1,21,0,21
+SACD,CD,Value (Adjusted),1973,1,0,0,0
+SACD,CD,Value (Adjusted),1974,1,0,0,0
+SACD,CD,Value (Adjusted),1975,1,0,0,0
+SACD,CD,Value (Adjusted),1976,1,0,0,0
+SACD,CD,Value (Adjusted),1977,1,0,0,0
+SACD,CD,Value (Adjusted),1978,1,0,0,0
+SACD,CD,Value (Adjusted),1979,1,0,0,0
+SACD,CD,Value (Adjusted),1980,1,0,0,0
+SACD,CD,Value (Adjusted),1981,1,0,0,0
+SACD,CD,Value (Adjusted),1982,1,0,0,0
+SACD,CD,Value (Adjusted),1983,1,0,0,0
+SACD,CD,Value (Adjusted),1984,1,0,0,0
+SACD,CD,Value (Adjusted),1985,1,0,0,0
+SACD,CD,Value (Adjusted),1986,1,0,0,0
+SACD,CD,Value (Adjusted),1987,1,0,0,0
+SACD,CD,Value (Adjusted),1988,1,0,0,0
+SACD,CD,Value (Adjusted),1989,1,0,0,0
+SACD,CD,Value (Adjusted),1990,1,0,0,0
+SACD,CD,Value (Adjusted),1991,1,0,0,0
+SACD,CD,Value (Adjusted),1992,1,0,0,0
+SACD,CD,Value (Adjusted),1993,1,0,0,0
+SACD,CD,Value (Adjusted),1994,1,0,0,0
+SACD,CD,Value (Adjusted),1995,1,0,0,0
+SACD,CD,Value (Adjusted),1996,1,0,0,0
+SACD,CD,Value (Adjusted),1997,1,0,0,0
+SACD,CD,Value (Adjusted),1998,1,0,0,0
+SACD,CD,Value (Adjusted),1999,1,0,0,0
+SACD,CD,Value (Adjusted),2000,1,0,0,0
+SACD,CD,Value (Adjusted),2001,1,0,0,0
+SACD,CD,Value (Adjusted),2002,1,0,0,0
+SACD,CD,Value (Adjusted),2003,1,37,0,37
+SACD,CD,Value (Adjusted),2004,1,22,0,22
+SACD,CD,Value (Adjusted),2005,1,13,0,13
+SACD,CD,Value (Adjusted),2006,1,7,0,7
+SACD,CD,Value (Adjusted),2007,1,4,0,4
+SACD,CD,Value (Adjusted),2008,1,4,0,4
+SACD,CD,Value (Adjusted),2009,1,3,0,3
+SACD,CD,Value (Adjusted),2010,1,2,0,2
+SACD,CD,Value (Adjusted),2011,1,2,0,2
+SACD,CD,Value (Adjusted),2012,1,1,0,1
+SACD,CD,Value (Adjusted),2013,1,1,0,1
+SACD,CD,Value (Adjusted),2014,1,1,0,1
+SACD,CD,Value (Adjusted),2015,1,1,0,1
+SACD,CD,Value (Adjusted),2016,1,1,0,1
+SACD,CD,Value (Adjusted),2017,1,1,0,1
+SACD,CD,Value (Adjusted),2018,1,1,0,1
+SACD,CD,Value (Adjusted),2019,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1973,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1974,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1975,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1976,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1977,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1978,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1979,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1980,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1981,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1982,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1983,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1984,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1985,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1986,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1987,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1988,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1989,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1990,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1991,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1992,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1993,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1994,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1995,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1996,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1997,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1998,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),1999,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2000,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2001,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2002,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2003,1,0,0,0
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2004,1,9,0,9
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2005,1,27,0,27
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2006,1,42,0,42
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2007,1,45,0,45
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2008,1,119,0,119
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2009,1,185,0,185
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2010,1,292,0,292
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2011,1,332,0,332
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2012,1,514,0,514
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2013,1,648,0,648
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2014,1,835,0,835
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2015,1,866,0,866
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2016,1,942,0,942
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2017,1,680,0,680
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2018,1,970,0,970
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2019,1,908,0,908
+Synchronization,Synchronization,Value (Adjusted),1973,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1974,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1975,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1976,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1977,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1978,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1979,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1980,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1981,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1982,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1983,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1984,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1985,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1986,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1987,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1988,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1989,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1990,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1991,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1992,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1993,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1994,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1995,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1996,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1997,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1998,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),1999,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),2000,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),2001,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),2002,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),2003,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),2004,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),2005,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),2006,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),2007,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),2008,1,0,0,0
+Synchronization,Synchronization,Value (Adjusted),2009,1,240,0,240
+Synchronization,Synchronization,Value (Adjusted),2010,1,221,0,221
+Synchronization,Synchronization,Value (Adjusted),2011,1,223,0,223
+Synchronization,Synchronization,Value (Adjusted),2012,1,212,0,212
+Synchronization,Synchronization,Value (Adjusted),2013,1,208,0,208
+Synchronization,Synchronization,Value (Adjusted),2014,1,205,0,205
+Synchronization,Synchronization,Value (Adjusted),2015,1,219,0,219
+Synchronization,Synchronization,Value (Adjusted),2016,1,229,0,229
+Synchronization,Synchronization,Value (Adjusted),2017,1,242,0,242
+Synchronization,Synchronization,Value (Adjusted),2018,1,291,0,291
+Synchronization,Synchronization,Value (Adjusted),2019,1,276,0,276
+Vinyl Single,Vinyl,Value (Adjusted),1973,1,1094,0,1094
+Vinyl Single,Vinyl,Value (Adjusted),1974,1,1006,0,1006
+Vinyl Single,Vinyl,Value (Adjusted),1975,1,1005,0,1005
+Vinyl Single,Vinyl,Value (Adjusted),1976,1,1101,0,1101
+Vinyl Single,Vinyl,Value (Adjusted),1977,1,1034,0,1034
+Vinyl Single,Vinyl,Value (Adjusted),1978,1,1021,0,1021
+Vinyl Single,Vinyl,Value (Adjusted),1979,1,1245,0,1245
+Vinyl Single,Vinyl,Value (Adjusted),1980,1,776,0,776
+Vinyl Single,Vinyl,Value (Adjusted),1981,1,721,0,721
+Vinyl Single,Vinyl,Value (Adjusted),1982,1,750,0,750
+Vinyl Single,Vinyl,Value (Adjusted),1983,1,691,0,691
+Vinyl Single,Vinyl,Value (Adjusted),1984,1,735,0,735
+Vinyl Single,Vinyl,Value (Adjusted),1985,1,668,0,668
+Vinyl Single,Vinyl,Value (Adjusted),1986,1,532,0,532
+Vinyl Single,Vinyl,Value (Adjusted),1987,1,458,0,458
+Vinyl Single,Vinyl,Value (Adjusted),1988,1,390,0,390
+Vinyl Single,Vinyl,Value (Adjusted),1989,1,240,0,240
+Vinyl Single,Vinyl,Value (Adjusted),1990,1,185,0,185
+Vinyl Single,Vinyl,Value (Adjusted),1991,1,120,0,120
+Vinyl Single,Vinyl,Value (Adjusted),1992,1,121,0,121
+Vinyl Single,Vinyl,Value (Adjusted),1993,1,91,0,91
+Vinyl Single,Vinyl,Value (Adjusted),1994,1,81,0,81
+Vinyl Single,Vinyl,Value (Adjusted),1995,1,78,0,78
+Vinyl Single,Vinyl,Value (Adjusted),1996,1,77,0,77
+Vinyl Single,Vinyl,Value (Adjusted),1997,1,57,0,57
+Vinyl Single,Vinyl,Value (Adjusted),1998,1,40,0,40
+Vinyl Single,Vinyl,Value (Adjusted),1999,1,43,0,43
+Vinyl Single,Vinyl,Value (Adjusted),2000,1,39,0,39
+Vinyl Single,Vinyl,Value (Adjusted),2001,1,45,0,45
+Vinyl Single,Vinyl,Value (Adjusted),2002,1,35,0,35
+Vinyl Single,Vinyl,Value (Adjusted),2003,1,30,0,30
+Vinyl Single,Vinyl,Value (Adjusted),2004,1,27,0,27
+Vinyl Single,Vinyl,Value (Adjusted),2005,1,17,0,17
+Vinyl Single,Vinyl,Value (Adjusted),2006,1,13,0,13
+Vinyl Single,Vinyl,Value (Adjusted),2007,1,5,0,5
+Vinyl Single,Vinyl,Value (Adjusted),2008,1,3,0,3
+Vinyl Single,Vinyl,Value (Adjusted),2009,1,3,0,3
+Vinyl Single,Vinyl,Value (Adjusted),2010,1,3,0,3
+Vinyl Single,Vinyl,Value (Adjusted),2011,1,5,0,5
+Vinyl Single,Vinyl,Value (Adjusted),2012,1,5,0,5
+Vinyl Single,Vinyl,Value (Adjusted),2013,1,3,0,3
+Vinyl Single,Vinyl,Value (Adjusted),2014,1,6,0,6
+Vinyl Single,Vinyl,Value (Adjusted),2015,1,6,0,6
+Vinyl Single,Vinyl,Value (Adjusted),2016,1,5,0,5
+Vinyl Single,Vinyl,Value (Adjusted),2017,1,6,0,6
+Vinyl Single,Vinyl,Value (Adjusted),2018,1,5,0,5
+Vinyl Single,Vinyl,Value (Adjusted),2019,1,7,0,7
+CD,CD,Units,2020,1,0,32,0
+CD Single,CD,Units,2020,1,0,0,0
+Download Album,Download,Units,2020,1,0,33,0
+Download Music Video,Download,Units,2020,1,0,1,0
+Download Single,Download,Units,2020,1,0,249,0
+DVD Audio,DVD,Units,2020,1,0,0,0
+Kiosk,Other,Units,2020,1,0,1,0
+LP/EP,Vinyl,Units,2020,1,0,24,0
+Music Video (Physical),Other,Units,2020,1,0,1,0
+Ringtones & Ringbacks,Ringtones,Units,2020,1,0,8,0
+SACD,CD,Units,2020,1,0,0,0
+Vinyl Single,Vinyl,Units,2020,1,0,0,0
+LP/EP,Vinyl,Value,2020,1,644,0,644
+Vinyl Single,Vinyl,Value,2020,1,6,0,6
+CD,CD,Value,2020,1,483,0,483
+CD Single,CD,Value,2020,1,0,0,0
+SACD,CD,Value,2020,1,0,0,0
+Download Album,Download,Value,2020,1,319,0,319
+Download Music Video,Download,Value,2020,1,2,0,2
+Download Single,Download,Value,2020,1,303,0,303
+DVD Audio,DVD,Value,2020,1,2,0,2
+Kiosk,Other,Value,2020,1,1,0,1
+Paid Subscription,Paid Subscription,Value,2020,1,6973,0,6973
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2020,1,1200,0,1200
+Other Ad-Supported Streaming,Other Streaming,Value,2020,1,211,0,211
+SoundExchange Distributions,Other Streaming,Value,2020,1,947,0,947
+Limited Tier Paid Subscription,Paid Subscription,Value,2020,1,720,0,720
+Music Video (Physical),Other,Value,2020,1,27,0,27
+Other Digital,Download,Value,2020,1,19,0,19
+Ringtones & Ringbacks,Ringtones,Value,2020,1,20,0,20
+Synchronization,Synchronization,Value,2020,1,265,0,265
+LP/EP,Vinyl,Value (Adjusted),2020,1,674,0,674
+Vinyl Single,Vinyl,Value (Adjusted),2020,1,7,0,7
+CD,CD,Value (Adjusted),2020,1,506,0,506
+CD Single,CD,Value (Adjusted),2020,1,0,0,0
+SACD,CD,Value (Adjusted),2020,1,0,0,0
+Download Album,Download,Value (Adjusted),2020,1,334,0,334
+Download Music Video,Download,Value (Adjusted),2020,1,2,0,2
+Download Single,Download,Value (Adjusted),2020,1,318,0,318
+DVD Audio,DVD,Value (Adjusted),2020,1,2,0,2
+Kiosk,Other,Value (Adjusted),2020,1,1,0,1
+Paid Subscription,Paid Subscription,Value (Adjusted),2020,1,7300,0,7300
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2020,1,1257,0,1257
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2020,1,221,0,221
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2020,1,992,0,992
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2020,1,754,0,754
+Music Video (Physical),Other,Value (Adjusted),2020,1,29,0,29
+Other Digital,Download,Value (Adjusted),2020,1,20,0,20
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2020,1,21,0,21
+Synchronization,Synchronization,Value (Adjusted),2020,1,278,0,278
+CD,CD,Units,2021,1,0,47,0
+CD Single,CD,Units,2021,1,0,0,0
+Download Album,Download,Units,2021,1,0,29,0
+Download Music Video,Download,Units,2021,1,0,1,0
+Download Single,Download,Units,2021,1,0,209,0
+DVD Audio,DVD,Units,2021,1,0,0,0
+Kiosk,Other,Units,2021,1,0,0,0
+LP/EP,Vinyl,Units,2021,1,0,40,0
+Music Video (Physical),Other,Units,2021,1,0,1,0
+Ringtones & Ringbacks,Ringtones,Units,2021,1,0,6,0
+SACD,CD,Units,2021,1,0,0,0
+Vinyl Single,Vinyl,Units,2021,1,0,0,0
+LP/EP,Vinyl,Value,2021,1,1038,0,1038
+Vinyl Single,Vinyl,Value,2021,1,8,0,8
+CD,CD,Value,2021,1,584,0,584
+CD Single,CD,Value,2021,1,0,0,0
+SACD,CD,Value,2021,1,0,0,0
+Download Album,Download,Value,2021,1,282,0,282
+Download Music Video,Download,Value,2021,1,2,0,2
+Download Single,Download,Value,2021,1,256,0,256
+DVD Audio,DVD,Value,2021,1,6,0,6
+Kiosk,Other,Value,2021,1,1,0,1
+Paid Subscription,Paid Subscription,Value,2021,1,8574,0,8574
+On-Demand Streaming (Ad-Supported),Other Streaming,Value,2021,1,1761,0,1761
+Other Ad-Supported Streaming,Other Streaming,Value,2021,1,209,0,209
+SoundExchange Distributions,Other Streaming,Value,2021,1,993,0,993
+Limited Tier Paid Subscription,Paid Subscription,Value,2021,1,907,0,907
+Music Video (Physical),Other,Value,2021,1,20,0,20
+Other Digital,Download,Value,2021,1,31,0,31
+Ringtones & Ringbacks,Ringtones,Value,2021,1,15,0,15
+Synchronization,Synchronization,Value,2021,1,303,0,303
+LP/EP,Vinyl,Value (Adjusted),2021,1,1038,0,1038
+Vinyl Single,Vinyl,Value (Adjusted),2021,1,8,0,8
+CD,CD,Value (Adjusted),2021,1,584,0,584
+CD Single,CD,Value (Adjusted),2021,1,0,0,0
+SACD,CD,Value (Adjusted),2021,1,0,0,0
+Download Album,Download,Value (Adjusted),2021,1,282,0,282
+Download Music Video,Download,Value (Adjusted),2021,1,2,0,2
+Download Single,Download,Value (Adjusted),2021,1,256,0,256
+DVD Audio,DVD,Value (Adjusted),2021,1,6,0,6
+Kiosk,Other,Value (Adjusted),2021,1,1,0,1
+Paid Subscription,Paid Subscription,Value (Adjusted),2021,1,8574,0,8574
+On-Demand Streaming (Ad-Supported),Other Streaming,Value (Adjusted),2021,1,1761,0,1761
+Other Ad-Supported Streaming,Other Streaming,Value (Adjusted),2021,1,209,0,209
+SoundExchange Distributions,Other Streaming,Value (Adjusted),2021,1,993,0,993
+Limited Tier Paid Subscription,Paid Subscription,Value (Adjusted),2021,1,907,0,907
+Music Video (Physical),Other,Value (Adjusted),2021,1,20,0,20
+Other Digital,Download,Value (Adjusted),2021,1,31,0,31
+Ringtones & Ringbacks,Ringtones,Value (Adjusted),2021,1,15,0,15
+Synchronization,Synchronization,Value (Adjusted),2021,1,303,0,303

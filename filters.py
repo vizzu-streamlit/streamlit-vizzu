@@ -15,7 +15,7 @@ st.write(
 """
 )
 
-data_frame = pd.read_csv("pages/sales.csv")
+data_frame = pd.read_csv("data/sales.csv")
 data = Data()
 data.add_data_frame(data_frame)
 
