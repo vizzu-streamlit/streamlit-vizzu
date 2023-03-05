@@ -15,13 +15,10 @@ data.add_data_frame(data_frame)
 with st.expander("Expand to check the data  ⤵️"):
     st.dataframe(data)
 
-
-chart = Chart(width="100%", height="380px", display="manual")
-
 chart.animate(data)
 chart.feature("tooltip", True)
 
-vchart = VizzuChart(chart, key="vizzu", height=380)
+chart = VizzuChart(chart, key="vizzu", height=380)
 
 split = st.session_state.get("split", False)
 chart_type = st.session_state.get("chart_type", "Column")
