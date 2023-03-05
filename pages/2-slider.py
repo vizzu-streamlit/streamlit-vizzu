@@ -15,7 +15,7 @@ chart = VizzuChart(key="vizzu", height=380)
 chart.animate(data)
 chart.feature("tooltip", True)
 
-year = st.slider("Pick a year", min_value=1973, max_value=2021, value=1997)
+year = st.slider("Pick a year", min_value=1973, max_value=2020, value=1997)
 
 chart.animate(
 	Data.filter(f"record.Year == '{year}'"), 
@@ -28,9 +28,12 @@ chart.animate(
         }
     ),
     Style({
-        "plot": { "marker": { "colorPalette": "#b74c20FF #c47f58FF #1c9761FF #ea4549FF #875792FF #3562b6FF #ee7c34FF #efae3aFF"}},
+        "plot": { "marker": { "colorPalette": "#b74c20FF #c47f58FF #1c9761FF #ea4549FF #875792FF #3562b6FF #ee7c34FF #efae3aFF",
+		'label' :{ 'numberFormat' : 'prefixed','maxFractionDigits' : '1','numberScale':'shortScaleSymbolUS'}},
+        'paddingLeft' : '8em',
+		}
     }),
-	delay='0.1'
+	delay='0'
 )
 	
 chart.show()
