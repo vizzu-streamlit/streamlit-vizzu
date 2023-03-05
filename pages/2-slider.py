@@ -28,8 +28,16 @@ chart.animate(
         }
     ),
     Style({
-        "plot": { "marker": { "colorPalette": "#b74c20FF #c47f58FF #1c9761FF #ea4549FF #875792FF #3562b6FF #ee7c34FF #efae3aFF",
-		'label' :{ 'numberFormat' : 'prefixed','maxFractionDigits' : '1','numberScale':'shortScaleSymbolUS'}},
+        "plot": {
+			"xAxis": {"label": {'numberScale':'shortScaleSymbolUS'}},		
+			"marker": { 
+				"colorPalette": "#b74c20FF #c47f58FF #1c9761FF #ea4549FF #875792FF #3562b6FF #ee7c34FF #efae3aFF",
+				'label' :{ 
+					'numberFormat' : 'prefixed',
+					'maxFractionDigits' : '1',
+					'numberScale':'shortScaleSymbolUS'
+				}
+			},
         'paddingLeft' : '8em',
 		}
     }),
