@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 from ipyvizzu.animation import Config, Data, Style
-from ipyvizzu.chart import Chart
 
 from streamlit_vizzu import VizzuChart
 
@@ -15,10 +14,9 @@ data.add_data_frame(data_frame)
 with st.expander("Expand to check the data  ⤵️"):
     st.dataframe(data)
 
-chart.animate(data)
-chart.feature("tooltip", True)
-
-chart = VizzuChart(chart, key="vizzu", height=380)
+vchart = VizzuChart(key="vizzu", height=380)
+vchart.animate(data)
+vchart.feature("tooltip", True)
 
 split = st.session_state.get("split", False)
 chart_type = st.session_state.get("chart_type", "Column")
