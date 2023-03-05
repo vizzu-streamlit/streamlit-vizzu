@@ -1,17 +1,14 @@
 import pandas as pd
 import streamlit as st
-from st_pages import show_pages_from_config
 from streamlit_vizzu import Config, Data, Style, VizzuChart
-
-show_pages_from_config()
-
+st.set_page_config(page_title="Streamlit-Vizzu Demo App", initial_sidebar_state="auto", menu_items=None)
 st.write(
     """
 # Streamlit-Vizzu Demo App
 
 [Documentation](https://github.com/vizzu-streamlit/streamlit-vizzu)
 [PyPI](https://pypi.org/project/streamlit-vizzu/)
-[Source Code](https://github.com/vizzu-streamlit/streamlit-vizzu/blob/main/filters.py)
+[Source Code](https://github.com/vizzu-streamlit/streamlit-vizzu/blob/main/demo.py)
 """
 )
 
@@ -19,7 +16,7 @@ data_frame = pd.read_csv("data/sales.csv")
 data = Data()
 data.add_data_frame(data_frame)
 
-chart = VizzuChart()
+chart = VizzuChart(width='100%')
 
 chart.animate(data)
 chart.feature("tooltip", True)
@@ -33,7 +30,7 @@ items: list[str] = st.multiselect(
 col1, col2, col3, col4, col5 = st.columns(5)
 
 measure: str = col1.radio("Measure", ["Sales", "Revenue [$]"])  # type: ignore
-compare_by = col2.radio("Compare by", ["Region", "Product", "Both"])
+compare_by = col2.radio("Compare by", ["Product", "Region", "Both"])
 coords = col3.radio("Coordinate system", ["Cartesian (desktop)", "Polar (mobile)"])
 order = col4.radio("Order items", ["Alphabetically", "By value"])
 bg_color = col5.color_picker("Background color", "#fff")
@@ -81,6 +78,5 @@ chart.animate(Data.filter(filter), Config(config), style, delay=0.1)
 output = chart.show()
 
 st.write("Try clicking on the graph to see the data!")
-st.write("See 'Filters Flipped' page for an example with the chart *above* the filters")
 
 st.write(output)
