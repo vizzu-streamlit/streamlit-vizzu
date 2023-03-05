@@ -17,8 +17,10 @@ chart.feature("tooltip", True)
 
 year = st.slider("Pick a year", min_value=1973, max_value=2021, value=1997)
 
+filter = "record.Year === year"
+
 chart.animate(
-	#Data.filter("record.Year === year"), 
+	Data.filter(filter), 
 	Config.groupedBar(
         {
             "x": "Revenue[m$]",
