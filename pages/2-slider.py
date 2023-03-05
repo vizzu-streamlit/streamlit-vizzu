@@ -15,10 +15,10 @@ chart = VizzuChart(key="vizzu", height=380)
 chart.animate(data)
 chart.feature("tooltip", True)
 
-year = st.slider("Pick a year", min_value=1973, max_value=2021, value=1990)
+year = st.slider("Pick a year", min_value=1973, max_value=2021, value=1997)
 
 chart.animate(
-	Data.filter("record.Year === year"), 
+	#Data.filter("record.Year === year"), 
 	Config.groupedBar(
         {
             "x": "Revenue[m$]",
@@ -32,4 +32,4 @@ chart.animate(
 	delay='0.1'
 )
 	
-output = chart.show()
+chart.show()
