@@ -5,7 +5,7 @@ from ipyvizzu.animation import Config, Data, Style
 from streamlit_vizzu import VizzuChart
 
 data_frame = pd.read_csv(
-    "data/music.csv", dtype={"Year": str}
+    "data/music2.csv", dtype={"Year": str}
 )
 
 data = Data()
@@ -19,11 +19,11 @@ split = st.session_state.get("split", False)
 chart_type = st.session_state.get("chart_type", "Column")
 
 def set_default():
-    st.session_state.multiselect = ["Vinyl", "Cassette", "CD", "Download"]
+    st.session_state.multiselect = ["Cassette", "CD", "Download", "Vinyl"]
     return
 
 def show_all():
-    st.session_state.multiselect = ["Vinyl", "Tapes", "Cassette", "CD", "DVD", "Download", "Ringtones", "Synchronization", "Paid Subscription", "Other Streaming", "Other"]
+    st.session_state.multiselect = ["Cassette", "CD", "Download", "DVD", "Other", "Streaming", "Tape", "Vinyl"]
     return
 
 # -- subheading style setting --
@@ -38,7 +38,7 @@ st.write("""
 
 # -- set default variables --
 x = ["Year"]
-y = ["Revenue[m$]"]
+y = ["Revenue[$]"]
 color = ["Format"]
 label = None
 
@@ -109,7 +109,7 @@ if compare_by == "Revenue":
     # -- choose grouping category --
     if stack_by == "Year":
         x = "Year"
-        y = ["Revenue[m$]", "Format"]
+        y = ["Revenue[$]", "Format"]
         color = "Format"
         angle = "-1.1"
 
@@ -118,8 +118,8 @@ if compare_by == "Revenue":
 
     else:
         y = "Format"
-        x = "Revenue[m$]"
-        label = "Revenue[m$]"
+        x = "Revenue[$]"
+        label = "Revenue[$]"
         xAxisLabelColor = "#00000000"
         plotPaddingLeft = "9em" 
 
@@ -146,7 +146,7 @@ else:
 
     if stack_by == "Year":
         x = "Year"
-        y = ["Units[m]", "Format"]
+        y = ["Units", "Format"]
         color = "Format"
         angle = "-1.1"
 
@@ -155,8 +155,8 @@ else:
             
     else:
         y = "Format"
-        x = "Units[m]"
-        label = "Units[m]"
+        x = "Units"
+        label = "Units"
         xAxisLabelColor = "#00000000"
         plotPaddingLeft = "9em" 
 
@@ -166,8 +166,8 @@ else:
 # -- select format --
 items: list[str] = st.multiselect(  
     "Format",
-    ["Vinyl", "Tapes", "Cassette", "CD", "DVD", "Download", "Ringtones", "Synchronization", "Paid Subscription", "Other Streaming", "Other"],
-    ["Vinyl", "Cassette", "CD", "Download"], key="multiselect"
+    ["Cassette", "CD", "Download", "DVD", "Other", "Streaming", "Tape", "Vinyl"],
+    ["Cassette", "CD", "Download", "Vinyl"], key="multiselect"
 )
 
 filter_format = "(" + " || ".join([f"record['Format'] == '{item}'" for item in items]) + ")"
@@ -222,11 +222,15 @@ style = Style({
                 "angle": angle,
                 "color": xAxisLabelColor,
                 "fontSize": xAxisFontSize,
+				'numberFormat' : 'prefixed', 
+				'numberScale':'shortScaleSymbolUS'
             }
         },
         "yAxis": {
             "label": {
                 "color": yAxisLabelColor,
+				'numberFormat' : 'prefixed', 
+				'numberScale':'shortScaleSymbolUS'
             }
         },
         "paddingLeft": plotPaddingLeft

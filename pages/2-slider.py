@@ -21,7 +21,7 @@ chart.animate(
 	Data.filter(f"record.Year == '{year}'"), 
 	Config.groupedBar(
         {
-            "x": "Revenue[m$]",
+            "x": "Revenue[$]",
             "y": "Format",
             "groupedBy": "Format",
 			"sort":"byValue"
