@@ -24,6 +24,7 @@ chart.animate(
             "x": "Revenue[m$]",
             "y": "Format",
             "groupedBy": "Format",
+			"sort":"byValue"
         }
     ),
     Style({
