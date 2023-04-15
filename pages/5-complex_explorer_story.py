@@ -19,6 +19,8 @@ if "story" not in st.session_state:
     st.session_state.story = Story(data)
     st.session_state.story.set_feature("tooltip", True)
 chart.feature("tooltip", True)
+if "lastanim" not in st.session_state:
+    st.session_state.lastanim = []
 
 split = st.session_state.get("split", False)
 chart_type = st.session_state.get("chart_type", "Column")
@@ -186,7 +188,7 @@ style = Style({
 
 # -- display chart --
 chart.animate(Data.filter(filter), Config(config), style, delay="0.1")
-st.session_state.story.add_slide(Slide(Step(Data.filter(filter), Config(config), style)))
+lastanim = [Data.filter(filter), Config(config), style]
 output = chart.show()
 
 # -- set controllers under the chart --
@@ -198,4 +200,21 @@ split = col4.checkbox("Split values", key="split", disabled=stack_by != "Year")
 chart_type = col3.radio("Chart type", [
                         "Column", "Stream"], key="chart_type", horizontal=True, disabled=stack_by != "Year")
 
-st.download_button(label="Download Story", data=st.session_state.story.to_html(), file_name="story.html", mime="text/html")
+def clear_last_anim():
+    st.session_state.lastanim = []
+
+save_all = st.checkbox('Save all', value=False, on_change=clear_last_anim)
+save_button = st.button('Save animation')
+download_button = st.download_button(label="Download Story", data=st.session_state.story.to_html(), file_name="story.html", mime="text/html")
+if not download_button:
+    if save_all:
+        if st.session_state.lastanim:
+            st.session_state.story.add_slide(Slide(Step(*st.session_state.lastanim)))
+        st.session_state.lastanim = lastanim
+    else:
+        if save_button:
+            if st.session_state.lastanim:
+                st.session_state.story.add_slide(Slide(Step(*st.session_state.lastanim)))
+                clear_last_anim()
+        else:
+            st.session_state.lastanim = lastanim
