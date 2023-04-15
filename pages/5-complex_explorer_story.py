@@ -17,7 +17,7 @@ chart = VizzuChart(key="vizzu", height=380)
 chart.animate(data)
 if "story" not in st.session_state:
     st.session_state.story = Story(data)
-    st.session_state.story.set_feature("tooltip", True)
+st.session_state.story.set_feature("tooltip", True)
 chart.feature("tooltip", True)
 if "lastanim" not in st.session_state:
     st.session_state.lastanim = []
@@ -188,7 +188,7 @@ style = Style({
 
 # -- display chart --
 chart.animate(Data.filter(filter), Config(config), style, delay="0.1")
-lastanim = [Data.filter(filter), Config(config), style]
+st.session_state.lastanim = [Data.filter(filter), Config(config), style]
 output = chart.show()
 
 # -- set controllers under the chart --
@@ -200,21 +200,13 @@ split = col4.checkbox("Split values", key="split", disabled=stack_by != "Year")
 chart_type = col3.radio("Chart type", [
                         "Column", "Stream"], key="chart_type", horizontal=True, disabled=stack_by != "Year")
 
-def clear_last_anim():
-    st.session_state.lastanim = []
-
-save_all = st.checkbox('Save all', value=False, on_change=clear_last_anim)
+save_all = st.checkbox('Save all', value=False)
 save_button = st.button('Save animation')
-if save_all:
-    if st.session_state.lastanim:
+if st.session_state.lastanim:
+    if save_all:
         st.session_state.story.add_slide(Slide(Step(*st.session_state.lastanim)))
-    st.session_state.lastanim = lastanim
-else:
-    if save_button:
-        if st.session_state.lastanim:
-            st.session_state.story.add_slide(Slide(Step(*st.session_state.lastanim)))
-            clear_last_anim()
     else:
-        st.session_state.lastanim = lastanim
+        if save_button:
+            st.session_state.story.add_slide(Slide(Step(*st.session_state.lastanim)))
 
 download_button = st.download_button(label="Download Story", data=st.session_state.story.to_html(), file_name="story.html", mime="text/html")
