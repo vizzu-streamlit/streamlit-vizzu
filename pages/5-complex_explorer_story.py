@@ -205,16 +205,16 @@ def clear_last_anim():
 
 save_all = st.checkbox('Save all', value=False, on_change=clear_last_anim)
 save_button = st.button('Save animation')
-download_button = st.download_button(label="Download Story", data=st.session_state.story.to_html(), file_name="story.html", mime="text/html")
-if not download_button:
-    if save_all:
+if save_all:
+    if st.session_state.lastanim:
+        st.session_state.story.add_slide(Slide(Step(*st.session_state.lastanim)))
+    st.session_state.lastanim = lastanim
+else:
+    if save_button:
         if st.session_state.lastanim:
             st.session_state.story.add_slide(Slide(Step(*st.session_state.lastanim)))
-        st.session_state.lastanim = lastanim
+            clear_last_anim()
     else:
-        if save_button:
-            if st.session_state.lastanim:
-                st.session_state.story.add_slide(Slide(Step(*st.session_state.lastanim)))
-                clear_last_anim()
-        else:
-            st.session_state.lastanim = lastanim
+        st.session_state.lastanim = lastanim
+
+download_button = st.download_button(label="Download Story", data=st.session_state.story.to_html(), file_name="story.html", mime="text/html")
