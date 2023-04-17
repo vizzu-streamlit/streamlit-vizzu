@@ -200,7 +200,7 @@ split = col4.checkbox("Split values", key="split", disabled=stack_by != "Year")
 chart_type = col3.radio("Chart type", [
                         "Column", "Stream"], key="chart_type", horizontal=True, disabled=stack_by != "Year")
 
-save_all = st.checkbox('Save all', value=False)
+save_all = st.checkbox('Save all', value=True)
 save_button = st.button('Save animation')
 if st.session_state.lastanim:
     if save_all:
