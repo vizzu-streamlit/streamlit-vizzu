@@ -3,11 +3,11 @@ import streamlit as st
 
 from streamlit_vizzu import Config, Data, VizzuChart
 
-st.markdown('Thanks for using the app! :heart_eyes: \
-\
+st.markdown('Thanks for using the app! :heart_eyes:  
 If you want to learn more about how it works, check out my [blog post](https://blog.streamlit.io/create-an-animated-data-story-with-ipyvizzu-and-streamlit/) on creating animated data stories with ipyvizzu and Streamlit. :chart_with_upwards_trend::film_frames::balloon:')
 st.markdown('You can find the code for the app on this [GitHub repo](https://github.com/vizzu-streamlit/world-population-story)')
-st.markdown('Visit our ![homepage [homepage](https://vizzuhq.com)](https://vizzuhq.com/images/logo/logo-white.png) to learn more about our open-source charting and data storytelling tools.')		
+st.markdown('Visit our [homepage](https://vizzuhq.com)] to learn more about our open-source charting and data storytelling tools.')
+st.markdown('Visit our ![homepage [homepage](https://vizzuhq.com)](https://vizzuhq.com/images/logo/logo-white.png) to learn more about our open-source charting and data storytelling tools.')			
 
 # Create a VizzuChart object with the default height and width
 chart = VizzuChart()
