@@ -1,4 +1,4 @@
-ipyvizzu==0.14.0
+ipyvizzu
 ipyvizzu-story
 streamlit>=1.18.0
 -e .
