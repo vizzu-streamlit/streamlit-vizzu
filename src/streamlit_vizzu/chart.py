@@ -2,6 +2,9 @@ from __future__ import annotations
 
 from pathlib import Path
 from typing import Any
+from importlib_metadata import version
+from distutils.version import StrictVersion
+import uuid
 
 import streamlit as st
 import streamlit.components.v1 as components
@@ -50,6 +53,7 @@ class VizzuChart(Chart):
         self.chart_height = height - 20
         self.rerun_on_click = rerun_on_click
         self.default_duration = default_duration
+        self.ipyvizzu_version = StrictVersion(version("ipyvizzu"))
 
         super().__init__(
             width=f"{width}px",
@@ -58,7 +62,8 @@ class VizzuChart(Chart):
             **kwargs,
         )
 
-        self._chart_id
+        if self.ipyvizzu_version >= StrictVersion("0.15.0"):
+            self.initializing()
 
     def show(self):
         """
@@ -121,11 +126,25 @@ class VizzuChart(Chart):
         return f'<div id="{self.chart_id}"><script>{self._get_script()}</script></div>'
 
     def _animation_to_js(self, *animations: Any, **options: Any):
-        animation = self._merge_animations(animations)
+        if self.ipyvizzu_version < StrictVersion("0.15.0"):
+            animation = self._merge_animations(animations)
+            animate = Animate(animation, options)
+            return DisplayTemplate.ANIMATE.format(
+                display_target=self._display_target.value,
+                chart_id=self._chart_id,
+                scroll=str(self._scroll_into_view).lower(),
+                **animate.dump(),
+            )
+
+        from ipyvizzu.animation import AnimationMerger
+
+        animation = AnimationMerger.merge_animations(animations)
         animate = Animate(animation, options)
+        self._last_anim = uuid.uuid4().hex[:7]
         return DisplayTemplate.ANIMATE.format(
             display_target=self._display_target.value,
             chart_id=self._chart_id,
+            anim_id=self._last_anim,
             scroll=str(self._scroll_into_view).lower(),
             **animate.dump(),
         )
