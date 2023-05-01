@@ -137,6 +137,7 @@ class VizzuChart(Chart):
             )
 
         from ipyvizzu.animation import AnimationMerger
+
         animation = AnimationMerger.merge_animations(animations)
         animate = Animate(animation, options)
         self._last_anim = uuid.uuid4().hex[:7]
