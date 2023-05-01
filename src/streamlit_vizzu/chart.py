@@ -53,6 +53,7 @@ class VizzuChart(Chart):
         self.chart_height = height - 20
         self.rerun_on_click = rerun_on_click
         self.default_duration = default_duration
+        self.ipyvizzu_version = StrictVersion(version("ipyvizzu"))
 
         super().__init__(
             width=f"{width}px",
@@ -60,6 +61,9 @@ class VizzuChart(Chart):
             display=DisplayTarget.MANUAL,
             **kwargs,
         )
+
+        if self.ipyvizzu_version >= StrictVersion("0.15.0"):
+            self.initializing()
 
     def show(self):
         """
@@ -122,8 +126,7 @@ class VizzuChart(Chart):
         return f'<div id="{self.chart_id}"><script>{self._get_script()}</script></div>'
 
     def _animation_to_js(self, *animations: Any, **options: Any):
-        version_num = version("ipyvizzu")
-        if StrictVersion(version_num) < StrictVersion("0.15.0"):
+        if self.ipyvizzu_version < StrictVersion("0.15.0"):
             animation = self._merge_animations(animations)
             animate = Animate(animation, options)
             return DisplayTemplate.ANIMATE.format(
