@@ -19,7 +19,7 @@ if st.checkbox("Swap"):
     chart.animate(Config({"y": "a", "x": "b", "title": "Swapped!"}))
 
 # Show the chart in the app!
-data = chart.show()
+output = chart.show()
 
-if data is not None and "marker" in data:
-    st.write("value of clicked bar:", data["marker"]["values"]["b"])
+if output is not None and "marker" in output:
+    st.write("value of clicked bar:", output["marker"]["values"]["b"])

@@ -187,7 +187,7 @@ style = Style({
 })
 
 # -- display chart --
-chart.animate(Data.filter(filter), Config(config), style, delay="0.1")
+chart.animate(Data.filter(filter), Config(config), style, delay=0, duration=0.7 )
 st.session_state.lastanim = [Data.filter(filter), Config(config), style]
 output = chart.show()
 

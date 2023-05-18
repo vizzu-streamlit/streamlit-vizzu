@@ -180,7 +180,7 @@ style = Style({
 })
 
 # -- display chart --
-chart.animate(Data.filter(filter), Config(config), style, delay="0.1")
+chart.animate(Data.filter(filter), Config(config), style, delay=0, duration=0.7)
 output = chart.show()
 
 # -- set controllers under the chart --
