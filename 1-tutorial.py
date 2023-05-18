@@ -23,3 +23,6 @@ output = chart.show()
 
 if output is not None and "marker" in output:
     st.write("value of clicked bar:", output["marker"]["values"]["b"])
+
+
+st.write('Check the [source code](https://github.com/vizzu-streamlit/streamlit-vizzu) of the bidirectional component that makes this possible, created by [blackary](https://github.com/blackary)')
