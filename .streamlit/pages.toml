@@ -4,16 +4,16 @@ name = "Streamlit-Vizzu"
 icon = "🏠"
 
 [[pages]]
-path = "pages/filters_flipped.py"
-name = "Filters Flipped"
-icon = "🙃"
-
-[[pages]]
-path = "pages/tutorial.py"
+path = "1-tutorial.py"
 name = "Tutorial Example"
 icon = "📚"
 
 [[pages]]
-path = "pages/drilldown.py"
+path = "pages/3-drilldown.py"
 name = "Drilldown"
 icon = "🔍"
+
+[[pages]]
+path = "pages/5-complex_explorer.py"
+name = "Complex Explorer"
+icon = "🗺️"
