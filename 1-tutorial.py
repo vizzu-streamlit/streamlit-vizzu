@@ -11,6 +11,8 @@ data = Data()
 data.add_data_frame(df)
 chart.animate(data)
 
+st.title('Visit [intro-to-vizzu-in.streamlit.app](https://intro-to-vizzu-in.streamlit.app/) to follow along')
+
 # Add some configuration to tell Vizzu how to display the data
 chart.animate(Config({"x": "a", "y": "b", "title": "Look at my plot!"}))
 
