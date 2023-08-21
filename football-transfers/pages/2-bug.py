@@ -13,11 +13,11 @@ chart = VizzuChart(key="vizzu", height=380)
 chart.animate(data)
 chart.feature("tooltip", True)
 
-year = st.slider("Pick a year", min_value=1992, max_value=2022, value=2010)
+year = st.slider("Pick a year", min_value=1992, max_value=2022, value=2020)
 
-	compare_title = "Transfer fees spent in "
-	x = "fee[m€]"
-	filter = f"record.year == '{year}' && record.transfer_movement == 'in' && record.club_name =='Arsenal FC'"
+compare_title = "Transfer fees spent in "
+x = "fee[m€]"
+filter = f"record.year == '{year}' && record.transfer_movement == 'in' && record.club_name =='Arsenal FC'"
 
 
 chart.animate(
