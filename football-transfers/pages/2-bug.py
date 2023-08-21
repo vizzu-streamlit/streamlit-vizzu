@@ -24,10 +24,9 @@ chart.animate(
     Data.filter(filter),	
     Config(
         {"x": [x,"player_name"], 
-		"y": "club_name", 
-		"color": "club_name",
-		"lightness":"player_name",
-		#"sort": "byValue",
+		"y": "player_name", 
+		"color": "player_name",
+		"sort": "byValue",
 		"title": f"{compare_title}{year}"}
     ),
     Style(
