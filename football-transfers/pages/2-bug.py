@@ -23,7 +23,7 @@ filter = f"record.year == '{year}' && record.transfer_movement == 'in' && record
 chart.animate(
     Data.filter(filter),	
     Config(
-        {"x": [x,"player_name"], 
+        {"x": x, 
 		"y": "player_name", 
 		"color": "player_name",
 		"sort": "byValue",
