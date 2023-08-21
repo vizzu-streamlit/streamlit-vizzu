@@ -27,6 +27,7 @@ chart.animate(
 		"y": "player_name", 
 		"color": "player_name",
 		"sort": "byValue",
+		"label": x,
 		"title": f"{compare_title}{year}"}
     ),
     Style(
