@@ -29,6 +29,7 @@ class VizzuChart(Chart):
         return_clicks: bool = True,
         rerun_on_click: bool = False,
         default_duration: float | None = None,
+        use_container_width: bool = False,
         **kwargs,
     ):
         """
@@ -55,8 +56,13 @@ class VizzuChart(Chart):
         self.default_duration = default_duration
         self.ipyvizzu_version = StrictVersion(version("ipyvizzu"))
 
+        if use_container_width:
+            _width = "100%"
+        else:
+            _width = f"{width}px"
+
         super().__init__(
-            width=f"{width}px",
+            width=_width,
             height=f"{self.chart_height}px",
             display=DisplayTarget.MANUAL,
             **kwargs,
