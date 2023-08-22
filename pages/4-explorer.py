@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import pandas as pd
 import streamlit as st
 
@@ -20,7 +22,7 @@ items: list[str] = st.multiselect(
 
 col1, col2, col3, col4, col5 = st.columns(5)
 
-measure: str = col1.radio("Measure", ["Sales", "Revenue [$]"]) 
+measure: str = col1.radio("Measure", ["Sales", "Revenue [$]"])
 compare_by = col2.radio("Compare by", ["Product", "Region", "Both"])
 coords = col3.radio("Coordinate system", ["Cartesian (desktop)", "Polar (mobile)"])
 order = col4.radio("Order items", ["Alphabetically", "By value"])
