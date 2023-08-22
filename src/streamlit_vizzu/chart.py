@@ -23,8 +23,8 @@ _component_func = components.declare_component(
 class VizzuChart(Chart):
     def __init__(
         self,
-        width: int = 700,
-        height: int = 480,
+        width: int | str = 700,
+        height: int | str = 480,
         key: str = "vizzu",
         return_clicks: bool = True,
         rerun_on_click: bool = False,
@@ -51,19 +51,25 @@ class VizzuChart(Chart):
         self.animations: list[str] = []
         self.return_clicks = return_clicks
         self.height = height
-        self.chart_height = height - 20
         self.rerun_on_click = rerun_on_click
         self.default_duration = default_duration
         self.ipyvizzu_version = StrictVersion(version("ipyvizzu"))
 
         if use_container_width:
             _width = "100%"
-        else:
+        elif isinstance(width, int):
             _width = f"{width}px"
+        else:
+            _width = width
+
+        if isinstance(height, int):
+            _height = f"{height - 20}px"  # account for padding
+        else:
+            _height = height
 
         super().__init__(
             width=_width,
-            height=f"{self.chart_height}px",
+            height=_height,
             display=DisplayTarget.MANUAL,
             **kwargs,
         )
