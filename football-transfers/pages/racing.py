@@ -4,8 +4,8 @@ from ipyvizzu.animation import Config, Data, Style
 
 from streamlit_vizzu import VizzuChart
 
-# online version data_frame = pd.read_csv("football-transfers/football_transfers_cleaned.csv", dtype={"year": str})
-data_frame = pd.read_csv("./football_transfers_cleaned.csv", dtype={"year": str})
+data_frame = pd.read_csv("football-transfers/football_transfers_cleaned.csv", dtype={"year": str})
+#offline data_frame = pd.read_csv("./football_transfers_cleaned.csv", dtype={"year": str})
 
 data = Data()
 data.add_df(data_frame, max_rows=25000)
