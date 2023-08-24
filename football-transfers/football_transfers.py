@@ -4,7 +4,6 @@ from ipyvizzu.animation import Config, Data, Style
 
 from streamlit_vizzu import VizzuChart
 
-data_frame = pd.read_csv(
 data_frame = pd.read_csv("football-transfers/football_transfers_cleaned.csv", dtype={"year": str})
 #data_frame = pd.read_csv("./football_transfers_cleaned.csv", dtype={"year": str})
 
