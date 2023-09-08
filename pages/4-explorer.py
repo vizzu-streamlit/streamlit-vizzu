@@ -2,8 +2,14 @@ from __future__ import annotations
 
 import pandas as pd
 import streamlit as st
+import streamlit.components.v1 as components
 
 from streamlit_vizzu import Config, Data, Style, VizzuChart
+
+# Include Plausible tracking code
+with open('plausible/explorer.html', "r") as f:
+    html_code = f.read()
+    components.html(html_code, height=0, width=0)
 
 data_frame = pd.read_csv("data/sales.csv")
 data = Data()
