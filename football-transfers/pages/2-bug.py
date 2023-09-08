@@ -17,25 +17,28 @@ year = st.slider("Pick a year", min_value=1992, max_value=2022, value=2020)
 
 compare_title = "Transfer fees spent in "
 x = "fee[m€]"
-filter = f"record.year == '{year}' && record.transfer_movement == 'in' && record.club_name =='Arsenal FC'"
+filter = (
+    f"record.year == '{year}' && record.transfer_movement == 'in' "
+    "&& record.club_name =='Arsenal FC'"
+)
 
 
 chart.animate(
-    Data.filter(filter),	
+    Data.filter(filter),
     Config(
-        {"x": x, 
-		"y": "player_name", 
-		"color": "player_name",
-		"sort": "byValue",
-		"label": x,
-		"title": f"{compare_title}{year}"}
+        {
+            "x": x,
+            "y": "player_name",
+            "color": "player_name",
+            "sort": "byValue",
+            "label": x,
+            "title": f"{compare_title}{year}",
+        }
     ),
     Style(
         {
             "plot": {
-                "xAxis": {
-					"label": {
-						"numberScale": "shortScaleSymbolUS"}},
+                "xAxis": {"label": {"numberScale": "shortScaleSymbolUS"}},
                 "marker": {
                     "colorPalette": (
                         "#b74c20FF #c47f58FF #1c9761FF #ea4549FF #875792FF #3562b6FF "
