@@ -2,12 +2,9 @@ import pandas as pd
 import streamlit as st
 from ipyvizzu.animation import Config, Data, Style
 from streamlit_vizzu import VizzuChart
-import streamlit.components.v1 as components
+from plausible.track import track
 
-# Include Plausible tracking code
-with open('plausible/slider.html', "r") as f:
-    html_code = f.read()
-    components.html(html_code, height=0, width=0)
+track("Intro slider app")
 
 data_frame = pd.read_csv("data/music.csv", dtype={"Year": str})
 

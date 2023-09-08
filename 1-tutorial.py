@@ -1,12 +1,9 @@
 import pandas as pd
 import streamlit as st
 from streamlit_vizzu import Config, Data, VizzuChart
-import streamlit.components.v1 as components
+from plausible.track import track
 
-# Include Plausible tracking code
-with open('plausible/tutorial.html', "r") as f:
-    html_code = f.read()
-    components.html(html_code, height=0, width=0)
+track("Intro app tutorial")
 
 # Create a VizzuChart object with the default height and width
 chart = VizzuChart()

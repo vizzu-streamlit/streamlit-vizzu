@@ -8,14 +8,11 @@ import streamlit as st
 from ipyvizzu.animation import Config, Data, Style
 from ipyvizzustory import Slide, Step
 from ipyvizzustory.env.py.story import Story
-import streamlit.components.v1 as components
 
 from streamlit_vizzu import VizzuChart
+from plausible.track import track
 
-# Include Plausible tracking code
-with open('plausible/explorer_to_story.html', "r") as f:
-    html_code = f.read()
-    components.html(html_code, height=0, width=0)
+track("Intro app explorer to story")
 
 
 data_frame = pd.read_csv("data/music2.csv", dtype={"Year": str})
