@@ -4,8 +4,10 @@ from ipyvizzu.animation import Config, Data, Style
 
 from streamlit_vizzu import VizzuChart
 
-data_frame = pd.read_csv("football-transfers/football_transfers_cleaned.csv", dtype={"year": str})
-#data_frame = pd.read_csv("./football_transfers_cleaned.csv", dtype={"year": str})
+data_frame = pd.read_csv(
+    "football-transfers/football_transfers_cleaned.csv", dtype={"year": str}
+)
+# data_frame = pd.read_csv("./football_transfers_cleaned.csv", dtype={"year": str})
 
 data = Data()
 data.add_df(data_frame, max_rows=25000)
@@ -19,34 +21,36 @@ col1, col2, col3, col4, col5 = st.columns(5)
 
 compare_by = col1.radio("Compare by", ["Fees earned", "Fees spent", "Balance"], index=2)
 if compare_by == "Fees earned":
-	compare_title = "Transfer fees earned in "
-	x = "fee[m€]"
-	filter = f"record.year <= '{year}' && record.transfer_movement == 'out'"
+    compare_title = "Transfer fees earned in "
+    x = "fee[m€]"
+    filter = f"record.year <= '{year}' && record.transfer_movement == 'out'"
 elif compare_by == "Fees spent":
-	compare_title = "Transfer fees spent in "
-	x = "fee[m€]"
-	filter = f"record.year <= '{year}' && record.transfer_movement == 'in'"
+    compare_title = "Transfer fees spent in "
+    x = "fee[m€]"
+    filter = f"record.year <= '{year}' && record.transfer_movement == 'in'"
 else:
-	compare_title = "Balance of transfer fees in "
-	x = "fee_real[m€]"
-	filter = f"record.year <= '{year}'" 
-	
-order_by = col2.radio("Order by", ["Value","Alphabet"])
+    compare_title = "Balance of transfer fees in "
+    x = "fee_real[m€]"
+    filter = f"record.year <= '{year}'"
+
+order_by = col2.radio("Order by", ["Value", "Alphabet"])
 if order_by == "Value":
-	sort = "byValue"
+    sort = "byValue"
 else:
-	sort = "none"
+    sort = "none"
 
 
 chart.animate(
     Data.filter(filter),
     Config(
-        {"x": x, 
-		"y": "club_name", 
-		"color": "club_name",
-		"label": x,
-		"sort": sort,
-		"title": f"{compare_title}{year}"}
+        {
+            "x": x,
+            "y": "club_name",
+            "color": "club_name",
+            "label": x,
+            "sort": sort,
+            "title": f"{compare_title}{year}",
+        }
     ),
     Style(
         {
@@ -67,8 +71,8 @@ chart.animate(
             }
         }
     ),
-    delay = 0,
-	#duration=0.2,
+    delay=0,
+    # duration=0.2,
     x={"easing": "linear", "delay": 0},
     y={"delay": 0},
     show={"delay": 0},
