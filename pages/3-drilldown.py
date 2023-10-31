@@ -25,16 +25,17 @@ style = Style(
                 },
             },
             "paddingLeft": "8em",
-        }
+        },
     }
 )
 
-chart.animate(data, style)
 
 chart.feature("tooltip", True)
+
 bar_clicked = chart.get("marker.categories.Year")
 
 if bar_clicked is None:
+    chart.animate(data, style)
     chart.animate(
         Data.filter(),
         Config(
