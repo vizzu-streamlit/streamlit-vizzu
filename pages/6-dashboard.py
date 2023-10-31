@@ -5,18 +5,28 @@ from typing import List
 import numpy as np
 import pandas as pd
 import streamlit as st
-from ipyvizzu.animation import Config, Data, Style
-
-from streamlit_vizzu import VizzuChart
+from streamlit_vizzu import Config, Data, Style, VizzuChart
+from ipyvizzustory import Slide, Step
+from ipyvizzustory.env.py.story import Story
 
 data_frame = pd.read_csv("data/music2.csv", dtype={"Year": str})
 
 data = Data()
-data.add_data_frame(data_frame)
+data.add_df(data_frame)
 
-chart = VizzuChart(key="vizzu", height=380)
+chart = VizzuChart(key="vizzu", height=380, width = 500)
 chart.animate(data)
+chart2 = VizzuChart(key="vizzu2", height=200, width = 180)
+chart2.animate(data)
+chart3 = VizzuChart(key="vizzu3", height=200, width = 180)
+chart3.animate(data)
+
+if "story" not in st.session_state:
+    st.session_state.story = Story(data)
+st.session_state.story.set_feature("tooltip", True)
 chart.feature("tooltip", True)
+if "lastanim" not in st.session_state:
+    st.session_state.lastanim = []
 
 split = st.session_state.get("split", False)
 chart_type = st.session_state.get("chart_type", "Column")
@@ -103,6 +113,8 @@ filter = " && ".join([filter_metric, filter_year, filter_format])
 
 # -- set config --
 config = {"title": title, "y": y, "x": x, "color": color, "label": label}
+config2 = {"title": "Share of Formats", "x": [measure, "Format"], "legend": None, "y": None, "coordSystem": "polar", "color": color, "label": "Format"}
+config3 = {"title": "Top 3 Years", "y": measure, "x": {"set": "Year", "range":{"max":3}}, "sort": "byValue", "reverse": True, "legend": None, "color": None, "label": measure}
 
 config["sort"] = "byValue" if sort and stack_by != "Year" else "none"
 
@@ -145,7 +157,7 @@ else:
     xAxisLabelColor = "#00000000"
     plotPaddingLeft = "9em"
 
-if split is True and stack_by == "Format":
+if split is True and stack_by != "Format":
     yAxisLabelColor = "#00000000"
 
 style = Style(
@@ -185,8 +197,15 @@ style = Style(
     }
 )
 
-# -- display chart --
+# -- display charts --
+chart3.animate(Data.filter(filter), Config(config3), style, delay=1.4, duration=1)
+output = chart3.show()
+
+chart2.animate(Data.filter(filter), Config(config2), style, delay=0.7, duration=0.7)
+output = chart2.show()
+
 chart.animate(Data.filter(filter), Config(config), style, delay=0, duration=0.7)
+st.session_state.lastanim = [Data.filter(filter), Config(config), style]
 output = chart.show()
 
 # -- set controllers under the chart --
@@ -201,4 +220,20 @@ chart_type = col3.radio(
     key="chart_type",
     horizontal=True,
     disabled=stack_by != "Year",
+)
+
+save_all = st.checkbox("Save all", value=True)
+save_button = st.button("Save animation")
+if st.session_state.lastanim:
+    if save_all:
+        st.session_state.story.add_slide(Slide(Step(*st.session_state.lastanim)))
+    else:
+        if save_button:
+            st.session_state.story.add_slide(Slide(Step(*st.session_state.lastanim)))
+
+download_button = st.download_button(
+    label="Download Story",
+    data=st.session_state.story.to_html(),
+    file_name="story.html",
+    mime="text/html",
 )
