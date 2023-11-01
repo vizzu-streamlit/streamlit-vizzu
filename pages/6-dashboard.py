@@ -125,7 +125,7 @@ config2 = {
 config3 = {
     "title": "Top 3 Years",
     "y": measure,
-    "x": {"set": "Year", "range": {"max": 3}},
+    "x": {"set": "Year", "range": {"max": 3 - 0.000001}},  # known bug
     "sort": "byValue",
     "reverse": True,
     "legend": None,
@@ -215,15 +215,19 @@ style = Style(
 )
 
 # -- display charts --
-chart3.animate(Data.filter(filter), Config(config3), style, delay=1.4, duration=1)
-output = chart3.show()
-
+left, right = st.columns([3, 1])
 chart2.animate(Data.filter(filter), Config(config2), style, delay=0.7, duration=0.7)
-output = chart2.show()
+with right:
+    output = chart2.show()
+
+chart3.animate(Data.filter(filter), Config(config3), style, delay=1.4, duration=1)
+with right:
+    output = chart3.show()
 
 chart.animate(Data.filter(filter), Config(config), style, delay=0, duration=0.7)
 st.session_state.lastanim = [Data.filter(filter), Config(config), style]
-output = chart.show()
+with left:
+    output = chart.show()
 
 # -- set controllers under the chart --
 col3, col4 = st.columns(2)
