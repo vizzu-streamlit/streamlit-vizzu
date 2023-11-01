@@ -52,7 +52,7 @@ if bar_clicked is None:
         delay="0",
     )
 else:
-    chart.animate(Data.filter(f"record['Year'] == '{bar_clicked}'"))
+    chart.animate(Data.filter(f"record['Year'] == '{bar_clicked}' && record['Revenue[$]'] !== 0"))
     chart.animate(
         Config.groupedColumn(
             {
