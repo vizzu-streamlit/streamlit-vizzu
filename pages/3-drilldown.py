@@ -1,5 +1,4 @@
 import pandas as pd
-import streamlit as st
 from streamlit_vizzu import Config, Data, Style, VizzuChart
 
 chart = VizzuChart(rerun_on_click=True, default_duration=1, height=380)

@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-from streamlit_vizzu import Config, Data, Style, VizzuChart
+from streamlit_vizzu import Config, Data, Style, VizzuChart  # noqa
 
 # Create a VizzuChart object with the default height and width
 chart = VizzuChart()
