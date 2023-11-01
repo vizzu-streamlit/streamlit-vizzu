@@ -14,11 +14,11 @@ data_frame = pd.read_csv("data/music2.csv", dtype={"Year": str})
 data = Data()
 data.add_df(data_frame)
 
-chart = VizzuChart(key="vizzu", height=380, width = 500)
+chart = VizzuChart(key="vizzu", height=380, width=500)
 chart.animate(data)
-chart2 = VizzuChart(key="vizzu2", height=200, width = 180)
+chart2 = VizzuChart(key="vizzu2", height=200, width=180)
 chart2.animate(data)
-chart3 = VizzuChart(key="vizzu3", height=200, width = 180)
+chart3 = VizzuChart(key="vizzu3", height=200, width=180)
 chart3.animate(data)
 
 if "story" not in st.session_state:
@@ -113,8 +113,25 @@ filter = " && ".join([filter_metric, filter_year, filter_format])
 
 # -- set config --
 config = {"title": title, "y": y, "x": x, "color": color, "label": label}
-config2 = {"title": "Share of Formats", "x": [measure, "Format"], "legend": None, "y": None, "coordSystem": "polar", "color": color, "label": "Format"}
-config3 = {"title": "Top 3 Years", "y": measure, "x": {"set": "Year", "range":{"max":3}}, "sort": "byValue", "reverse": True, "legend": None, "color": None, "label": measure}
+config2 = {
+    "title": "Share of Formats",
+    "x": [measure, "Format"],
+    "legend": None,
+    "y": None,
+    "coordSystem": "polar",
+    "color": color,
+    "label": "Format",
+}
+config3 = {
+    "title": "Top 3 Years",
+    "y": measure,
+    "x": {"set": "Year", "range": {"max": 3}},
+    "sort": "byValue",
+    "reverse": True,
+    "legend": None,
+    "color": None,
+    "label": measure,
+}
 
 config["sort"] = "byValue" if sort and stack_by != "Year" else "none"
 
