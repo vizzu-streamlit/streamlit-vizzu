@@ -5,16 +5,14 @@ from typing import List
 import numpy as np
 import pandas as pd
 import streamlit as st
-from ipyvizzu.animation import Config, Data, Style
+from streamlit_vizzu import Config, Data, Style, VizzuChart
 from ipyvizzustory import Slide, Step
 from ipyvizzustory.env.py.story import Story
-
-from streamlit_vizzu import VizzuChart
 
 data_frame = pd.read_csv("data/music2.csv", dtype={"Year": str})
 
 data = Data()
-data.add_data_frame(data_frame)
+data.add_df(data_frame)
 
 chart = VizzuChart(key="vizzu", height=380)
 chart.animate(data)
