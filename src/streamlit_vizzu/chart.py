@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 from typing import Any
-from importlib_metadata import version
+from importlib.metadata import version
 from distutils.version import StrictVersion
 import uuid
 
