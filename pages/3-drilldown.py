@@ -1,5 +1,12 @@
 import pandas as pd
 from streamlit_vizzu import Config, Data, Style, VizzuChart
+import streamlit.components.v1 as components
+
+# Include Plausible tracking code
+with open('plausible/drilldown.html', "r") as f:
+    html_code = f.read()
+    components.html(html_code, height=0, width=0)
+
 
 chart = VizzuChart(rerun_on_click=True, default_duration=1, height=380)
 
