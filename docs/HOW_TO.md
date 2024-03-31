@@ -128,7 +128,7 @@ With each series of animations, you can pass `duration` and `delay` values.
 You can also pass `default_duration` to specify a default duration (in seconds) that
 should be used for all animations that occur in a chart.
 
-For more details about animations, see https://ipyvizzu.vizzuhq.com/tutorial/01_15_animation_options.html
+For more details about animations, see https://ipyvizzu.vizzuhq.com/latest/tutorial/animation_options/
 
 ## How to get the value of the last item clicked on the chart
 
