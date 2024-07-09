@@ -6,7 +6,7 @@ chart = VizzuChart(rerun_on_click=True, default_duration=1, height=380)
 data_frame = pd.read_csv("data/music.csv", dtype={"Year": str})
 
 data = Data()
-data.add_data_frame(data_frame)
+data.add_df(data_frame)
 
 style = Style(
     {
@@ -52,7 +52,7 @@ if bar_clicked is None:
         delay="0",
     )
 else:
-    chart.animate(Data.filter(f"record['Year'] == '{bar_clicked}'"))
+    chart.animate(Data.filter(f"record['Year'] == '{bar_clicked}' && record['Revenue[$]'] !== 0"))
     chart.animate(
         Config.groupedColumn(
             {
