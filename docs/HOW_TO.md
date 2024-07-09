@@ -78,7 +78,7 @@ df = pd.DataFrame(
 )
 
 data = Data()
-data.add_data_frame(df)
+data.add_df(df)
 chart.animate(data)
 
 bar_clicked = chart.get("marker.categories.a")

@@ -8,7 +8,7 @@ chart = VizzuChart()
 # Generate some data and add it to the chart
 df = pd.DataFrame({"cat": ["x", "y", "z"], "val": [1, 2, 3]})
 data = Data()
-data.add_data_frame(df)
+data.add_df(df)
 chart.animate(data)
 
 st.subheader(

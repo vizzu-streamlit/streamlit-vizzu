@@ -6,7 +6,7 @@ chart = VizzuChart(rerun_on_click=True, default_duration=1, height=380)
 data_frame = pd.read_csv("data/music.csv", dtype={"Year": str})
 
 data = Data()
-data.add_data_frame(data_frame)
+data.add_df(data_frame)
 
 style = Style(
     {
