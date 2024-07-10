@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
     name="streamlit-vizzu",
-    version="0.1.6",
+    version="0.2.0",
     author="Zachary Blackwoood",
     author_email="zachary@streamlit.io",
     description=(
@@ -20,5 +20,5 @@ setuptools.setup(
     include_package_data=True,
     classifiers=[],
     python_requires=">=3.7",
-    install_requires=["streamlit>=1.13.0", "ipyvizzu>=0.15.0,<0.17.0"],
+    install_requires=["streamlit>=1.13.0", "ipyvizzu>=0.17.0"],
 )
