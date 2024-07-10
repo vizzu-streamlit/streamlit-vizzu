@@ -73,22 +73,22 @@ the following below the chart:
 
 ```json
 {
-  "position": {
-    "x": 373,
-    "y": 335
+  "detail": {
+    "position": {
+      "x": 373,
+      "y": 335
+    },
+    "pointerId": 1
   },
-  "coords": {
-    "x": 0.534454,
-    "y": 0.186174
-  },
-  "marker": {
+  "target": {
     "categories": {
       "a": "y"
     },
     "values": {
       "b": 2
     },
-    "id": 1
+    "tagName": "plot-marker",
+    "index": 0
   }
 }
 ```
@@ -97,10 +97,15 @@ If you want to just present information about the bar which was clicked, you can
 do something like this:
 
 ```python
-data = chart.show()
+output = chart.show()
 
-if data is not none and "marker" in data:
-    st.write("value of clicked bar:", data["marker"]["values"]["b"])
+if (
+    output is not None
+    and "target" in output
+    and "tagName" in output["target"]
+    and output["target"]["tagName"] == "plot-marker"
+):
+    st.write("value of clicked bar:", output["target"]["values"]["b"])
 ```
 
 You should then see something like the following after you click on a bar:

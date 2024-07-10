@@ -107,7 +107,7 @@ class VizzuChart(Chart):
     def get(self, dotted_key: str, default: Any = None) -> Any:
         """
         Pass a dot-separated key to access a specific value from the latest
-        click (e.g. "marker.categories.a").
+        click (e.g. "target.categories.a").
         If there hasn't been a click, or that path isn't found, return
         the default value.
         """

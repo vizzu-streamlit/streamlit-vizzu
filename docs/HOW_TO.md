@@ -33,8 +33,8 @@ If you haven't yet clicked on the chart, or have clicked on something other
 than a bar representing an "a" value, this will return None
 
 ```python
-# This is equivalent to chart["marker"]["categories"]["a"], but won't raise an exception if the nested value isn't found.
-bar_clicked = chart.get("marker.categories.a")
+# This is equivalent to chart["target"]["categories"]["a"], but won't raise an exception if the nested value isn't found.
+bar_clicked = chart.get("target.categories.a")
 ```
 
 Finally, you can use the value of the last bar clicked to filter your chart
@@ -81,7 +81,7 @@ data = Data()
 data.add_df(df)
 chart.animate(data)
 
-bar_clicked = chart.get("marker.categories.a")
+bar_clicked = chart.get("categories.a")
 
 if bar_clicked is None:
     chart.animate(Data.filter())
@@ -146,18 +146,19 @@ There are 3 different ways to access the latest item clicked:
 2.  Alternatively, you can get the data from the chart itself
 
     ```python
-    marker = chart["marker"]
+    target = chart["target"]
     ```
 
     Note that this will raise an exception if the chart hasn't been
-    clicked, or if you've clicked on something besides a marker
+    clicked or if you clicked but not on a marker, a different event will be triggered,
+    in this case, you can check if target["tagName"] is equal to "plot-marker".
 
     To avoid these exceptions, you can use the `get` method on the chart,
     which accepts a dotted string for accessing nested values
     from the dictionary, and returns the default value (`None` by default) if this value isn't found
 
     ```python
-    dog = chart.get("marker.categories.dog", default="Collie")
+    dog = chart.get("target.categories.dog", default="Collie")
     ```
 
 3.  `st.session_state`

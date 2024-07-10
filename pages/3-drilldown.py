@@ -32,7 +32,7 @@ style = Style(
 
 chart.feature("tooltip", True)
 
-bar_clicked = chart.get("marker.categories.Year")
+bar_clicked = chart.get("target.categories.Year")
 
 if bar_clicked is None:
     chart.animate(data, style)
