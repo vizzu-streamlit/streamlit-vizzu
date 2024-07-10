@@ -69,7 +69,7 @@ Pass any number of Animation objects (e.g. Data, Config, or Style objects), and 
 get(dotted_key: 'str', default: 'Any' = None) → Any
 ```
 
-Pass a dot-separated key to access a specific value from the latest click (e.g. "marker.categories.a"). If there hasn't been a click, or that path isn't found, return the default value.
+Pass a dot-separated key to access a specific value from the latest click (e.g. "target.categories.a"). If there hasn't been a click, or that path isn't found, return the default value.
 
 ---
 

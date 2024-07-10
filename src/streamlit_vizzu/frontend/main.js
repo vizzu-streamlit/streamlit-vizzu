@@ -8,7 +8,7 @@ function sendValue(value) {
 }
 
 function onChartClick(event) {
-    sendValue(event.data)
+    sendValue({target: event.target, detail: event.detail})
 }
 
 /**

@@ -8,7 +8,7 @@ chart = VizzuChart()
 # Generate some data and add it to the chart
 df = pd.DataFrame({"cat": ["x", "y", "z"], "val": [1, 2, 3]})
 data = Data()
-data.add_data_frame(df)
+data.add_df(df)
 chart.animate(data)
 
 st.subheader(
@@ -25,8 +25,13 @@ if st.checkbox("Swap"):
 # Show the chart in the app!
 output = chart.show()
 
-if output is not None and "marker" in output:
-    st.write("value of clicked bar:", output["marker"]["values"]["val"])
+if (
+    output is not None
+    and "target" in output
+    and "tagName" in output["target"]
+    and output["target"]["tagName"] == "plot-marker"
+):
+    st.write("value of clicked bar:", output["target"]["values"]["val"])
 
 st.caption("Data shown on the chart")
 st.dataframe(df)

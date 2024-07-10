@@ -13,7 +13,7 @@ def get_data() -> pd.DataFrame:
 
 data = Data()
 
-data.add_data_frame(get_data())
+data.add_df(get_data())
 
 vchart = VizzuChart(height=360, return_clicks=False)
 

@@ -7,7 +7,7 @@ from streamlit_vizzu import VizzuChart
 data_frame = pd.read_csv("data/music.csv", dtype={"Year": str})
 
 data = Data()
-data.add_data_frame(data_frame)
+data.add_df(data_frame)
 
 chart = VizzuChart(key="vizzu", height=380)
 chart.animate(data)
