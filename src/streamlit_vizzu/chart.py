@@ -137,7 +137,7 @@ class VizzuChart(Chart):
     def _repr_html_(self) -> str:
         return f'<div id="{self.chart_id}"><script>{self._get_script()}</script></div>'
 
-    def _animation_to_js(self, *animations: Any, **options: Any):
+    def _animation_to_js(self, *animations: Any, anim_id: str, **options: Any):
         if self.ipyvizzu_version < StrictVersion("0.15.0"):
             animation = self._merge_animations(animations)
             animate = Animate(animation, options)
@@ -152,7 +152,7 @@ class VizzuChart(Chart):
 
         animation = AnimationMerger.merge_animations(animations)
         animate = Animate(animation, options)
-        self._last_anim = uuid.uuid4().hex[:7]
+        self._last_anim = anim_id
         return DisplayTemplate.ANIMATE.format(
             display_target=self._display_target.value,
             chart_id=self._chart_id,
@@ -161,13 +161,18 @@ class VizzuChart(Chart):
             **animate.dump(),
         )
 
-    def animate(self, *animations: Any, **options: Any):
+    def animate(self, *animations: Any, anim_id: str | None = None, **options: Any):
         """
         Pass any number of Animation objects (e.g. Data, Config, or Style objects), and
         any options that should be applied to them.
         """
         if self.default_duration and "duration" not in options:
             options["duration"] = self.default_duration
-        js = self._animation_to_js(*animations, **options)
+        if anim_id is None:
+            try:
+                anim_id = str(hex(hash(tuple(animations))))[2:9]
+            except TypeError:
+                anim_id = uuid.uuid4().hex[:7]
+        js = self._animation_to_js(*animations, anim_id=anim_id, **options)
         js = js.replace("(element,", f"(document.getElementById('{self.div_id}'),")
         self.animations.append(js)
