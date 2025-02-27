@@ -74,9 +74,7 @@ title = f"Music {titleMeasure} by {stack_by} " + (
 filter_metric = "record['Metric'] == " + (
     "'Units'"
     if compare_by != "Revenue"
-    else "'Value (Adjusted)'"
-    if adjust
-    else "'Value'"
+    else "'Value (Adjusted)'" if adjust else "'Value'"
 )
 
 # -- choose grouping category --
