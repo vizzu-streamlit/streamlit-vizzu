@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
     name="streamlit-vizzu",
-    version="0.2.0",
+    version="0.2.1",
     author="Zachary Blackwoood",
     author_email="zachary@streamlit.io",
     description=(
